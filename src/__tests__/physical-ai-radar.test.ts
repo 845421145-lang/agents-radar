@@ -67,6 +67,10 @@ describe("OOMWOO Physical AI Radar", () => {
       signal("New LLM Model", "An open source language model release for developers."),
       signal("Agent Framework", "A Python agent framework and developer SDK."),
       signal("Water Bottle", "A normal insulated water bottle."),
+      signal(
+        "AI Hardware Scene Is Booming",
+        "A conference roundup says the AI hardware scene is booming, without naming a product.",
+      ),
     ];
     const result = prefilterSignals(signals);
     expect(result.kept.map((item) => item.title)).toEqual(
@@ -78,7 +82,13 @@ describe("OOMWOO Physical AI Radar", () => {
       ]),
     );
     expect(result.kept.map((item) => item.title)).not.toEqual(
-      expect.arrayContaining(["AI CRM SaaS", "New LLM Model", "Agent Framework", "Water Bottle"]),
+      expect.arrayContaining([
+        "AI CRM SaaS",
+        "New LLM Model",
+        "Agent Framework",
+        "Water Bottle",
+        "AI Hardware Scene Is Booming",
+      ]),
     );
   });
 
