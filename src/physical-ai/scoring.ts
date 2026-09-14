@@ -6,7 +6,9 @@ function manufacturingFit(
   candidate: OpportunityCandidate,
   profile: ManufacturingProfile,
 ): { score: number; coverage: number; notes: string[] } {
-  const requirements = candidate.manufacturing_requirements.value ?? [];
+  const requirements = Array.isArray(candidate.manufacturing_requirements.value)
+    ? candidate.manufacturing_requirements.value
+    : [];
   if (!requirements.length) return { score: 0, coverage: 0, notes: ["制造需求未知，不能给出高制造匹配分。"] };
   let total = 0;
   let known = 0;
@@ -46,7 +48,10 @@ export function scoreCandidate(
     candidate.ai_core_value.value ? 6 + (candidate.ai_value_proposition.value ? 4 : 0) : 0,
     10,
   );
-  const supply = clamp((candidate.manufacturing_requirements.value?.length ?? 0) >= 3 ? 4 : 2, 10);
+  const requirementCount = Array.isArray(candidate.manufacturing_requirements.value)
+    ? candidate.manufacturing_requirements.value.length
+    : 0;
+  const supply = clamp(requirementCount >= 3 ? 4 : 2, 10);
   const profit = clamp(candidate.price ? 8 : 3, 20); // no fabricated margin or BOM assumptions
   const differentiation = clamp((candidate.novelty_signal.value ? 4 : 2) + Math.min(4, sourceCount), 10);
   const launch = clamp(manufacture.coverage * 5, 5);
