@@ -26,7 +26,15 @@ export interface PhysicalRadarConfig {
 }
 
 const defaults: PhysicalRadarConfig = {
-  radar: { use_llm_classifier: true, llm_batch_size: 8, max_candidates_for_deep_analysis: 20, max_prefiltered_for_llm: 40, publish_issue: false, validate_threshold: 75, watch_threshold: 60 },
+  radar: {
+    use_llm_classifier: true,
+    llm_batch_size: 8,
+    max_candidates_for_deep_analysis: 20,
+    max_prefiltered_for_llm: 40,
+    publish_issue: false,
+    validate_threshold: 75,
+    watch_threshold: 60,
+  },
   sources: {},
   legacy_sources: {},
 };
