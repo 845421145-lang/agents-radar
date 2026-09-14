@@ -1,0 +1,115 @@
+{
+  "schema_version": "oomwoo.source-health.v1",
+  "sources": [
+    {
+      "source": "google_news",
+      "enabled": true,
+      "status": "ok",
+      "fetched_count": 450,
+      "accepted_count": 289,
+      "limitation": "Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:47.650Z"
+    },
+    {
+      "source": "indiegogo",
+      "enabled": true,
+      "status": "failed",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "Official endpoint availability may vary by region and platform policy.",
+      "error": "Error: HTTP 403",
+      "checked_at": "2026-09-14T10:56:47.176Z"
+    },
+    {
+      "source": "crowd_supply",
+      "enabled": true,
+      "status": "empty",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "Public catalog page, parsed conservatively. No claim of complete Crowd Supply coverage.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:47.403Z"
+    },
+    {
+      "source": "hacker_news",
+      "enabled": true,
+      "status": "ok",
+      "fetched_count": 180,
+      "accepted_count": 2,
+      "limitation": "Official HN API. Community attention is auxiliary evidence only, not demand proof.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:47.440Z"
+    },
+    {
+      "source": "product_hunt",
+      "enabled": true,
+      "status": "unconfigured",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "PRODUCTHUNT_TOKEN is not configured; no Product Hunt coverage was claimed.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:47.047Z"
+    },
+    {
+      "source": "kickstarter",
+      "enabled": false,
+      "status": "disabled",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "No documented public discovery API selected for V1; do not claim Kickstarter coverage.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:46.989Z"
+    },
+    {
+      "source": "amazon",
+      "enabled": false,
+      "status": "disabled",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "No compliant public sales/trend API selected for V1. Market Validation Agent should use approved commercial data.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:46.989Z"
+    },
+    {
+      "source": "tiktok_shop",
+      "enabled": false,
+      "status": "disabled",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "No stable, approved public discovery interface selected for V1.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:46.989Z"
+    },
+    {
+      "source": "temu",
+      "enabled": false,
+      "status": "disabled",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "No stable, approved public discovery interface selected for V1.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:46.989Z"
+    },
+    {
+      "source": "shopee",
+      "enabled": false,
+      "status": "disabled",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "No stable, approved public discovery interface selected for V1.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:46.989Z"
+    },
+    {
+      "source": "platform_1688",
+      "enabled": false,
+      "status": "disabled",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "limitation": "No stable, approved public discovery interface selected for V1.",
+      "error": null,
+      "checked_at": "2026-09-14T10:56:46.989Z"
+    }
+  ]
+}
