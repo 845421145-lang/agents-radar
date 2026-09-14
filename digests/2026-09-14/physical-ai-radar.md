@@ -5,9 +5,9 @@
 ## 今日结论
 
 - 扫描原始信号：**630**
-- 通过实体 AI 第一层过滤：**277**
+- 通过实体 AI 第一层过滤：**279**
 - Physical AI candidates：**20**
-- VALIDATE：**0**；WATCH：**0**；过滤：**353**
+- VALIDATE：**0**；WATCH：**0**；过滤：**351**
 - 今日最值得看：**没有达到 VALIDATE/WATCH 门槛的产品机会。**
 
 
@@ -18,13 +18,13 @@
 
 # 已过滤
 
-共 **353** 条信号未进入主报告，主要包括纯 SaaS、API、模型发布、Agent/开发框架、论文与没有实体 AI 价值证据的信息。
+共 **351** 条信号未进入主报告，主要包括纯 SaaS、API、模型发布、Agent/开发框架、论文与没有实体 AI 价值证据的信息。
 
 # 数据源健康度与覆盖限制
 
 | 来源 | 状态 | 抓取 | 通过过滤 | 覆盖限制 |
 |---|---:|---:|---:|---|
-| google_news | ok | 450 | 289 | Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data. |
+| google_news | ok | 450 | 277 | Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data. |
 | indiegogo | failed | 0 | 0 | Official endpoint availability may vary by region and platform policy. |
 | crowd_supply | empty | 0 | 0 | Public catalog page, parsed conservatively. No claim of complete Crowd Supply coverage. |
 | hacker_news | ok | 180 | 2 | Official HN API. Community attention is auxiliary evidence only, not demand proof. |

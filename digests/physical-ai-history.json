@@ -97,7 +97,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.5075000000000001
+          "confidence": 0.48000000000000004
         }
       ],
       "momentum": "new",
@@ -114,7 +114,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.425
+          "confidence": 0.4525
         }
       ],
       "momentum": "new",
@@ -131,7 +131,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.24900000000000003
+          "confidence": 0.5075000000000001
         }
       ],
       "momentum": "new",
@@ -165,7 +165,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.24900000000000003
+          "confidence": 0.5075000000000001
         }
       ],
       "momentum": "new",
@@ -335,7 +335,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.5075000000000001
+          "confidence": 0.48000000000000004
         }
       ],
       "momentum": "new",
@@ -437,7 +437,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.5075000000000001
+          "confidence": 0.24900000000000003
         }
       ],
       "momentum": "new",
@@ -488,7 +488,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.4525
+          "confidence": 0.24900000000000003
         }
       ],
       "momentum": "new",
@@ -522,7 +522,75 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
+          "confidence": 0.24900000000000003
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "b25267caf49a2c66": {
+      "id": "b25267caf49a2c66",
+      "canonical_name": "deepx signs global edge mass production partnership with aaeon at computex taipei 2026 yahoo finance",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
           "confidence": 0.48000000000000004
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "8b4aa33914b65343": {
+      "id": "8b4aa33914b65343",
+      "canonical_name": "lmt iot infineon partner on connected edge product development telecompaper",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.24900000000000003
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "28031ab9f45aec2b": {
+      "id": "28031ab9f45aec2b",
+      "canonical_name": "deepx inks global edge mass production partnership with aaeon eetasia com",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.24900000000000003
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "f7782dd175e2dfdc": {
+      "id": "f7782dd175e2dfdc",
+      "canonical_name": "nvidia unveils edge products jetson t3000 t2000 accelerates robotics strategy in japan finance biggo com",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.24900000000000003
         }
       ],
       "momentum": "new",

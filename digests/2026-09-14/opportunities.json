@@ -1,6 +1,6 @@
 {
   "schema_version": "oomwoo.opportunity-candidate.v1",
-  "generated_at": "2026-09-14T11:09:32.725Z",
+  "generated_at": "2026-09-14T14:59:11.360Z",
   "candidates": [
     {
       "id": "0de0ec718bbb3a9c",
@@ -40,17 +40,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Real-time edge AI inference in industrial environments with low latency and high reliability.",
+        "value": "Enabling real-time, low-latency AI inference at the edge for industrial machinery and systems without relying on cloud connectivity.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Manufacturers, industrial system integrators, automation engineers",
+        "value": "Industrial equipment manufacturers, factory automation system integrators, manufacturing plants deploying smart machines.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Edge AI processing at the device level with Qualcomm collaboration for optimized performance and power efficiency.",
+        "value": "Edge AI processing with reduced latency, improved data privacy, and offline reliability for industrial control and monitoring applications.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -59,6 +59,8 @@
           "pcb_electronics",
           "embedded_firmware",
           "ai_software_integration",
+          "sensors",
+          "final_assembly",
           "testing",
           "supply_chain_integration"
         ],
@@ -76,7 +78,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Visteon's D6Sigma line developed with Qualcomm for edge AI in industrial settings; implies integration of AI chipsets into embedded systems.",
+        "value": "Collaboration between Visteon and Qualcomm to develop a dedicated edge AI product line for industrial use cases.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -86,7 +88,7 @@
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTmlfbjVUemRUUFFzYzNqNGM0NG9rSGpMOXQwMFFvNVRyeDN0Y292WXhtYkxicGg2LURLZm1ZNzJsSkhVVjFZNlJaZ1JGTXItY25RWHFWN09sd3lDMnNCUjhUQVRQOTB2aVpkQU5EYzRwZFVRMm1XTVZ6NkM2T1VTLVpRNEtHT080cjRFTzVZSW1EZVhhd1VtM0hzeUJLZ0pteXc3SHZtUkVvZmp1V2diRDVra3QtNVZLV0ZOZW9FYUV2eHZXU0wxd3FEcHZNUmpHdnhCS0ZjV05GS2gtVTY4TjAzOThNdEdfNmFyVm80aEVQQnZ6TFk5RjRoNVQxX2pCQ3hSUEZEbkVlLThHNVVz?oc=5",
           "title": "Visteon Introduces D6Sigma, a New Edge AI Product Line for Industrial Automation, Developed in Close Collaboration with Qualcomm - PR Newswire",
           "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.268Z",
+          "observed_at": "2026-09-14T14:57:46.565Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPTmlfbjVUemRUUFFzYzNqNGM0NG9rSGpMOXQwMFFvNVRyeDN0Y292WXhtYkxicGg2LURLZm1ZNzJsSkhVVjFZNlJaZ1JGTXItY25RWHFWN09sd3lDMnNCUjhUQVRQOTB2aVpkQU5EYzRwZFVRMm1XTVZ6NkM2T1VTLVpRNEtHT080cjRFTzVZSW1EZVhhd1VtM0hzeUJLZ0pteXc3SHZtUkVvZmp1V2diRDVra3QtNVZLV0ZOZW9FYUV2eHZXU0wxd3FEcHZNUmpHdnhCS0ZjV05GS2gtVTY4TjAzOThNdEdfNmFyVm80aEVQQnZ6TFk5RjRoNVQxX2pCQ3hSUEZEbkVlLThHNVVz?oc=5\" target=\"_blank\"&gt;Visteon Introduces D6Sigma, a New Edge AI Product Line fo",
           "fact_status": "FACT"
         }
@@ -112,6 +114,8 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
+          "sensors 能力档案未确认。",
+          "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
           "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
@@ -121,8 +125,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the form factor of D6Sigma (e.g., module, board, system)?",
-        "Are there public specs on inference speed, power draw, or supported models?"
+        "What specific industrial use cases does D6Sigma target (e.g., predictive maintenance, quality inspection)?",
+        "Is the hardware designed for retrofitting existing machinery or new installations?",
+        "Are there public benchmarks or performance metrics available for D6Sigma in real-world deployments?"
       ]
     },
     {
@@ -163,17 +168,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Enabling real-time AI decision-making at the edge for industrial control systems.",
+        "value": "Providing a scalable, embedded AI solution for industrial environments requiring localized decision-making and minimal latency.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Industrial equipment OEMs, factory automation providers",
+        "value": "Industrial automation OEMs, machine builders, plant operators needing intelligent edge devices.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "D6Sigma as an edge AI platform for deployment in harsh industrial environments with integrated hardware-software stack.",
+        "value": "A purpose-built edge AI platform enabling autonomous operation of industrial systems with on-device intelligence.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -182,6 +187,8 @@
           "pcb_electronics",
           "embedded_firmware",
           "ai_software_integration",
+          "sensors",
+          "final_assembly",
           "testing",
           "supply_chain_integration"
         ],
@@ -199,7 +206,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Launch announcement of D6Sigma by Visteon with emphasis on edge AI capabilities; confirms product existence.",
+        "value": "Launch of D6Sigma as a distinct product line focused on edge AI in industrial settings.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -209,7 +216,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIZ2tUblVRTUlnbTBHVThpWGctYzJRLW9pWW10OUNCcFpBX1N1c1cyd0RWSHlRYVFLakVyM2Z4d0ZvNHBrX0I4MUctT0E2a3NtSVl2V1VVTzRlX3luQlR6NUV0LTBySEI5dmVBbU82Qlp4Q2JLR2VQajVtRDRJbVU?oc=5",
           "title": "Visteon launches D6Sigma edge AI product line - Engineering.com",
           "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.268Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBIZ2tUblVRTUlnbTBHVThpWGctYzJRLW9pWW10OUNCcFpBX1N1c1cyd0RWSHlRYVFLakVyM2Z4d0ZvNHBrX0I4MUctT0E2a3NtSVl2V1VVTzRlX3luQlR6NUV0LTBySEI5dmVBbU82Qlp4Q2JLR2VQajVtRDRJbVU?oc=5\" target=\"_blank\"&gt;Visteon launches D6Sigma edge AI product line&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Engineering.com&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -217,7 +224,7 @@
       "sources": [
         "google_news"
       ],
-      "confidence": 0.5075000000000001,
+      "confidence": 0.48000000000000004,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -235,6 +242,8 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
+          "sensors 能力档案未确认。",
+          "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
           "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
@@ -244,8 +253,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What are the key AI models supported by D6Sigma?",
-        "Is it available as a reference design or fully packaged module?"
+        "Does D6Sigma include pre-integrated AI models for common industrial tasks?",
+        "How is power consumption and thermal management handled in industrial environments?",
+        "Is there an SDK or developer ecosystem supporting custom model deployment?"
       ]
     },
     {
@@ -286,17 +296,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Accelerating deployment of edge AI in small-scale or entry-level robotics and IoT applications.",
+        "value": "Addressing the growing demand for cost-effective, entry-level edge AI computing platforms tailored for deployment in diverse environments.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Robotics startups, IoT developers, embedded system designers",
+        "value": "System integrators, robotics developers, IoT device makers, and startups building edge-AI-enabled products.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Neousys expects strong growth in edge AI devices—suggesting availability of compact, powerful AI-ready platforms.",
+        "value": "Affordable, high-performance edge AI hardware that enables local inference without dependency on cloud infrastructure.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -305,8 +315,11 @@
           "pcb_electronics",
           "embedded_firmware",
           "ai_software_integration",
+          "motors_actuators",
+          "sensors",
           "final_assembly",
-          "testing"
+          "testing",
+          "supply_chain_integration"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -322,7 +335,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Taipei Times reports Neousys anticipating strong growth in edge AI, implying product pipeline expansion.",
+        "value": "Neousys forecasting strong growth in edge AI, signaling market momentum and potential investment interest.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -332,7 +345,7 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tUm1QamtLWWZjRndHVDd3T3VMOGNmQ1hqY1I0NTV4X2xXSlpjbDVZUHdFdFVJQUlrM2RSX0Q1WnY4bGxXLXVPblItT2tlWnNfak1LaVV1SmFSR2hWRUJUR3lxVWNDMGR0S3hVZFJsQnMwWk9namc?oc=5",
           "title": "Neousys expecting strong edge AI growth - Taipei Times",
           "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5tUm1QamtLWWZjRndHVDd3T3VMOGNmQ1hqY1I0NTV4X2xXSlpjbDVZUHdFdFVJQUlrM2RSX0Q1WnY4bGxXLXVPblItT2tlWnNfak1LaVV1SmFSR2hWRUJUR3lxVWNDMGR0S3hVZFJsQnMwWk9namc?oc=5\" target=\"_blank\"&gt;Neousys expecting strong edge AI growth&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Taipei Times&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -340,7 +353,7 @@
       "sources": [
         "google_news"
       ],
-      "confidence": 0.425,
+      "confidence": 0.4525,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -358,8 +371,11 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
+          "motors_actuators 能力档案未确认。",
+          "sensors 能力档案未确认。",
           "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
+          "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -367,16 +383,17 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "Are specific edge AI product models from Neousys publicly announced?",
-        "What hardware specs (e.g., NPU, memory) do they support?"
+        "What are the key technical specs (e.g., compute power, memory, I/O) of the targeted edge AI hardware?",
+        "Is Neousys developing a new product line or scaling existing ones?",
+        "Are there specific verticals (e.g., retail, logistics, surveillance) driving this growth?"
       ]
     },
     {
-      "id": "1869c63a317f0114",
-      "product_name": "Nvidia unleashes robotics computer set for entry-level edge AI - electronicsweekly.com",
-      "canonical_name": "nvidia unleashes robotics computer set for entry level edge electronicsweekly com",
+      "id": "497db7d61eed232a",
+      "product_name": "Nvidia unleashes robotics computer set for entry-level edge AI - Electronics Weekly",
+      "canonical_name": "nvidia unleashes robotics computer set for entry level edge electronics weekly",
       "product_category": {
-        "value": "Robotics Computing",
+        "value": "Robotics & Edge AI Computing",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -409,17 +426,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Lowering barrier to entry for edge AI in robotics through affordable, pre-integrated computing platforms.",
+        "value": "Lowering the barrier to entry for deploying AI-driven robotics by offering affordable, powerful edge computing solutions.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Robotics developers, hobbyists, educational institutions",
+        "value": "Robotics startups, educational institutions, hobbyists, small-scale automation developers.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Nvidia's new robotics computer set designed for entry-level edge AI, enabling accessible AI-powered robotics development.",
+        "value": "A dedicated robotics computer optimized for edge AI workloads, enabling real-time perception, navigation, and decision-making.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -428,8 +445,12 @@
           "pcb_electronics",
           "embedded_firmware",
           "ai_software_integration",
+          "motors_actuators",
+          "sensors",
           "final_assembly",
-          "testing"
+          "testing",
+          "supply_chain_integration",
+          "mass_production"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -445,7 +466,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Nvidia launching a dedicated robotics computer set targeting entry-level edge AI—implies physical hardware product.",
+        "value": "Nvidia launching a dedicated robotics computer set for entry-level edge AI, indicating strategic push into accessible robotics hardware.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -453,10 +474,10 @@
         {
           "source": "google_news",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUJRUjdfMnBEbFRVaTY0ekp3WHd3Y01aeXZGMk1nMkcybWFrQXF0ak8xbTJZdW0yR2UyYXdfLVFiUUduemRJblhKRzNHNHZScmVWZS0yUktmWl9RbVdWdDFGek1uNnplLVZnV1BwbThrd3F3RFRTUHZHekhpYXRQM3puSjBGaHg1YnJoTDFHVllpeHg4T0xwbWFoTEZFM0N4MmFHMHFDX2FVOFlDSWJ4UDJOVVZIZlBRZDd6cnFPOTM5dU41WDdaYzR5VWdCR051c0E?oc=5",
-          "title": "Nvidia unleashes robotics computer set for entry-level edge AI - electronicsweekly.com",
+          "title": "Nvidia unleashes robotics computer set for entry-level edge AI - Electronics Weekly",
           "published_at": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
-          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUJRUjdfMnBEbFRVaTY0ekp3WHd3Y01aeXZGMk1nMkcybWFrQXF0ak8xbTJZdW0yR2UyYXdfLVFiUUduemRJblhKRzNHNHZScmVWZS0yUktmWl9RbVdWdDFGek1uNnplLVZnV1BwbThrd3F3RFRTUHZHekhpYXRQM3puSjBGaHg1YnJoTDFHVllpeHg4T0xwbWFoTEZFM0N4MmFHMHFDX2FVOFlDSWJ4UDJOVVZIZlBRZDd6cnFPOTM5dU41WDdaYzR5VWdCR051c0E?oc=5\" target=\"_blank\"&gt;Nvidia unleashes robotics computer set for entry-level edge AI&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;electronicsweekly.com&lt;/",
+          "observed_at": "2026-09-14T14:57:46.566Z",
+          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUJRUjdfMnBEbFRVaTY0ekp3WHd3Y01aeXZGMk1nMkcybWFrQXF0ak8xbTJZdW0yR2UyYXdfLVFiUUduemRJblhKRzNHNHZScmVWZS0yUktmWl9RbVdWdDFGek1uNnplLVZnV1BwbThrd3F3RFRTUHZHekhpYXRQM3puSjBGaHg1YnJoTDFHVllpeHg4T0xwbWFoTEZFM0N4MmFHMHFDX2FVOFlDSWJ4UDJOVVZIZlBRZDd6cnFPOTM5dU41WDdaYzR5VWdCR051c0E?oc=5\" target=\"_blank\"&gt;Nvidia unleashes robotics computer set for entry-level edge AI&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Electronics Weekly&lt;/fon",
           "fact_status": "FACT"
         }
       ],
@@ -481,8 +502,12 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
+          "motors_actuators 能力档案未确认。",
+          "sensors 能力档案未确认。",
           "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
+          "supply_chain_integration 能力档案未确认。",
+          "mass_production 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -490,16 +515,17 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the model name or SKU of the robotics computer?",
-        "What AI framework support does it offer (e.g., TensorRT, ROS)?"
+        "What is the target price point for this robotics computer?",
+        "Which AI frameworks and models are supported out-of-the-box?",
+        "Is it compatible with popular robot operating systems like ROS?"
       ]
     },
     {
-      "id": "a8134119093a6f6c",
-      "product_name": "Visteon stock rises on new edge AI product launch By Investing.com - Investing.com Nigeria",
-      "canonical_name": "visteon stock rises on edge product launch by investing com investing com nigeria",
+      "id": "d7ce6136c7fa2bd1",
+      "product_name": "Human-Centric Devices and the Rise of Always-On Edge AI Audio - audioXpress",
+      "canonical_name": "human centric devices and rise of always on edge audio audioxpress",
       "product_category": {
-        "value": "Automotive Electronics",
+        "value": "Edge AI Audio Device",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -532,23 +558,151 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Real-time decision-making in vehicle systems using edge AI without cloud dependency",
+        "value": "Enabling always-on, low-latency audio processing at the edge for human-centric applications such as voice assistants, hearing aids, or smart home devices without relying on cloud connectivity.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Automotive OEMs and Tier-1 suppliers",
+        "value": "Consumer electronics manufacturers, smart home device makers, audio hardware developers",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Enables low-latency, on-device AI inference for advanced driver assistance systems (ADAS) and in-cabin monitoring",
+        "value": "Real-time, privacy-preserving audio intelligence directly on-device with minimal power consumption and continuous operation.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "manufacturing_requirements": {
         "value": [
           "pcb_electronics",
+          "sensors",
+          "embedded_firmware",
+          "ai_software_integration",
+          "final_assembly",
+          "testing"
+        ],
+        "status": "INFERENCE",
+        "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
+      },
+      "supply_chain_signal": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "competition_signal": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "novelty_signal": {
+        "value": "Focus on 'always-on' edge AI audio systems that prioritize low power and real-time responsiveness in human-centric contexts.",
+        "status": "INFERENCE",
+        "rationale": "LLM 对来源新颖性信号的保守概括。"
+      },
+      "evidence": [
+        {
+          "source": "google_news",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNm9xSzNaU3Rram13WnhRZUcwU28wWUI4ZW0xYVpWbXRoMUlqWXh3UkVKVlNfWFlmWFM2bVVuWDk5eHYwQ29zSFh0WmZGZW1kY0JMcGk0ekh2UnotZE1NNmFGTzBUd1cyRzJ3SG80QkhzdVZHWm1aOWNrcjU2LUM4dG1md0MzcWJ6cmVYMjF5M2JveGhYN3cyTg?oc=5",
+          "title": "Human-Centric Devices and the Rise of Always-On Edge AI Audio - audioXpress",
+          "published_at": "Thu, 23 Jul 2026 07:00:00 GMT",
+          "observed_at": "2026-09-14T14:57:46.566Z",
+          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNm9xSzNaU3Rram13WnhRZUcwU28wWUI4ZW0xYVpWbXRoMUlqWXh3UkVKVlNfWFlmWFM2bVVuWDk5eHYwQ29zSFh0WmZGZW1kY0JMcGk0ekh2UnotZE1NNmFGTzBUd1cyRzJ3SG80QkhzdVZHWm1aOWNrcjU2LUM4dG1md0MzcWJ6cmVYMjF5M2JveGhYN3cyTg?oc=5\" target=\"_blank\"&gt;Human-Centric Devices and the Rise of Always-On Edge AI Audio&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;audioXpress&lt;/font&gt;",
+          "fact_status": "FACT"
+        }
+      ],
+      "sources": [
+        "google_news"
+      ],
+      "confidence": 0.5075000000000001,
+      "classification_method": "llm",
+      "score": {
+        "market_demand": 4,
+        "growth_timing": 7,
+        "ai_new_value": 10,
+        "manufacturing_fit": 0,
+        "supply_chain_feasibility": 4,
+        "profit_potential": 3,
+        "differentiation": 5,
+        "time_to_market": 0,
+        "opportunity_score": 33,
+        "risk_penalty": 17,
+        "final_score": 16,
+        "risk_notes": [
+          "pcb_electronics 能力档案未确认。",
+          "sensors 能力档案未确认。",
+          "embedded_firmware 能力档案未确认。",
+          "ai_software_integration 能力档案未确认。",
+          "final_assembly 能力档案未确认。",
+          "testing 能力档案未确认。",
+          "没有来源支持的售价信息，利润空间未验证。",
+          "只有发现信号，缺少直接需求或互动证据。",
+          "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
+        ]
+      },
+      "status": "REJECTED",
+      "next_validation_questions": [
+        "Is the device a standalone hardware unit or an SoM/module?",
+        "Does it include microphone arrays or beamforming capabilities?",
+        "What is the inference latency and power draw during continuous operation?"
+      ]
+    },
+    {
+      "id": "a8134119093a6f6c",
+      "product_name": "Visteon stock rises on new edge AI product launch By Investing.com - Investing.com Nigeria",
+      "canonical_name": "visteon stock rises on edge product launch by investing com investing com nigeria",
+      "product_category": {
+        "value": "Edge AI Automotive System",
+        "status": "INFERENCE",
+        "rationale": "LLM 基于给定公开信号归类。"
+      },
+      "physical_product": {
+        "value": true,
+        "status": "INFERENCE",
+        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
+      },
+      "ai_core_value": {
+        "value": true,
+        "status": "INFERENCE",
+        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
+      },
+      "company": null,
+      "region": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "price": null,
+      "price_range": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "traction_signal": null,
+      "market_signal": {
+        "value": "公开新品或行业报道信号",
+        "status": "INFERENCE",
+        "rationale": "仅基于新品发现来源。"
+      },
+      "problem_solved": {
+        "value": "Enabling real-time, on-vehicle decision-making for advanced driver assistance systems (ADAS) or in-cabin monitoring using local AI processing to reduce latency and bandwidth dependence.",
+        "status": "INFERENCE",
+        "rationale": "LLM 推断，非来源直接事实。"
+      },
+      "target_customer": {
+        "value": "Automotive OEMs, Tier-1 suppliers, ADAS system integrators",
+        "status": "INFERENCE",
+        "rationale": "LLM 推断，非来源直接事实。"
+      },
+      "ai_value_proposition": {
+        "value": "High-performance, production-ready edge AI processing integrated into vehicle control units for immediate response in safety-critical scenarios.",
+        "status": "INFERENCE",
+        "rationale": "LLM 推断，非来源直接事实。"
+      },
+      "manufacturing_requirements": {
+        "value": [
+          "pcb_electronics",
+          "motors_actuators",
+          "sensors",
           "embedded_firmware",
           "ai_software_integration",
           "final_assembly",
@@ -569,7 +723,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Visteon stock rises on new edge AI product launch",
+        "value": "Visteon's stock rise tied to a new edge AI product launch suggests deployment of a commercially viable embedded AI system in automotive applications.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -579,7 +733,7 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlgtalhEb19YRVdPZWl6T1I3SVFtQUxWZVRlNmVQYjZzeFZqeUhuV3ltVGhPczJrem9TMkNlMm1sa2ZjQWEtcDZQU3pLVHB6Xzk0ei1aM1dxUktPN3kydl9Wa3hkcHhRcWJKLVdBN1pEcG1qZWFtU0tTa1ZIU0FUT0VjeTRhNTlsalI3MUticjdsNXVlWVdtZjloY2M2bWtvOGxCQXlRX2JmcmtfMzNR?oc=5",
           "title": "Visteon stock rises on new edge AI product launch By Investing.com - Investing.com Nigeria",
           "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQlgtalhEb19YRVdPZWl6T1I3SVFtQUxWZVRlNmVQYjZzeFZqeUhuV3ltVGhPczJrem9TMkNlMm1sa2ZjQWEtcDZQU3pLVHB6Xzk0ei1aM1dxUktPN3kydl9Wa3hkcHhRcWJKLVdBN1pEcG1qZWFtU0tTa1ZIU0FUT0VjeTRhNTlsalI3MUticjdsNXVlWVdtZjloY2M2bWtvOGxCQXlRX2JmcmtfMzNR?oc=5\" target=\"_blank\"&gt;Visteon stock rises on new edge AI product launch By Investing.com&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Investing.com Nigeria&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -603,6 +757,8 @@
         "final_score": 16,
         "risk_notes": [
           "pcb_electronics 能力档案未确认。",
+          "motors_actuators 能力档案未确认。",
+          "sensors 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
           "final_assembly 能力档案未确认。",
@@ -615,9 +771,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the name or model of the new edge AI product?",
-        "Does it include an AI accelerator chip or custom SoC?",
-        "Is it designed for automotive applications like ADAS or infotainment?"
+        "Is this a standalone module or part of an existing ECU?",
+        "What AI tasks does it perform (e.g., object detection, gesture recognition)?",
+        "Is it targeted at infotainment, ADAS, or cabin monitoring?"
       ]
     },
     {
@@ -625,7 +781,7 @@
       "product_name": "SiMa.ai Wins Edge AI + Vision Alliance 2026 Product of the Year for Modalix SoM - PR Newswire",
       "canonical_name": "sima wins edge vision alliance 2026 product of year for modalix som pr newswire",
       "product_category": {
-        "value": "AI System-on-Module (SoM)",
+        "value": "System-on-Module (SoM) for Edge AI Vision",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -658,17 +814,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Accelerating deployment of vision-based edge AI applications with pre-integrated hardware and software stack",
+        "value": "Enabling rapid deployment of vision-based AI applications in industrial or IoT environments by providing a pre-integrated, high-performance AI SoM.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Industrial automation developers, robotics engineers, smart camera system integrators",
+        "value": "Industrial automation engineers, embedded systems developers, machine vision solution providers",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Production-ready, full-stack edge AI solution with high-performance inference for computer vision tasks",
+        "value": "Production-ready, full-stack edge AI SoM with optimized hardware and software stack for real-time vision inference.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -678,9 +834,7 @@
           "embedded_firmware",
           "ai_software_integration",
           "final_assembly",
-          "testing",
-          "supply_chain_integration",
-          "mass_production"
+          "testing"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -696,7 +850,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "SiMa.ai Wins Edge AI + Vision Alliance 2026 Product of the Year for Modalix SoM",
+        "value": "Winning 'Product of the Year' in a recognized industry alliance highlights validation of performance and readiness for commercial use.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -706,7 +860,7 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFcxTkZlRVc0WS1PV1dobXlSelh6QmxySEx0S0ZZWjYyLU5iMzBzVk1mWmNBNDBKSWh4RnBKM053WFFQTGZOdlR6Vl8zU0Q4YlVlSUttbjRLSWpiWGNpUjBOUENHZkRGMFFNUTdZeFE1NFk5T05vQUtZOUdsbkt6c1JMU1hlQ0FKYzRzYnh3WEFyUm5jbnlOSFJ1c29BaEpNWlgzakJ2R0hXcDd3MkxCVnNlbFJFX2JzV3U2ci1oVHRoZW9lV1hSRF9vd0NsUQ?oc=5",
           "title": "SiMa.ai Wins Edge AI + Vision Alliance 2026 Product of the Year for Modalix SoM - PR Newswire",
           "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFcxTkZlRVc0WS1PV1dobXlSelh6QmxySEx0S0ZZWjYyLU5iMzBzVk1mWmNBNDBKSWh4RnBKM053WFFQTGZOdlR6Vl8zU0Q4YlVlSUttbjRLSWpiWGNpUjBOUENHZkRGMFFNUTdZeFE1NFk5T05vQUtZOUdsbkt6c1JMU1hlQ0FKYzRzYnh3WEFyUm5jbnlOSFJ1c29BaEpNWlgzakJ2R0hXcDd3MkxCVnNlbFJFX2JzV3U2ci1oVHRoZW9lV1hSRF9vd0NsUQ?oc=5\" target=\"_blank\"&gt;SiMa.ai Wins Edge AI + Vision Alliance 2026 Product of the Year for Modalix SoM&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;PR Newswire&lt",
           "fact_status": "FACT"
         }
@@ -734,8 +888,6 @@
           "ai_software_integration 能力档案未确认。",
           "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
-          "supply_chain_integration 能力档案未确认。",
-          "mass_production 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -743,9 +895,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the exact model name of the Modalix SoM?",
-        "Does it include a dedicated neural processor unit (NPU) or AI accelerator?",
-        "Is it designed for industrial or consumer vision applications?"
+        "What is the AI model throughput and power efficiency of the Modalix SoM?",
+        "Is it designed for industrial cameras, robotics, or surveillance?",
+        "Are there available development tools or SDKs?"
       ]
     },
     {
@@ -786,7 +938,7 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Enabling low-latency, on-device AI inference for IoT applications with optimized power consumption and edge processing capabilities.",
+        "value": "Enabling low-latency, on-device AI inference for IoT applications by deploying AI processing directly at the edge.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -796,7 +948,7 @@
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Delivers real-time AI inference at the edge using MediaTek's Genio 420 platform, reducing reliance on cloud connectivity and improving privacy and responsiveness.",
+        "value": "Delivers real-time AI inferencing capabilities with reduced dependency on cloud connectivity, improving response time and data privacy.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -804,10 +956,7 @@
         "value": [
           "pcb_electronics",
           "embedded_firmware",
-          "ai_software_integration",
-          "final_assembly",
-          "testing",
-          "supply_chain_integration"
+          "ai_software_integration"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -823,7 +972,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Integration of MediaTek Genio 420 Edge AI platform into Mouser’s product portfolio as a ready-to-use solution for developers and OEMs.",
+        "value": "MediaTek Genio 420 platform introduces integrated edge AI capabilities tailored for cellular IoT devices.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -833,7 +982,7 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnItcnQ2T2UzZ2dLU203NXpyUWprVnlHMGZ6MUs2d1hqSUh4VnhRM18tMUpuZnRvUGN5TWxXNVNmTVlpZ213RThNaHhUd3FVNU9WbnRpSWJpR2dkamVTR0k3RHlTWHoyMjZWV0U1SjBRN1otb2ZGMGU0YmgyS280cU1JM3poeGFYNzk4ZDR6b1hYLW1RWFBqanpST3ZTeUw5dUtlalNFZWJrVnVqZGR1bVZiTEh2WG9OQmc?oc=5",
           "title": "Mouser adds MediaTek Genio 420 Edge AI IoT platform to product portfolio - New Electronics",
           "published_at": "Mon, 17 Aug 2026 08:33:16 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnItcnQ2T2UzZ2dLU203NXpyUWprVnlHMGZ6MUs2d1hqSUh4VnhRM18tMUpuZnRvUGN5TWxXNVNmTVlpZ213RThNaHhUd3FVNU9WbnRpSWJpR2dkamVTR0k3RHlTWHoyMjZWV0U1SjBRN1otb2ZGMGU0YmgyS280cU1JM3poeGFYNzk4ZDR6b1hYLW1RWFBqanpST3ZTeUw5dUtlalNFZWJrVnVqZGR1bVZiTEh2WG9OQmc?oc=5\" target=\"_blank\"&gt;Mouser adds MediaTek Genio 420 Edge AI IoT platform to product portfolio&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;New Electronics&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -859,9 +1008,6 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
-          "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
-          "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -869,9 +1015,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "Is the Genio 420 platform available as a pre-integrated module or requires custom design?",
-        "What are the power consumption specs under typical AI workloads?",
-        "Are there reference designs or SDKs provided by Mouser?"
+        "Is the Genio 420 platform being sold as a standalone module or only as part of a larger system?",
+        "What specific AI workloads does it support (e.g., vision, audio, anomaly detection)?",
+        "Are there any reference designs or SDKs available for integration?"
       ]
     },
     {
@@ -912,17 +1058,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Accelerating broadband-enabled edge AI deployment in high-speed network environments requiring real-time analytics and low-latency decision-making.",
+        "value": "Supporting high-bandwidth broadband applications with embedded AI for real-time analytics and optimization in network infrastructure.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Telecom operators, network infrastructure providers, smart grid and industrial IoT system integrators",
+        "value": "Telecom operators, network equipment providers, enterprise network managers",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Broadcom’s new Edge AI portfolio enables intelligent data processing directly at the network edge, enhancing performance and reducing backhaul load.",
+        "value": "Enables intelligent traffic management, predictive maintenance, and adaptive QoS through on-premise AI processing.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -930,10 +1076,7 @@
         "value": [
           "pcb_electronics",
           "embedded_firmware",
-          "ai_software_integration",
-          "final_assembly",
-          "testing",
-          "supply_chain_integration"
+          "ai_software_integration"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -949,7 +1092,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Broadcom’s strategic expansion into broadband-edge AI products signaling a shift toward integrated AI + networking silicon solutions.",
+        "value": "Broadcom's unveiling of a dedicated Edge AI portfolio for broadband systems suggests new hardware targeting intelligent network operations.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -959,7 +1102,7 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2NGQTVsU1ltODJCMnlRaXNCUmdTeGJta0M4WkNsa1JhazA5Wlk3N05vLU5hNXNJb2hlcVhxRk1JR25EdEFYUGFnUHdiNkpZNWdpUklyNDF6aWdNRXBuLXhvOEl6c2JsME9Hek5sa2EtUE4wWTNMR1JZZnNJLTlXZktNaFkxSUh3TWVTS2U2VFM0TVRGMW9ER2hvQkpWaFNrbkFZVXVVYTNIQQ?oc=5",
           "title": "Broadcom surges after unveiling broadband Edge AI portfolio products - Seeking Alpha",
           "published_at": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2NGQTVsU1ltODJCMnlRaXNCUmdTeGJta0M4WkNsa1JhazA5Wlk3N05vLU5hNXNJb2hlcVhxRk1JR25EdEFYUGFnUHdiNkpZNWdpUklyNDF6aWdNRXBuLXhvOEl6c2JsME9Hek5sa2EtUE4wWTNMR1JZZnNJLTlXZktNaFkxSUh3TWVTS2U2VFM0TVRGMW9ER2hvQkpWaFNrbkFZVXVVYTNIQQ?oc=5\" target=\"_blank\"&gt;Broadcom surges after unveiling broadband Edge AI portfolio products&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Seeking Alpha&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -985,9 +1128,6 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
-          "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
-          "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -995,135 +1135,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "Are these products standalone devices or chip-only solutions?",
-        "What types of AI workloads are supported (e.g., vision, voice, anomaly detection)?",
-        "Is there a public roadmap or sample availability timeline?"
-      ]
-    },
-    {
-      "id": "758a6ec4768f942d",
-      "product_name": "LMT IoT and Infineon launch mentorship program to accelerate low-power cellular edge AI products - IoT Now",
-      "canonical_name": "lmt iot and infineon launch mentorship program to accelerate low power cellular edge products iot now",
-      "product_category": {
-        "value": "Edge AI Hardware",
-        "status": "INFERENCE",
-        "rationale": "LLM 基于给定公开信号归类。"
-      },
-      "physical_product": {
-        "value": true,
-        "status": "INFERENCE",
-        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
-      },
-      "ai_core_value": {
-        "value": true,
-        "status": "INFERENCE",
-        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
-      },
-      "company": null,
-      "region": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "price": null,
-      "price_range": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "traction_signal": null,
-      "market_signal": {
-        "value": "公开新品或行业报道信号",
-        "status": "INFERENCE",
-        "rationale": "仅基于新品发现来源。"
-      },
-      "problem_solved": {
-        "value": "Enabling energy-efficient, cellular-connected edge AI devices for remote and harsh environments where power and connectivity are constrained.",
-        "status": "INFERENCE",
-        "rationale": "LLM 推断，非来源直接事实。"
-      },
-      "target_customer": {
-        "value": "Defense contractors, field operations teams, remote monitoring system providers",
-        "status": "INFERENCE",
-        "rationale": "LLM 推断，非来源直接事实。"
-      },
-      "ai_value_proposition": {
-        "value": "LMT IoT and Infineon’s mentorship program accelerates development of low-power, cellular-capable edge AI products through access to expertise and tools.",
-        "status": "INFERENCE",
-        "rationale": "LLM 推断，非来源直接事实。"
-      },
-      "manufacturing_requirements": {
-        "value": [
-          "pcb_electronics",
-          "embedded_firmware",
-          "ai_software_integration",
-          "sensors",
-          "final_assembly",
-          "testing"
-        ],
-        "status": "INFERENCE",
-        "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
-      },
-      "supply_chain_signal": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "competition_signal": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "novelty_signal": {
-        "value": "Collaborative mentorship program between LMT IoT and Infineon targeting specialized edge AI use cases in low-power cellular networks.",
-        "status": "INFERENCE",
-        "rationale": "LLM 对来源新颖性信号的保守概括。"
-      },
-      "evidence": [
-        {
-          "source": "google_news",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHdHODVtQU5EUkwyYTJjNmJYSjN1SFlzS05VR2x6LUdWNFVQSmgxZ2MtN0UyYzc4X0Q2dl9MR3Z2azdGb0lITHotbDdsTUs4UjkxWHB5RWZKT2gyQVl4VnZ1VlVFa21pM2p0eHdyY1gtMFhyVTE1T0ZJZFhJVFJSY1QyOVNpaWl4b0dxaUhjVlJUSUtlMkI4TDI0UXpPSExWbWNjOFJGZElsTzAxS0prd0p1ajV0b1hDeEpfZ2oteG16UTRsRDVhSTVTWDExeElv?oc=5",
-          "title": "LMT IoT and Infineon launch mentorship program to accelerate low-power cellular edge AI products - IoT Now",
-          "published_at": "Mon, 18 May 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
-          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHdHODVtQU5EUkwyYTJjNmJYSjN1SFlzS05VR2x6LUdWNFVQSmgxZ2MtN0UyYzc4X0Q2dl9MR3Z2azdGb0lITHotbDdsTUs4UjkxWHB5RWZKT2gyQVl4VnZ1VlVFa21pM2p0eHdyY1gtMFhyVTE1T0ZJZFhJVFJSY1QyOVNpaWl4b0dxaUhjVlJUSUtlMkI4TDI0UXpPSExWbWNjOFJGZElsTzAxS0prd0p1ajV0b1hDeEpfZ2oteG16UTRsRDVhSTVTWDExeElv?oc=5\" target=\"_blank\"&gt;LMT IoT and Infineon launch mentorship program to accelerate low-power cellular edge AI products&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f",
-          "fact_status": "FACT"
-        }
-      ],
-      "sources": [
-        "google_news"
-      ],
-      "confidence": 0.425,
-      "classification_method": "llm",
-      "score": {
-        "market_demand": 4,
-        "growth_timing": 7,
-        "ai_new_value": 10,
-        "manufacturing_fit": 0,
-        "supply_chain_feasibility": 4,
-        "profit_potential": 3,
-        "differentiation": 5,
-        "time_to_market": 0,
-        "opportunity_score": 33,
-        "risk_penalty": 17,
-        "final_score": 16,
-        "risk_notes": [
-          "pcb_electronics 能力档案未确认。",
-          "embedded_firmware 能力档案未确认。",
-          "ai_software_integration 能力档案未确认。",
-          "sensors 能力档案未确认。",
-          "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
-          "没有来源支持的售价信息，利润空间未验证。",
-          "只有发现信号，缺少直接需求或互动证据。",
-          "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
-        ]
-      },
-      "status": "REJECTED",
-      "next_validation_questions": [
-        "Are any prototype hardware platforms being developed under this program?",
-        "What specific hardware components are being emphasized (e.g., modem chips, power management ICs)?",
-        "Is there an open call for startups or partners to join?"
+        "Are these products commercially available or still in development?",
+        "Do they include dedicated AI accelerators or rely on general-purpose processors?",
+        "What types of AI models are supported (e.g., ML inference, NLP, computer vision)?"
       ]
     },
     {
@@ -1164,17 +1178,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Providing reliable, high-performance AI compute in extreme environmental conditions such as military, outdoor, or industrial settings.",
+        "value": "Delivering high-performance, durable edge AI computing for harsh environments such as military or field operations.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Military defense systems, emergency response units, industrial inspection systems",
+        "value": "Military, defense contractors, remote industrial monitoring systems",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Systel’s Hawk AI Strike is a ruggedized edge AI platform designed for real-time inference in demanding operational environments.",
+        "value": "Provides reliable, real-time AI processing in extreme conditions without reliance on cloud infrastructure.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -1205,7 +1219,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Focus on ruggedization for edge AI compute in mission-critical environments, combining durability with AI acceleration.",
+        "value": "Systel’s Hawk AI Strike platform is marketed as a ruggedized edge AI compute solution for demanding operational environments.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -1215,7 +1229,7 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQkhGaHE5TEd4RXpmcVZTN0xuZEFZcDlnOEx1Y3BCbTJlSmdXTlRTMzdEcjhNOEpSMzhYQWFxWWNVX0lqMTByS2kwcHRCOVp0Ny1qZEFNWWFXV3JHQnIyOEk0ckxVMWQ4aXRDUHFRLWl1MnpLdHVCa1FUN1Y4TFJQamFKZ3A5djFJR1RHM0l1dXk0Nmhfekw0elhrUVJ5ZDlabUxGaU9lRVYtejNzeGg2ZnBOYXlmR3Y5TWw2RF9yb1JYcnFCd0tjeA?oc=5",
           "title": "PRODUCT OF THE WEEK: Systel’s Hawk AI Strike rugged edge AI compute platform - Military Embedded Systems",
           "published_at": "Mon, 22 Jun 2026 08:18:19 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQkhGaHE5TEd4RXpmcVZTN0xuZEFZcDlnOEx1Y3BCbTJlSmdXTlRTMzdEcjhNOEpSMzhYQWFxWWNVX0lqMTByS2kwcHRCOVp0Ny1qZEFNWWFXV3JHQnIyOEk0ckxVMWQ4aXRDUHFRLWl1MnpLdHVCa1FUN1Y4TFJQamFKZ3A5djFJR1RHM0l1dXk0Nmhfekw0elhrUVJ5ZDlabUxGaU9lRVYtejNzeGg2ZnBOYXlmR3Y5TWw2RF9yb1JYcnFCd0tjeA?oc=5\" target=\"_blank\"&gt;PRODUCT OF THE WEEK: Systel’s Hawk AI Strike rugged edge AI compute platform&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Military Embedded Systems",
           "fact_status": "FACT"
         }
@@ -1255,9 +1269,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the IP rating and operating temperature range?",
-        "Which AI inference engines or frameworks are supported?",
-        "Is it compatible with standard military form factors (e.g., VPX, VME)?"
+        "What is the power consumption and thermal design of the platform?",
+        "What AI model sizes and frameworks are supported?",
+        "Are there certifications for environmental durability (e.g., MIL-STD-810)?"
       ]
     },
     {
@@ -1298,17 +1312,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Addressing demand for domestically produced, high-performance AI accelerator modules in U.S.-based manufacturing and defense sectors.",
+        "value": "Offering domestically manufactured AI acceleration for edge deployments, addressing supply chain and security concerns.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "U.S. defense contractors, domestic industrial automation firms, secure AI system integrators",
+        "value": "U.S.-based industrial, defense, and critical infrastructure companies seeking secure, local sourcing",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Virtium’s “Made in the USA” AI accelerator module offers supply chain security and compliance for sensitive government and enterprise deployments.",
+        "value": "Delivers high-efficiency AI inference with compliance and traceability benefits via 'Made in the USA' designation.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -1317,10 +1331,7 @@
           "pcb_electronics",
           "embedded_firmware",
           "ai_software_integration",
-          "final_assembly",
-          "testing",
-          "supply_chain_integration",
-          "mass_production"
+          "supply_chain_integration"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -1336,7 +1347,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "First industry-certified AI accelerator module manufactured in the USA, emphasizing national security and supply chain resilience.",
+        "value": "Virtium claims to be the first to launch an AI accelerator module made in the USA, emphasizing national security and resilience.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -1346,7 +1357,7 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUm5wRzEydEdyRWZEXy1pTFBMNEVHdHFrR1A0VWRIa3E2NDFobGRFT1pvWjBCaW5naWFoWnF6bERxYVExTmxLbU54SjBmVF8tSzVXMzRFWGVuYWNwbDlkZDFEWWY2Tk5IdE9IVVVwQ2FWOHR2RWZiMjhGamhZakpWZlotX2ZDUm8xLWJscWlfRnQzOXdPQzRTUi1iZHBGY2tOb3lYaGZobWFBM1dKV0tHOFRVMzhSbk1pcjZQU1VrZE56MS0wT25zcnY0V1U3OGtBZHB0bHNxNUlPeHR0SFVwREEyVURsNFNaMjZYXw?oc=5",
           "title": "Virtium Expands Its Edge AI Product Line with Industry’s First “Made in the USA” AI Accelerator Module - Business Wire",
           "published_at": "Mon, 05 Jan 2026 08:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.269Z",
+          "observed_at": "2026-09-14T14:57:46.566Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUm5wRzEydEdyRWZEXy1pTFBMNEVHdHFrR1A0VWRIa3E2NDFobGRFT1pvWjBCaW5naWFoWnF6bERxYVExTmxLbU54SjBmVF8tSzVXMzRFWGVuYWNwbDlkZDFEWWY2Tk5IdE9IVVVwQ2FWOHR2RWZiMjhGamhZakpWZlotX2ZDUm8xLWJscWlfRnQzOXdPQzRTUi1iZHBGY2tOb3lYaGZobWFBM1dKV0tHOFRVMzhSbk1pcjZQU1VrZE56MS0wT25zcnY0V1U3OGtBZHB0bHNxNUlPeHR0SFVwREEyVURsNFNaMjZYXw?oc=5\" target=\"_blank\"&gt;Virtium Expands Its Edge AI Product Line with Industry’s First “Made in the USA” AI Accelerator Module&",
           "fact_status": "FACT"
         }
@@ -1372,10 +1383,7 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
-          "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
           "supply_chain_integration 能力档案未确认。",
-          "mass_production 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -1383,9 +1391,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the AI model throughput (TOPS) and power efficiency (Watts)?",
-        "Is the module compliant with DoD or NIST standards?",
-        "Are there plans for third-party validation or certification?"
+        "What is the performance (TOPS) and power efficiency of the module?",
+        "Which AI frameworks or models are optimized for this hardware?",
+        "Is it compatible with existing edge platforms like NVIDIA Jetson or Intel Movidius?"
       ]
     },
     {
@@ -1393,7 +1401,7 @@
       "product_name": "Advantech Reveals Visual Controller for Edge AI Vision From: Advantech - Industrial Equipment News",
       "canonical_name": "advantech reveals visual controller for edge vision from advantech industrial equipment news",
       "product_category": {
-        "value": "Visual Controller for Edge AI Vision",
+        "value": "Edge AI Vision Controller",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -1426,28 +1434,27 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Enabling real-time computer vision at the edge for industrial inspection, surveillance, and automation without relying on cloud processing.",
+        "value": "Enabling real-time visual inspection and object recognition in industrial settings without relying on cloud processing.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Manufacturers of industrial machines, factory automation systems, security system integrators",
+        "value": "Manufacturers using machine vision for quality control, logistics, and automated inspection",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Advantech’s visual controller integrates AI vision processing directly into industrial control systems for faster, localized decision-making.",
+        "value": "Integrates AI vision capabilities directly into industrial controllers for faster, more secure decision-making.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "manufacturing_requirements": {
         "value": [
           "pcb_electronics",
+          "sensors",
           "embedded_firmware",
           "ai_software_integration",
-          "sensors",
-          "final_assembly",
-          "testing"
+          "final_assembly"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -1463,7 +1470,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Integration of dedicated AI vision control into industrial equipment controllers, blurring lines between PLCs and AI processors.",
+        "value": "Advantech's Visual Controller combines edge AI vision processing with industrial control functionality.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -1473,7 +1480,7 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNby0wN0wwRUlfOXZxRVhoSjJvRUs1ZzRiUEZqQUFycjZfLWZNZm95Vm9zdW83VS1iYmFDbXBoaExYSTIyTU1PYWViRGxLOE1ZdnNyR1poMm55MW5hRWxobDFXUW5wb3gwc3MyTjlSMERmeXB1bG1kdnlLaTNxZWtyd2d1SFlRQ1hjMllBTGJ0Yk9QMVdqZTBxbnIxR29PdFRURmMxUGt2V1RFaXZERnRobEdaMk4?oc=5",
           "title": "Advantech Reveals Visual Controller for Edge AI Vision From: Advantech - Industrial Equipment News",
           "published_at": "Wed, 15 Jul 2026 03:44:42 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
+          "observed_at": "2026-09-14T14:57:46.567Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNby0wN0wwRUlfOXZxRVhoSjJvRUs1ZzRiUEZqQUFycjZfLWZNZm95Vm9zdW83VS1iYmFDbXBoaExYSTIyTU1PYWViRGxLOE1ZdnNyR1poMm55MW5hRWxobDFXUW5wb3gwc3MyTjlSMERmeXB1bG1kdnlLaTNxZWtyd2d1SFlRQ1hjMllBTGJ0Yk9QMVdqZTBxbnIxR29PdFRURmMxUGt2V1RFaXZERnRobEdaMk4?oc=5\" target=\"_blank\"&gt;Advantech Reveals Visual Controller for Edge AI Vision From: Advantech&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Industrial Equipment News&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -1481,7 +1488,7 @@
       "sources": [
         "google_news"
       ],
-      "confidence": 0.5075000000000001,
+      "confidence": 0.48000000000000004,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -1497,11 +1504,10 @@
         "final_score": 16,
         "risk_notes": [
           "pcb_electronics 能力档案未确认。",
+          "sensors 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
-          "sensors 能力档案未确认。",
           "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -1509,9 +1515,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the resolution and frame rate support for camera inputs?",
-        "Does it support popular vision models like YOLO or EfficientDet out-of-the-box?",
-        "Can it be programmed via standard industrial software (e.g., SCADA, CODESYS)?"
+        "What resolution and frame rate support does the controller offer?",
+        "Can it run custom-trained models or only pre-defined ones?",
+        "How is it integrated with PLCs or SCADA systems?"
       ]
     },
     {
@@ -1552,17 +1558,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Lowering the barrier to entry for developers building edge AI applications by providing a plug-and-play development platform.",
+        "value": "Providing a standardized, accessible platform for developing and testing edge AI applications.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "AI researchers, embedded developers, startup engineers, academic labs",
+        "value": "Developers, researchers, startups, and engineering teams working on edge AI prototypes",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Coralboard™ from Synaptics and Google Research provides a standardized, high-performance platform for developing and testing edge AI models.",
+        "value": "Accelerates prototyping and deployment of edge AI applications through a developer-friendly board with built-in AI acceleration.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -1570,9 +1576,7 @@
         "value": [
           "pcb_electronics",
           "embedded_firmware",
-          "ai_software_integration",
-          "final_assembly",
-          "testing"
+          "ai_software_integration"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -1588,7 +1592,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Collaboration between Synaptics and Google Research to launch a developer-focused edge AI board at Google I/O 2026.",
+        "value": "Coralboard™ unveiled by Synaptics and Google Research targets developers working on edge AI at Google I/O 2026.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -1598,7 +1602,7 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbldoWkJ6TnNDRUsxMzV1U2JUMUVSVVk0aUNRaUV0NnBzbzVNT1hJTmtMdGhlZzlzS1BjUU9mMDd4eFZXVF9McXFXcFpDU2NkQjBLVmVFQ0h5MEJGXzlvaDZuczlUclBwZmZocGFfWWxZU2s1RHdxQWt4d3VqNGJDbk1HdDJ4cHBfcGRVaEp4b1R3b2dBYm5nTXpnc3RyblYwdHBPWm9nZ3I0ZFNVd2E5b09OX0FnTHQxTzVDTGpDZHlOYzJvTEU1Y0RRZEs1SWhHQlkwOHpSNA?oc=5",
           "title": "Synaptics® and Google Research Unveil Coralboard™ for Edge AI Development at Google I/O 2026 - Quiver Quantitative",
           "published_at": "Tue, 19 May 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
+          "observed_at": "2026-09-14T14:57:46.567Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbldoWkJ6TnNDRUsxMzV1U2JUMUVSVVk0aUNRaUV0NnBzbzVNT1hJTmtMdGhlZzlzS1BjUU9mMDd4eFZXVF9McXFXcFpDU2NkQjBLVmVFQ0h5MEJGXzlvaDZuczlUclBwZmZocGFfWWxZU2s1RHdxQWt4d3VqNGJDbk1HdDJ4cHBfcGRVaEp4b1R3b2dBYm5nTXpnc3RyblYwdHBPWm9nZ3I0ZFNVd2E5b09OX0FnTHQxTzVDTGpDZHlOYzJvTEU1Y0RRZEs1SWhHQlkwOHpSNA?oc=5\" target=\"_blank\"&gt;Synaptics® and Google Research Unveil Coralboard™ for Edge AI Development at Google I/O 2026&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#",
           "fact_status": "FACT"
         }
@@ -1624,8 +1628,6 @@
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
-          "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -1633,17 +1635,17 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the target TDP and inference speed (in TOPS)?",
-        "Is it compatible with TensorFlow Lite or other open-source frameworks?",
-        "Will there be public access to schematics or dev kits?"
+        "What AI accelerator chip is used in Coralboard™?",
+        "Is it compatible with TensorFlow Lite or other popular frameworks?",
+        "Will it be available for purchase or only as a developer kit?"
       ]
     },
     {
-      "id": "db4e4dc4f6c639ef",
-      "product_name": "DEEPX Signs Global Edge AI Mass Production Partnership with AAEON at COMPUTEX TAIPEI 2026 - finance.yahoo.com",
-      "canonical_name": "deepx signs global edge mass production partnership with aaeon at computex taipei 2026 finance yahoo com",
+      "id": "b25267caf49a2c66",
+      "product_name": "DEEPX Signs Global Edge AI Mass Production Partnership with AAEON at COMPUTEX TAIPEI 2026 - Yahoo Finance",
+      "canonical_name": "deepx signs global edge mass production partnership with aaeon at computex taipei 2026 yahoo finance",
       "product_category": {
-        "value": "Edge AI Mass Production Partner",
+        "value": "Edge AI System",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -1676,30 +1678,29 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Scaling production of edge AI hardware through partnerships between design firms and contract manufacturers.",
+        "value": "Facilitating scalable mass production of edge AI systems through strategic manufacturing partnerships.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Edge AI product startups, OEMs seeking rapid scaling, system integrators",
+        "value": "OEMs and system integrators needing turnkey edge AI solutions for commercial deployment",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "DEEPX’s partnership with AAEON enables global mass production of edge AI devices, reducing time-to-market and cost.",
+        "value": "Leverages AAEON’s manufacturing scale to enable rapid, cost-effective production of edge AI hardware.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "manufacturing_requirements": {
         "value": [
-          "tooling",
           "pcb_electronics",
           "embedded_firmware",
           "ai_software_integration",
           "final_assembly",
           "testing",
-          "supply_chain_integration",
-          "mass_production"
+          "mass_production",
+          "supply_chain_integration"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -1715,7 +1716,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Formalized production partnership announced at COMPUTEX TAIPEI 2026, indicating readiness for volume manufacturing.",
+        "value": "DEEPX partners with AAEON for global mass production of edge AI systems at COMPUTEX TAIPEI 2026.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -1723,10 +1724,10 @@
         {
           "source": "google_news",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdE1sRXZjX01TRXQ0WEN4MkhhckNKODFMX2Z4YlluNWtBdUVYakZKbUlFM3NHZlEtOV9iY0pJWG1ZdUxXa2wxUmx4dXhEa2dIMi1MUEtYZnROU0FOOTc0eTgyUlhYT2hrSjJjeGJTRUZKWUVvV0dGc0hsbVoxdGJlZTNaRjk5LVBhZlByd1JiX19MY2JvaGt1WjY0VQ?oc=5",
-          "title": "DEEPX Signs Global Edge AI Mass Production Partnership with AAEON at COMPUTEX TAIPEI 2026 - finance.yahoo.com",
+          "title": "DEEPX Signs Global Edge AI Mass Production Partnership with AAEON at COMPUTEX TAIPEI 2026 - Yahoo Finance",
           "published_at": "Tue, 02 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
-          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdE1sRXZjX01TRXQ0WEN4MkhhckNKODFMX2Z4YlluNWtBdUVYakZKbUlFM3NHZlEtOV9iY0pJWG1ZdUxXa2wxUmx4dXhEa2dIMi1MUEtYZnROU0FOOTc0eTgyUlhYT2hrSjJjeGJTRUZKWUVvV0dGc0hsbVoxdGJlZTNaRjk5LVBhZlByd1JiX19MY2JvaGt1WjY0VQ?oc=5\" target=\"_blank\"&gt;DEEPX Signs Global Edge AI Mass Production Partnership with AAEON at COMPUTEX TAIPEI 2026&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.yahoo.com&lt;/font&gt;",
+          "observed_at": "2026-09-14T14:57:46.567Z",
+          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdE1sRXZjX01TRXQ0WEN4MkhhckNKODFMX2Z4YlluNWtBdUVYakZKbUlFM3NHZlEtOV9iY0pJWG1ZdUxXa2wxUmx4dXhEa2dIMi1MUEtYZnROU0FOOTc0eTgyUlhYT2hrSjJjeGJTRUZKWUVvV0dGc0hsbVoxdGJlZTNaRjk5LVBhZlByd1JiX19MY2JvaGt1WjY0VQ?oc=5\" target=\"_blank\"&gt;DEEPX Signs Global Edge AI Mass Production Partnership with AAEON at COMPUTEX TAIPEI 2026&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance&lt;/font&gt;",
           "fact_status": "FACT"
         }
       ],
@@ -1748,14 +1749,13 @@
         "risk_penalty": 17,
         "final_score": 16,
         "risk_notes": [
-          "tooling 能力档案未确认。",
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
           "ai_software_integration 能力档案未确认。",
           "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
-          "supply_chain_integration 能力档案未确认。",
           "mass_production 能力档案未确认。",
+          "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -1763,9 +1763,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the expected monthly production capacity?",
-        "Are there specific product lines or reference designs being produced?",
-        "Is AAEON providing full turnkey manufacturing or just assembly?"
+        "What types of edge AI systems will be produced under this partnership?",
+        "Are there specific verticals targeted (e.g., retail, transportation, surveillance)?",
+        "What is the expected production volume and timeline?"
       ]
     },
     {
@@ -1806,17 +1806,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Accelerating development of connected edge AI products by enabling faster integration of hardware and software for real-time inference at the edge.",
+        "value": "Accelerating development of connected edge AI products by integrating hardware and software ecosystems for faster time-to-market.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "OEMs, developers, enterprises building edge AI solutions",
+        "value": "OEMs, developers, enterprises building edge AI-enabled devices",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Enables rapid prototyping and deployment of edge AI applications through optimized hardware-software co-design with Infineon's silicon and LMT IoT's ecosystem support.",
+        "value": "Enabling rapid prototyping and deployment of edge AI applications through a partnership between LMT IoT and Infineon focused on hardware-software co-design.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -1843,7 +1843,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Partnership between LMT IoT and Infineon to jointly accelerate product development lifecycle for edge AI devices using pre-validated hardware platforms.",
+        "value": "Strategic partnership between LMT IoT and Infineon targeting end-to-end edge AI product development acceleration.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -1853,7 +1853,7 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHYtbnNWY09iQ29zclFkRWNrTFlTamh3V3lJZm9mMGlVcDhHd0pUSW85VHlkYnVoX1hLOGt0YzNncklzbE10VjdybkRJZmxodVJnekI5cUt1WGhrT1hVcmo2d1JsQV9zOVJFZW5GM3BHUWNROEE3RjBGRS03TUhDbDA2aXFubjFUQ2tPakVpYlRQV0Iwbmdnb19scjhCcEVlaUZNazM0Q1ZndXdUWUtJMGxOWHpXX1lMMnlwZWZUMA?oc=5",
           "title": "LMT IoT and Infineon announce partnership to accelerate connected edge AI product development - The Baltic Times",
           "published_at": "Thu, 21 May 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
+          "observed_at": "2026-09-14T14:57:46.567Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHYtbnNWY09iQ29zclFkRWNrTFlTamh3V3lJZm9mMGlVcDhHd0pUSW85VHlkYnVoX1hLOGt0YzNncklzbE10VjdybkRJZmxodVJnekI5cUt1WGhrT1hVcmo2d1JsQV9zOVJFZW5GM3BHUWNROEE3RjBGRS03TUhDbDA2aXFubjFUQ2tPakVpYlRQV0Iwbmdnb19scjhCcEVlaUZNazM0Q1ZndXdUWUtJMGxOWHpXX1lMMnlwZWZUMA?oc=5\" target=\"_blank\"&gt;LMT IoT and Infineon announce partnership to accelerate connected edge AI product development&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;The Baltic Times&lt;",
           "fact_status": "FACT"
         }
@@ -1861,7 +1861,7 @@
       "sources": [
         "google_news"
       ],
-      "confidence": 0.5075000000000001,
+      "confidence": 0.24900000000000003,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -1889,17 +1889,17 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "Are there specific reference designs or development kits being released as part of this partnership?",
-        "Which Infineon chips are being integrated into the targeted edge AI devices?",
-        "Is there a public roadmap for the joint product portfolio?"
+        "What specific edge AI use cases are being targeted by this partnership?",
+        "Are there any publicly available reference designs or SDKs resulting from this collaboration?",
+        "Is the solution tailored to industrial, consumer, or automotive applications?"
       ]
     },
     {
-      "id": "1b7077802c1b48c3",
-      "product_name": "BrainChip Expands AI Software for Akida AKD1500 Edge AI Processor - Embedded Computing Design",
-      "canonical_name": "brainchip expands software for akida akd1500 edge processor embedded computing design",
+      "id": "8b4aa33914b65343",
+      "product_name": "LMT IoT, Infineon partner on connected edge AI product development - Telecompaper",
+      "canonical_name": "lmt iot infineon partner on connected edge product development telecompaper",
       "product_category": {
-        "value": "Edge AI Processor",
+        "value": "Edge AI Hardware Component",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -1932,25 +1932,25 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Expanding AI software capabilities on the Akida AKD1500 processor to enable more complex, low-power inference tasks at the edge.",
+        "value": "Enabling high-performance edge computing through specialized memory products optimized for AI workloads.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Embedded systems developers, robotics, industrial automation, smart sensor vendors",
+        "value": "OEMs and system designers in industrial, smart infrastructure, and embedded AI markets",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Delivers enhanced AI model execution performance and efficiency on BrainChip’s neuromorphic edge processor without requiring cloud connectivity.",
+        "value": "Introducing AIDIMM and AILPBGA memory products designed specifically for low-latency, high-throughput edge AI inference.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "manufacturing_requirements": {
         "value": [
+          "plastics_injection",
           "pcb_electronics",
           "embedded_firmware",
-          "ai_software_integration",
           "final_assembly",
           "testing"
         ],
@@ -1968,25 +1968,25 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Expansion of AI software stack for Akida AKD1500, indicating deeper support for real-world edge inference workloads beyond basic benchmarking.",
+        "value": "Launch of purpose-built AI-optimized memory modules targeting edge computing workloads.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
       "evidence": [
         {
           "source": "google_news",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX3pjMXo0THJjWWZwLVlzaTQ5QTBlaGU5V1dsU0NGeTlhQ0dFdElLcldjQ25vQVR0Nk9DNlBUSXhIQThjSmFidG9MX1FILTlrYkdvZzRmQnlKR3d4RjNORUphT3R3b0lLOHRadjNJbmk5a0lDS19fd1ZuWHJZVVIyRm1tMVg3WE41WnlhVU5sRzEzZUJhTEluYmZfUXpiZkRkWlNjdzZhd1FUdWt1QW9GRnBJek8tUlF3OVJIeGY0aw?oc=5",
-          "title": "BrainChip Expands AI Software for Akida AKD1500 Edge AI Processor - Embedded Computing Design",
-          "published_at": "Mon, 18 May 2026 15:44:18 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
-          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNX3pjMXo0THJjWWZwLVlzaTQ5QTBlaGU5V1dsU0NGeTlhQ0dFdElLcldjQ25vQVR0Nk9DNlBUSXhIQThjSmFidG9MX1FILTlrYkdvZzRmQnlKR3d4RjNORUphT3R3b0lLOHRadjNJbmk5a0lDS19fd1ZuWHJZVVIyRm1tMVg3WE41WnlhVU5sRzEzZUJhTEluYmZfUXpiZkRkWlNjdzZhd1FUdWt1QW9GRnBJek8tUlF3OVJIeGY0aw?oc=5\" target=\"_blank\"&gt;BrainChip Expands AI Software for Akida AKD1500 Edge AI Processor&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Embedded Computing Design&lt;/font&gt;",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWW1BR3pTWWllYVhheUg2dTZ2UGpYWnl5aXBjVUQ1NTRXLUtEMDI3MGhFRUczSmQ3bi1ud3lMbl9Tbm0wQlpKV3dKaHpDbmF1VUN3OE8zaVVLZGZMMEVGVGZKMHluVlVyelF6U3MtbHp1LXgxTEkzSW1Ec1BvNkprLVJENmNyd1FKNUkyel9CVDlYQWVuSldqS3JQZFZRRGhERGNvc1VVbVVnbXpW?oc=5",
+          "title": "LMT IoT, Infineon partner on connected edge AI product development - Telecompaper",
+          "published_at": "Thu, 21 May 2026 07:00:00 GMT",
+          "observed_at": "2026-09-14T14:57:46.567Z",
+          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWW1BR3pTWWllYVhheUg2dTZ2UGpYWnl5aXBjVUQ1NTRXLUtEMDI3MGhFRUczSmQ3bi1ud3lMbl9Tbm0wQlpKV3dKaHpDbmF1VUN3OE8zaVVLZGZMMEVGVGZKMHluVlVyelF6U3MtbHp1LXgxTEkzSW1Ec1BvNkprLVJENmNyd1FKNUkyel9CVDlYQWVuSldqS3JQZFZRRGhERGNvc1VVbVVnbXpW?oc=5\" target=\"_blank\"&gt;LMT IoT, Infineon partner on connected edge AI product development&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Telecompaper&lt;/font&gt;",
           "fact_status": "FACT"
         }
       ],
       "sources": [
         "google_news"
       ],
-      "confidence": 0.48000000000000004,
+      "confidence": 0.24900000000000003,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -2001,9 +2001,9 @@
         "risk_penalty": 17,
         "final_score": 16,
         "risk_notes": [
+          "plastics_injection 能力档案未确认。",
           "pcb_electronics 能力档案未确认。",
           "embedded_firmware 能力档案未确认。",
-          "ai_software_integration 能力档案未确认。",
           "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
@@ -2013,135 +2013,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What new neural network models or frameworks are now supported?",
-        "Are there new SDKs or APIs being released alongside the software expansion?",
-        "Is there a target market segment (e.g., automotive, surveillance) being prioritized?"
-      ]
-    },
-    {
-      "id": "ba82f93c01cce9d3",
-      "product_name": "Qualcomm’s IE‑IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises & OEMs - Qualcomm",
-      "canonical_name": "qualcomm s ie iot expansion is complete edge unleashed for developers enterprises oems qualcomm",
-      "product_category": {
-        "value": "Edge AI SoC / Development Platform",
-        "status": "INFERENCE",
-        "rationale": "LLM 基于给定公开信号归类。"
-      },
-      "physical_product": {
-        "value": true,
-        "status": "INFERENCE",
-        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
-      },
-      "ai_core_value": {
-        "value": true,
-        "status": "INFERENCE",
-        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
-      },
-      "company": null,
-      "region": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "price": null,
-      "price_range": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "traction_signal": null,
-      "market_signal": {
-        "value": "公开新品或行业报道信号",
-        "status": "INFERENCE",
-        "rationale": "仅基于新品发现来源。"
-      },
-      "problem_solved": {
-        "value": "Empowering developers and OEMs to build scalable, secure, and high-performance edge AI applications with Qualcomm’s IE-IoT platform.",
-        "status": "INFERENCE",
-        "rationale": "LLM 推断，非来源直接事实。"
-      },
-      "target_customer": {
-        "value": "IoT developers, enterprise solution architects, OEMs in manufacturing, healthcare, and smart cities",
-        "status": "INFERENCE",
-        "rationale": "LLM 推断，非来源直接事实。"
-      },
-      "ai_value_proposition": {
-        "value": "Provides a full-stack edge AI platform with hardware acceleration, security, and connectivity features tailored for industrial and commercial deployments.",
-        "status": "INFERENCE",
-        "rationale": "LLM 推断，非来源直接事实。"
-      },
-      "manufacturing_requirements": {
-        "value": [
-          "pcb_electronics",
-          "embedded_firmware",
-          "ai_software_integration",
-          "final_assembly",
-          "testing",
-          "supply_chain_integration"
-        ],
-        "status": "INFERENCE",
-        "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
-      },
-      "supply_chain_signal": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "competition_signal": {
-        "value": null,
-        "status": "UNKNOWN",
-        "rationale": null
-      },
-      "novelty_signal": {
-        "value": "Qualcomm declares completion of IE-IoT expansion, suggesting a mature ecosystem ready for mass adoption across industries.",
-        "status": "INFERENCE",
-        "rationale": "LLM 对来源新颖性信号的保守概括。"
-      },
-      "evidence": [
-        {
-          "source": "google_news",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0hYQ3ZrTmtBeFJGU2RxQ25mdHExQ3hYODk1MlhZbHc5YkNpbUxNNTBxNnBrQ3dWR1RDc0ZLTFBST3BZbENYa0VuMWhqMjhyX2Q0WTlHUG5tOGFrU2VOZDh6dW00VWkwcUFtNW9XemtiMjZZaUNLLVh1a1R2LTlKU2hsV1dIclgzVm4xQS16S1Z5bU5uc1R3YzJrSjZXUkJ6YzJiUkV2N0M0R1RYcGpuTg?oc=5",
-          "title": "Qualcomm’s IE‑IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises & OEMs - Qualcomm",
-          "published_at": "Mon, 05 Jan 2026 08:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
-          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0hYQ3ZrTmtBeFJGU2RxQ25mdHExQ3hYODk1MlhZbHc5YkNpbUxNNTBxNnBrQ3dWR1RDc0ZLTFBST3BZbENYa0VuMWhqMjhyX2Q0WTlHUG5tOGFrU2VOZDh6dW00VWkwcUFtNW9XemtiMjZZaUNLLVh1a1R2LTlKU2hsV1dIclgzVm4xQS16S1Z5bU5uc1R3YzJrSjZXUkJ6YzJiUkV2N0M0R1RYcGpuTg?oc=5\" target=\"_blank\"&gt;Qualcomm’s IE‑IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises & OEMs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Qualcomm&lt;/font&gt;",
-          "fact_status": "FACT"
-        }
-      ],
-      "sources": [
-        "google_news"
-      ],
-      "confidence": 0.5075000000000001,
-      "classification_method": "llm",
-      "score": {
-        "market_demand": 4,
-        "growth_timing": 7,
-        "ai_new_value": 10,
-        "manufacturing_fit": 0,
-        "supply_chain_feasibility": 4,
-        "profit_potential": 3,
-        "differentiation": 5,
-        "time_to_market": 0,
-        "opportunity_score": 33,
-        "risk_penalty": 17,
-        "final_score": 16,
-        "risk_notes": [
-          "pcb_electronics 能力档案未确认。",
-          "embedded_firmware 能力档案未确认。",
-          "ai_software_integration 能力档案未确认。",
-          "final_assembly 能力档案未确认。",
-          "testing 能力档案未确认。",
-          "supply_chain_integration 能力档案未确认。",
-          "没有来源支持的售价信息，利润空间未验证。",
-          "只有发现信号，缺少直接需求或互动证据。",
-          "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
-        ]
-      },
-      "status": "REJECTED",
-      "next_validation_questions": [
-        "Are there new reference designs or partner-certified modules available?",
-        "What new use cases or verticals are highlighted in the announcement?",
-        "Is there evidence of first customer deployments?"
+        "What is the latency and power consumption profile of these memory products under AI inference workloads?",
+        "Which SoCs or processors are they compatible with?",
+        "Are there public benchmarks comparing them to standard memory configurations?"
       ]
     },
     {
@@ -2149,7 +2023,7 @@
       "product_name": "Longsys Debuts Two Edge AI Memory Products at COMPUTEX: AIDIMM and AILPBGA Target Edge Computing Market - finance.biggo.com",
       "canonical_name": "longsys debuts two edge memory products at computex aidimm and ailpbga target edge computing market finance biggo com",
       "product_category": {
-        "value": "Edge AI Memory Module",
+        "value": "Edge AI Memory Product",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -2182,17 +2056,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Addressing memory bandwidth and power constraints in edge AI inference by providing specialized high-speed memory solutions.",
+        "value": "Addressing memory bottlenecks in edge AI systems by introducing high-speed, low-latency memory solutions.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "System integrators, server manufacturers, edge computing appliance builders",
+        "value": "System architects and OEMs in edge AI deployments",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "AIDIMM and AILPBGA offer optimized memory architecture for AI workloads, improving throughput and reducing latency in edge inference engines.",
+        "value": "AIDIMM and AILPBGA provide dedicated memory architecture optimized for real-time AI inference at the edge.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -2201,8 +2075,7 @@
           "plastics_injection",
           "pcb_electronics",
           "final_assembly",
-          "testing",
-          "supply_chain_integration"
+          "testing"
         ],
         "status": "INFERENCE",
         "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
@@ -2218,7 +2091,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "Introduction of purpose-built memory products (AIDIMM, AILPBGA) specifically engineered for AI processing at the edge.",
+        "value": "New memory form factors (DIMM and PBGA) specifically engineered for edge AI processing demands.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -2228,7 +2101,7 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11eDZ2MWR3UXRvWlhNTElWMGo0S3lsUUxUam1pM3dKajI2T1U1YlFJT1ZLeVc4aEZVU2hSNnNNX1FUSmJiQ25zRUw4SXZxRDNJelNFaFdKbEt1UTB6Y1lSeQ?oc=5",
           "title": "Longsys Debuts Two Edge AI Memory Products at COMPUTEX: AIDIMM and AILPBGA Target Edge Computing Market - finance.biggo.com",
           "published_at": "Wed, 03 Jun 2026 18:42:38 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
+          "observed_at": "2026-09-14T14:57:46.567Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE11eDZ2MWR3UXRvWlhNTElWMGo0S3lsUUxUam1pM3dKajI2T1U1YlFJT1ZLeVc4aEZVU2hSNnNNX1FUSmJiQ25zRUw4SXZxRDNJelNFaFdKbEt1UTB6Y1lSeQ?oc=5\" target=\"_blank\"&gt;Longsys Debuts Two Edge AI Memory Products at COMPUTEX: AIDIMM and AILPBGA Target Edge Computing Market&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
           "fact_status": "FACT"
         }
@@ -2236,7 +2109,7 @@
       "sources": [
         "google_news"
       ],
-      "confidence": 0.4525,
+      "confidence": 0.24900000000000003,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -2255,7 +2128,6 @@
           "pcb_electronics 能力档案未确认。",
           "final_assembly 能力档案未确认。",
           "testing 能力档案未确认。",
-          "supply_chain_integration 能力档案未确认。",
           "没有来源支持的售价信息，利润空间未验证。",
           "只有发现信号，缺少直接需求或互动证据。",
           "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
@@ -2263,17 +2135,17 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What is the memory bandwidth and power consumption profile compared to standard DIMMs?",
-        "Which AI processors or platforms are these modules designed to support?",
-        "Are there any early adopters or partners testing these modules?"
+        "What is the bandwidth and access latency of these memory products?",
+        "Are they compatible with common edge AI processors like NVIDIA Jetson, Qualcomm QCS, or Intel Movidius?",
+        "Do they include on-chip caching or error correction mechanisms tailored for AI?"
       ]
     },
     {
-      "id": "27ed53472895dcd5",
-      "product_name": "DEEPX Inks Global Edge AI Mass Production Partnership with AAEON - EE Times Asia",
-      "canonical_name": "deepx inks global edge mass production partnership with aaeon ee times asia",
+      "id": "28031ab9f45aec2b",
+      "product_name": "DEEPX Inks Global Edge AI Mass Production Partnership with AAEON - eetasia.com",
+      "canonical_name": "deepx inks global edge mass production partnership with aaeon eetasia com",
       "product_category": {
-        "value": "Edge AI System/Module",
+        "value": "Edge AI System",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -2306,17 +2178,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Enabling global scale-up of edge AI device production through a strategic manufacturing partnership.",
+        "value": "Scaling production of edge AI devices through a global manufacturing partnership.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "OEMs, system integrators, industrial automation companies",
+        "value": "OEMs and enterprise customers needing mass-produced edge AI hardware",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "DEEPX leverages AAEON’s manufacturing capacity to bring edge AI products to market at scale, reducing time-to-market and cost barriers.",
+        "value": "DEEPX partnering with AAEON to enable global-scale manufacturing of edge AI devices.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -2324,7 +2196,7 @@
         "value": [
           "cnc_machining",
           "sheet_metal_welding",
-          "tooling",
+          "plastics_injection",
           "pcb_electronics",
           "motors_actuators",
           "sensors",
@@ -2349,7 +2221,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "First public indication of DEEPX securing a global mass production partnership with AAEON, signaling transition from prototype to volume manufacturing.",
+        "value": "Global mass production partnership between DEEPX and AAEON for edge AI devices.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -2357,17 +2229,17 @@
         {
           "source": "google_news",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWURYN3l4ZFJIT0JrWEpzLUxuRGl3M0Z4d1JTN25OSVp6b0tGSlFrN21WQzhPXzZxTWFJVXRkZmhiOHk0R21nN01NbUtmcEQ2TjZqNDRqMUJMVzRtZFB1dDR0T2pyRXlYaTJEN0xqcm9PaGtXZFAtNDg4b1oxMzVXZy0xYnNPeVd0dm5fc29tQUs5UjQ?oc=5",
-          "title": "DEEPX Inks Global Edge AI Mass Production Partnership with AAEON - EE Times Asia",
+          "title": "DEEPX Inks Global Edge AI Mass Production Partnership with AAEON - eetasia.com",
           "published_at": "Wed, 03 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
-          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWURYN3l4ZFJIT0JrWEpzLUxuRGl3M0Z4d1JTN25OSVp6b0tGSlFrN21WQzhPXzZxTWFJVXRkZmhiOHk0R21nN01NbUtmcEQ2TjZqNDRqMUJMVzRtZFB1dDR0T2pyRXlYaTJEN0xqcm9PaGtXZFAtNDg4b1oxMzVXZy0xYnNPeVd0dm5fc29tQUs5UjQ?oc=5\" target=\"_blank\"&gt;DEEPX Inks Global Edge AI Mass Production Partnership with AAEON&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;EE Times Asia&lt;/font&gt;",
+          "observed_at": "2026-09-14T14:57:46.567Z",
+          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWURYN3l4ZFJIT0JrWEpzLUxuRGl3M0Z4d1JTN25OSVp6b0tGSlFrN21WQzhPXzZxTWFJVXRkZmhiOHk0R21nN01NbUtmcEQ2TjZqNDRqMUJMVzRtZFB1dDR0T2pyRXlYaTJEN0xqcm9PaGtXZFAtNDg4b1oxMzVXZy0xYnNPeVd0dm5fc29tQUs5UjQ?oc=5\" target=\"_blank\"&gt;DEEPX Inks Global Edge AI Mass Production Partnership with AAEON&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;eetasia.com&lt;/font&gt;",
           "fact_status": "FACT"
         }
       ],
       "sources": [
         "google_news"
       ],
-      "confidence": 0.5075000000000001,
+      "confidence": 0.24900000000000003,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -2384,7 +2256,7 @@
         "risk_notes": [
           "cnc_machining 能力档案未确认。",
           "sheet_metal_welding 能力档案未确认。",
-          "tooling 能力档案未确认。",
+          "plastics_injection 能力档案未确认。",
           "pcb_electronics 能力档案未确认。",
           "motors_actuators 能力档案未确认。",
           "sensors 能力档案未确认。",
@@ -2401,9 +2273,9 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "What types of edge AI devices are being manufactured under this partnership?",
-        "Are there specific customers or use cases already identified?",
-        "What is the projected production volume and timeline?"
+        "What types of edge AI devices are being produced (e.g., cameras, sensors, gateways)?",
+        "What is the scale of production capacity announced?",
+        "Are there known customers or deployment projects tied to this partnership?"
       ]
     },
     {
@@ -2411,7 +2283,7 @@
       "product_name": "LMT IoT and Infineon partner to support development of connected edge AI devices - New Electronics",
       "canonical_name": "lmt iot and infineon partner to support development of connected edge devices electronics",
       "product_category": {
-        "value": "Edge AI Hardware Ecosystem",
+        "value": "Edge AI Development Platform",
         "status": "INFERENCE",
         "rationale": "LLM 基于给定公开信号归类。"
       },
@@ -2444,17 +2316,17 @@
         "rationale": "仅基于新品发现来源。"
       },
       "problem_solved": {
-        "value": "Supporting end-to-end development of connected edge AI devices by combining LMT IoT’s platform expertise with Infineon’s semiconductor technology.",
+        "value": "Supporting the development lifecycle of connected edge AI devices through collaborative hardware-software integration.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "target_customer": {
-        "value": "Hardware startups, embedded developers, industrial IoT solution providers",
+        "value": "OEMs, developers, and system integrators building edge AI solutions",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
       "ai_value_proposition": {
-        "value": "Provides a validated foundation for building secure, low-latency edge AI applications with guaranteed hardware-software compatibility.",
+        "value": "LMT IoT and Infineon collaborating to provide integrated toolchains and hardware platforms for faster edge AI device development.",
         "status": "INFERENCE",
         "rationale": "LLM 推断，非来源直接事实。"
       },
@@ -2481,7 +2353,7 @@
         "rationale": null
       },
       "novelty_signal": {
-        "value": "LMT IoT and Infineon collaboration focused on supporting device development—not just selling chips, but enabling entire product creation workflows.",
+        "value": "Joint development support framework between LMT IoT and Infineon for connected edge AI devices.",
         "status": "INFERENCE",
         "rationale": "LLM 对来源新颖性信号的保守概括。"
       },
@@ -2491,7 +2363,7 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUw3VkdZV2lYckVJclBzaUtNbVN3M05yZmZwSGNVWUhMVnlUc01lSEJlTGNJb0hrdkZIZ3B0eDFRY2k5ZHZGTUhQdkdrVGNCYkRWb2wzZkhGVXRUWkg3RG5YVTg0Z2dmRlRoRS1NUTZBbk9hdzJ2MnJKRnZHeVhxdTZjcThQLWtHWHY2dlI2NW9Zc29nYVVRcnljWnh5WjBKZkRLTG9Hbm9Sak9qdTZ3RjZNbU9vRVVTY09jVUduRDJnQjVq?oc=5",
           "title": "LMT IoT and Infineon partner to support development of connected edge AI devices - New Electronics",
           "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-          "observed_at": "2026-09-14T11:07:54.270Z",
+          "observed_at": "2026-09-14T14:57:46.567Z",
           "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUw3VkdZV2lYckVJclBzaUtNbVN3M05yZmZwSGNVWUhMVnlUc01lSEJlTGNJb0hrdkZIZ3B0eDFRY2k5ZHZGTUhQdkdrVGNCYkRWb2wzZkhGVXRUWkg3RG5YVTg0Z2dmRlRoRS1NUTZBbk9hdzJ2MnJKRnZHeVhxdTZjcThQLWtHWHY2dlI2NW9Zc29nYVVRcnljWnh5WjBKZkRLTG9Hbm9Sak9qdTZ3RjZNbU9vRVVTY09jVUduRDJnQjVq?oc=5\" target=\"_blank\"&gt;LMT IoT and Infineon partner to support development of connected edge AI devices&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;New Electronics&lt;/font&gt",
           "fact_status": "FACT"
         }
@@ -2499,7 +2371,7 @@
       "sources": [
         "google_news"
       ],
-      "confidence": 0.48000000000000004,
+      "confidence": 0.24900000000000003,
       "classification_method": "llm",
       "score": {
         "market_demand": 4,
@@ -2527,9 +2399,135 @@
       },
       "status": "REJECTED",
       "next_validation_questions": [
-        "Are there developer tools, SDKs, or evaluation kits being made available?",
-        "Is this partnership tied to specific chip families or platforms?",
-        "Can developers access pre-certified hardware reference designs?"
+        "Are there reference boards or evaluation kits available?",
+        "What development tools or SDKs are included in the partnership?",
+        "Is there a roadmap for future product iterations?"
+      ]
+    },
+    {
+      "id": "f7782dd175e2dfdc",
+      "product_name": "NVIDIA Unveils New Edge AI Products Jetson T3000/T2000, Accelerates Robotics Strategy in Japan - finance.biggo.com",
+      "canonical_name": "nvidia unveils edge products jetson t3000 t2000 accelerates robotics strategy in japan finance biggo com",
+      "product_category": {
+        "value": "Edge AI Hardware",
+        "status": "INFERENCE",
+        "rationale": "LLM 基于给定公开信号归类。"
+      },
+      "physical_product": {
+        "value": true,
+        "status": "INFERENCE",
+        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
+      },
+      "ai_core_value": {
+        "value": true,
+        "status": "INFERENCE",
+        "rationale": "LLM 基于给定公开信号判定；需要后续验证。"
+      },
+      "company": null,
+      "region": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "price": null,
+      "price_range": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "traction_signal": null,
+      "market_signal": {
+        "value": "公开新品或行业报道信号",
+        "status": "INFERENCE",
+        "rationale": "仅基于新品发现来源。"
+      },
+      "problem_solved": {
+        "value": "Accelerating real-time AI inference at the edge for robotics applications in Japan, enabling low-latency decision-making without cloud dependency.",
+        "status": "INFERENCE",
+        "rationale": "LLM 推断，非来源直接事实。"
+      },
+      "target_customer": {
+        "value": "Robotics developers, industrial automation firms, and embedded systems integrators in Japan and global markets.",
+        "status": "INFERENCE",
+        "rationale": "LLM 推断，非来源直接事实。"
+      },
+      "ai_value_proposition": {
+        "value": "High-performance edge AI processing with Jetson T3000/T2000 modules tailored for complex robotics workloads, enabling on-device AI model execution.",
+        "status": "INFERENCE",
+        "rationale": "LLM 推断，非来源直接事实。"
+      },
+      "manufacturing_requirements": {
+        "value": [
+          "pcb_electronics",
+          "embedded_firmware",
+          "ai_software_integration",
+          "final_assembly",
+          "testing",
+          "supply_chain_integration"
+        ],
+        "status": "INFERENCE",
+        "rationale": "产品类别和 LLM 的保守推断；需工程团队复核。"
+      },
+      "supply_chain_signal": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "competition_signal": {
+        "value": null,
+        "status": "UNKNOWN",
+        "rationale": null
+      },
+      "novelty_signal": {
+        "value": "NVIDIA's focus on expanding edge AI hardware specifically for robotics strategy in Japan indicates regional market prioritization and hardware specialization.",
+        "status": "INFERENCE",
+        "rationale": "LLM 对来源新颖性信号的保守概括。"
+      },
+      "evidence": [
+        {
+          "source": "google_news",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ONW1zcFFRUEZ2UXdFeVkyOVJlVVhzWF9yN0MxX0pSeTBWU0Q0VGIzYVJMcmpoQUhoQnp1Ynd1UGExX3B0akN2SWY2OEhBYVVncnRlWGNYZDl1SktoTmtzbFdCOW1KY2xmMWVmYXBYSWZjbzFGbEE?oc=5",
+          "title": "NVIDIA Unveils New Edge AI Products Jetson T3000/T2000, Accelerates Robotics Strategy in Japan - finance.biggo.com",
+          "published_at": "Wed, 15 Jul 2026 07:00:00 GMT",
+          "observed_at": "2026-09-14T14:57:46.567Z",
+          "excerpt": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ONW1zcFFRUEZ2UXdFeVkyOVJlVVhzWF9yN0MxX0pSeTBWU0Q0VGIzYVJMcmpoQUhoQnp1Ynd1UGExX3B0akN2SWY2OEhBYVVncnRlWGNYZDl1SktoTmtzbFdCOW1KY2xmMWVmYXBYSWZjbzFGbEE?oc=5\" target=\"_blank\"&gt;NVIDIA Unveils New Edge AI Products Jetson T3000/T2000, Accelerates Robotics Strategy in Japan&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;finance.biggo.com&lt;/font&gt;",
+          "fact_status": "FACT"
+        }
+      ],
+      "sources": [
+        "google_news"
+      ],
+      "confidence": 0.24900000000000003,
+      "classification_method": "llm",
+      "score": {
+        "market_demand": 4,
+        "growth_timing": 7,
+        "ai_new_value": 10,
+        "manufacturing_fit": 0,
+        "supply_chain_feasibility": 4,
+        "profit_potential": 3,
+        "differentiation": 5,
+        "time_to_market": 0,
+        "opportunity_score": 33,
+        "risk_penalty": 17,
+        "final_score": 16,
+        "risk_notes": [
+          "pcb_electronics 能力档案未确认。",
+          "embedded_firmware 能力档案未确认。",
+          "ai_software_integration 能力档案未确认。",
+          "final_assembly 能力档案未确认。",
+          "testing 能力档案未确认。",
+          "supply_chain_integration 能力档案未确认。",
+          "没有来源支持的售价信息，利润空间未验证。",
+          "只有发现信号，缺少直接需求或互动证据。",
+          "制造能力档案覆盖不足，不能假设 OOMWOO 已具备优势。"
+        ]
+      },
+      "status": "REJECTED",
+      "next_validation_questions": [
+        "Are the Jetson T3000/T2000 modules already in production or still in development?",
+        "What specific robotics use cases are being targeted in Japan?",
+        "Is there a customer deployment or pilot program associated with this launch?"
       ]
     }
   ]
