@@ -97,7 +97,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.24900000000000003
+          "confidence": 0.5075000000000001
         }
       ],
       "momentum": "new",
@@ -114,7 +114,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.24900000000000003
+          "confidence": 0.425
         }
       ],
       "momentum": "new",
@@ -267,7 +267,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.4525
+          "confidence": 0.48000000000000004
         }
       ],
       "momentum": "new",
@@ -318,7 +318,7 @@
         {
           "date": "2026-09-14",
           "final_score": 16,
-          "confidence": 0.5075000000000001
+          "confidence": 0.48000000000000004
         }
       ],
       "momentum": "new",
@@ -327,6 +327,193 @@
     "1563c908c12d56a7": {
       "id": "1563c908c12d56a7",
       "canonical_name": "advantech reveals visual controller for edge vision from advantech industrial equipment news",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.5075000000000001
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "1869c63a317f0114": {
+      "id": "1869c63a317f0114",
+      "canonical_name": "nvidia unleashes robotics computer set for entry level edge electronicsweekly com",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.5075000000000001
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "a8134119093a6f6c": {
+      "id": "a8134119093a6f6c",
+      "canonical_name": "visteon stock rises on edge product launch by investing com investing com nigeria",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.48000000000000004
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "758a6ec4768f942d": {
+      "id": "758a6ec4768f942d",
+      "canonical_name": "lmt iot and infineon launch mentorship program to accelerate low power cellular edge products iot now",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.425
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "807d413e45eae2cc": {
+      "id": "807d413e45eae2cc",
+      "canonical_name": "synaptics and google research unveil coralboard for edge development at google i o 2026 quiver quantitative",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.4525
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "db4e4dc4f6c639ef": {
+      "id": "db4e4dc4f6c639ef",
+      "canonical_name": "deepx signs global edge mass production partnership with aaeon at computex taipei 2026 finance yahoo com",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.48000000000000004
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "c64be721c7b90000": {
+      "id": "c64be721c7b90000",
+      "canonical_name": "lmt iot and infineon announce partnership to accelerate connected edge product development baltic times",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.5075000000000001
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "1b7077802c1b48c3": {
+      "id": "1b7077802c1b48c3",
+      "canonical_name": "brainchip expands software for akida akd1500 edge processor embedded computing design",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.48000000000000004
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "ba82f93c01cce9d3": {
+      "id": "ba82f93c01cce9d3",
+      "canonical_name": "qualcomm s ie iot expansion is complete edge unleashed for developers enterprises oems qualcomm",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.5075000000000001
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "cd0247e0a53dc976": {
+      "id": "cd0247e0a53dc976",
+      "canonical_name": "longsys debuts two edge memory products at computex aidimm and ailpbga target edge computing market finance biggo com",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.4525
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "27ed53472895dcd5": {
+      "id": "27ed53472895dcd5",
+      "canonical_name": "deepx inks global edge mass production partnership with aaeon ee times asia",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "days_seen": 1,
+      "sources_count": 1,
+      "score_history": [
+        {
+          "date": "2026-09-14",
+          "final_score": 16,
+          "confidence": 0.5075000000000001
+        }
+      ],
+      "momentum": "new",
+      "status": "REJECTED"
+    },
+    "5d0e7801f42dc5a4": {
+      "id": "5d0e7801f42dc5a4",
+      "canonical_name": "lmt iot and infineon partner to support development of connected edge devices electronics",
       "first_seen": "2026-09-14",
       "last_seen": "2026-09-14",
       "days_seen": 1,
