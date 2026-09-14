@@ -21,7 +21,11 @@ function momentum(history: CandidateHistory): CandidateHistory["momentum"] {
   return delta >= 5 ? "rising" : delta <= -5 ? "falling" : "steady";
 }
 
-export function mergeHistory(store: HistoryStore, candidates: OpportunityCandidate[], date: string): { store: HistoryStore; candidates: OpportunityCandidate[] } {
+export function mergeHistory(
+  store: HistoryStore,
+  candidates: OpportunityCandidate[],
+  date: string,
+): { store: HistoryStore; candidates: OpportunityCandidate[] } {
   const updated: OpportunityCandidate[] = [];
   for (const candidate of candidates) {
     const existing = store.candidates[candidate.id];
@@ -35,7 +39,17 @@ export function mergeHistory(store: HistoryStore, candidates: OpportunityCandida
           score_history: [...existing.score_history.filter((entry) => entry.date !== date), point].slice(-60),
           status: candidate.status,
         }
-      : { id: candidate.id, canonical_name: candidate.canonical_name, first_seen: date, last_seen: date, days_seen: 1, sources_count: candidate.sources.length, score_history: [point], momentum: "new", status: candidate.status };
+      : {
+          id: candidate.id,
+          canonical_name: candidate.canonical_name,
+          first_seen: date,
+          last_seen: date,
+          days_seen: 1,
+          sources_count: candidate.sources.length,
+          score_history: [point],
+          momentum: "new",
+          status: candidate.status,
+        };
     history.momentum = momentum(history);
     store.candidates[candidate.id] = history;
     updated.push({ ...candidate, status: history.status });
