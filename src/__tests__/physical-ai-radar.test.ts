@@ -95,6 +95,20 @@ describe("OOMWOO Physical AI Radar", () => {
     expect(scored.confidence).toBeLessThan(0.9);
   });
 
+  it("rejects malformed LLM manufacturing text instead of treating every character as a capability", () => {
+    const candidate = deterministicCandidate(signal("AI Label Printer", "AI printer hardware"));
+    const malformed = {
+      ...candidate,
+      manufacturing_requirements: {
+        ...candidate.manufacturing_requirements,
+        value: "semiconductor fabrication" as unknown as string[],
+      },
+    };
+    const scored = scoreCandidate(malformed, profile, { validate: 75, watch: 60 });
+    expect(scored.score?.manufacturing_fit).toBe(0);
+    expect(scored.score?.risk_notes).toContain("制造需求未知，不能给出高制造匹配分。");
+  });
+
   it("deduplicates multi-source evidence and persists history", () => {
     const first = deterministicCandidate(signal("AI Label Printer", "AI printer hardware", "source-a"));
     const second = deterministicCandidate(signal("AI Label Printer", "AI printer hardware", "source-b"));
