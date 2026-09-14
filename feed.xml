@@ -6,13 +6,13 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://duanyytop.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 11:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:59:32 +0000</lastBuildDate>
     <item>
       <title>OOMWOO Physical AI Radar 2026-09-14</title>
       <link>https://duanyytop.github.io/agents-radar/#2026-09-14/physical-ai-radar</link>
       <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-09-14/physical-ai-radar</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>OOMWOO Physical AI Radar · 2026-09-14 目标：每天少看信息，只看可能被制造成真实商品、并值得进一步验证利润的 AI + 实体产品机会。 今日结论 扫描原始信号：630 通过实体 AI 第一层过滤：277 Physical AI candidates：20 VALIDATE：0；WATCH：0；过滤：353 今日最值得看：没有达到 VALIDATE/WATCH 门槛的产品机会。 Watchlist 今日没有达到 WATCH 门槛的候选。 已过滤 共 353 条信号未进入主报告，主要包括纯 SaaS、API、模型发布、Agent/开发框架、论文与没有实体 AI 价值证据的信息。 数据源健康度与覆盖限制 来源 状态 抓取 通过过滤 覆盖限制 google_news ok 450 289 Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data. indiegogo failed 0 0 Official endpoint a...</description>
+      <description>OOMWOO Physical AI Radar · 2026-09-14 目标：每天少看信息，只看可能被制造成真实商品、并值得进一步验证利润的 AI + 实体产品机会。 今日结论 扫描原始信号：630 通过实体 AI 第一层过滤：279 Physical AI candidates：20 VALIDATE：0；WATCH：0；过滤：351 今日最值得看：没有达到 VALIDATE/WATCH 门槛的产品机会。 Watchlist 今日没有达到 WATCH 门槛的候选。 已过滤 共 351 条信号未进入主报告，主要包括纯 SaaS、API、模型发布、Agent/开发框架、论文与没有实体 AI 价值证据的信息。 数据源健康度与覆盖限制 来源 状态 抓取 通过过滤 覆盖限制 google_news ok 450 277 Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data. indiegogo failed 0 0 Official endpoint a...</description>
       <content:encoded><![CDATA[<h1>OOMWOO Physical AI Radar · 2026-09-14</h1>
 <blockquote>
 <p>目标：每天少看信息，只看可能被制造成真实商品、并值得进一步验证利润的 AI + 实体产品机会。</p>
@@ -20,15 +20,15 @@
 <h2>今日结论</h2>
 <ul>
 <li>扫描原始信号：<strong>630</strong></li>
-<li>通过实体 AI 第一层过滤：<strong>277</strong></li>
+<li>通过实体 AI 第一层过滤：<strong>279</strong></li>
 <li>Physical AI candidates：<strong>20</strong></li>
-<li>VALIDATE：<strong>0</strong>；WATCH：<strong>0</strong>；过滤：<strong>353</strong></li>
+<li>VALIDATE：<strong>0</strong>；WATCH：<strong>0</strong>；过滤：<strong>351</strong></li>
 <li>今日最值得看：<strong>没有达到 VALIDATE/WATCH 门槛的产品机会。</strong></li>
 </ul>
 <h1>Watchlist</h1>
 <p>今日没有达到 WATCH 门槛的候选。</p>
 <h1>已过滤</h1>
-<p>共 <strong>353</strong> 条信号未进入主报告，主要包括纯 SaaS、API、模型发布、Agent/开发框架、论文与没有实体 AI 价值证据的信息。</p>
+<p>共 <strong>351</strong> 条信号未进入主报告，主要包括纯 SaaS、API、模型发布、Agent/开发框架、论文与没有实体 AI 价值证据的信息。</p>
 <h1>数据源健康度与覆盖限制</h1>
 <table>
 <thead>
@@ -44,7 +44,7 @@
 <td>google_news</td>
 <td align="right">ok</td>
 <td align="right">450</td>
-<td align="right">289</td>
+<td align="right">277</td>
 <td>Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data.</td>
 </tr>
 <tr>
