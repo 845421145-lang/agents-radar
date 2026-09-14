@@ -1,0 +1,20 @@
+# OOMWOO Manufacturing Capability Profile
+#
+# This is deliberately a starting template.  Fill in every field with the
+# operating team's real capability before relying on Manufacturing Fit as a
+# decision signal. Missing / unknown entries reduce score confidence.
+capabilities:
+  sheet_metal_welding: { capability_level: unknown, preference: neutral, notes: "Confirm process range and certifications." }
+  cnc_machining: { capability_level: unknown, preference: neutral, notes: "Confirm material, tolerance and batch-size range." }
+  plastics_injection: { capability_level: unknown, preference: neutral, notes: "Confirm tooling ownership and in-house vs partner capability." }
+  die_casting: { capability_level: unknown, preference: neutral, notes: "Confirm alloy and cosmetic finishing capability." }
+  tooling: { capability_level: unknown, preference: neutral, notes: "Confirm DFM, prototype and production tooling lead times." }
+  pcb_electronics: { capability_level: unknown, preference: neutral, notes: "Confirm PCB assembly, RF and certification support." }
+  motors_actuators: { capability_level: unknown, preference: neutral, notes: "Confirm sourcing, integration and test capability." }
+  sensors: { capability_level: unknown, preference: neutral, notes: "Confirm vision, audio, motion and environmental sensor supply." }
+  embedded_firmware: { capability_level: unknown, preference: neutral, notes: "Confirm MCU, edge-AI and OTA capability." }
+  ai_software_integration: { capability_level: unknown, preference: neutral, notes: "Confirm on-device/cloud AI architecture capability." }
+  final_assembly: { capability_level: unknown, preference: neutral, notes: "Confirm line capacity and quality systems." }
+  testing: { capability_level: unknown, preference: neutral, notes: "Confirm reliability, safety and regulatory test coverage." }
+  supply_chain_integration: { capability_level: unknown, preference: neutral, notes: "Confirm approved suppliers and sourcing regions." }
+  mass_production: { capability_level: unknown, preference: neutral, notes: "Confirm MOQ, ramp and quality capacity." }
