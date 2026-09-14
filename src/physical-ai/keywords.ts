@@ -84,6 +84,24 @@ const SOFTWARE_ONLY_TERMS = [
   "series b",
 ];
 
+// Headlines about a sector, conference, or stock may contain both AI and
+// hardware keywords, but they are not evidence of a discrete product to send
+// to Market Validation. Keep them out of the opportunity candidate pool.
+const GENERIC_DISCOVERY_TERMS = [
+  "tradingview",
+  "stock market",
+  "share price",
+  "demand accelerates",
+  "scene is booming",
+  "industry is booming",
+  "market outlook",
+  "market forecast",
+  "conference",
+  "showcase",
+  "summit",
+  "panel discussion",
+];
+
 export const PRODUCT_CATEGORY_HINTS: Array<[RegExp, string, string[]]> = [
   [
     /label|printer/i,
@@ -146,6 +164,14 @@ export function isPhysicalAiLikely(input: {
 }): boolean {
   const text = textForSignal(input);
   return includesAny(text, AI_TERMS) && includesAny(text, PHYSICAL_TERMS) && !isSoftwareOnlyLikely(input);
+}
+
+export function isSpecificPhysicalProductSignal(input: {
+  title: string;
+  description: string | null;
+  raw_category: string | null;
+}): boolean {
+  return !includesAny(textForSignal(input), GENERIC_DISCOVERY_TERMS);
 }
 
 export function isSoftwareOnlyLikely(input: {
