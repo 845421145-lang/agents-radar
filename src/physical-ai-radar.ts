@@ -14,6 +14,12 @@ async function main(): Promise<void> {
   const sourceResults = await fetchEnabledSources(config.sources);
   const signals = sourceResults.flatMap((result) => result.signals);
   const gate = prefilterSignals(signals);
+  // Source adapters use a broad hardware heuristic. Recalculate this display
+  // metric after the shared gate so source totals reconcile with the report.
+  const sourceHealth = sourceResults.map((result) => ({
+    ...result.health,
+    accepted_count: gate.kept.filter((signal) => signal.source === result.health.source).length,
+  }));
   console.log(
     `[physical-ai] ${signals.length} raw signals; ${gate.kept.length} passed deterministic physical-AI gate`,
   );
@@ -46,13 +52,13 @@ async function main(): Promise<void> {
     date,
     metrics,
     merged.candidates,
-    sourceResults.map((result) => result.health),
+    sourceHealth,
   );
   savePhysicalAiOutputs(
     date,
     report,
     merged.candidates,
-    sourceResults.map((result) => result.health),
+    sourceHealth,
     signals,
   );
   console.log(
