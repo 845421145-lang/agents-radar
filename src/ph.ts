@@ -176,7 +176,9 @@ export async function fetchPhData(): Promise<PhData> {
 
     const products = allProducts.sort((a, b) => b.votesCount - a.votesCount).slice(0, PH_TOP_PRODUCTS);
 
-    console.log(`  [ph] ${products.length} physical-AI discovery products (from ${json.data?.posts?.edges?.length ?? 0} total)`);
+    console.log(
+      `  [ph] ${products.length} physical-AI discovery products (from ${json.data?.posts?.edges?.length ?? 0} total)`,
+    );
     return { products, fetchSuccess: products.length > 0 };
   } catch (err) {
     console.error(`  [ph] fetch failed: ${err}`);
