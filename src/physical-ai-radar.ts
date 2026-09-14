@@ -48,19 +48,8 @@ async function main(): Promise<void> {
     validate: merged.candidates.filter((candidate) => candidate.status === "VALIDATE").length,
     filtered: signals.length - gate.kept.length,
   };
-  const report = buildPhysicalAiReport(
-    date,
-    metrics,
-    merged.candidates,
-    sourceHealth,
-  );
-  savePhysicalAiOutputs(
-    date,
-    report,
-    merged.candidates,
-    sourceHealth,
-    signals,
-  );
+  const report = buildPhysicalAiReport(date, metrics, merged.candidates, sourceHealth);
+  savePhysicalAiOutputs(date, report, merged.candidates, sourceHealth, signals);
   console.log(
     `[physical-ai] Done: ${metrics.validate} VALIDATE, ${metrics.watch} WATCH. Saved digests/${date}/physical-ai-radar.md`,
   );
