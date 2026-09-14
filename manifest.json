@@ -1,9 +1,10 @@
 {
-  "generated": "2026-09-14T08:52:13.926Z",
+  "generated": "2026-09-14T10:58:40.289Z",
   "dates": [
     {
       "date": "2026-09-14",
       "reports": [
+        "physical-ai-radar",
         "ai-cli",
         "ai-cli-en",
         "ai-agents",
