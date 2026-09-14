@@ -1,6 +1,12 @@
 import { createHash } from "node:crypto";
 import { callLlm, parseLlmJson } from "../report.ts";
-import { hasAiSignal, inferCategory, isPhysicalAiLikely, isSoftwareOnlyLikely } from "./keywords.ts";
+import {
+  hasAiSignal,
+  inferCategory,
+  isPhysicalAiLikely,
+  isSoftwareOnlyLikely,
+  isSpecificPhysicalProductSignal,
+} from "./keywords.ts";
 import type { InferredField, OpportunityCandidate, ProductSignal } from "./types.ts";
 
 const inferred = <T>(value: T | null, rationale: string | null): InferredField<T> => ({
@@ -21,7 +27,10 @@ function canonicalize(value: string): string {
 }
 
 export function prefilterSignals(signals: ProductSignal[]): { kept: ProductSignal[]; filtered: number } {
-  const kept = signals.filter((signal) => isPhysicalAiLikely(signal) && !isSoftwareOnlyLikely(signal));
+  const kept = signals.filter(
+    (signal) =>
+      isPhysicalAiLikely(signal) && isSpecificPhysicalProductSignal(signal) && !isSoftwareOnlyLikely(signal),
+  );
   return { kept, filtered: signals.length - kept.length };
 }
 
