@@ -151,6 +151,7 @@ export const FOOTER = {
 // ---------------------------------------------------------------------------
 
 export const REPORT_LABELS: Record<string, string> = {
+  "physical-ai-radar": "OOMWOO Physical AI Radar",
   "ai-cli": "AI CLI 工具社区动态日报",
   "ai-cli-en": "AI CLI Tools Digest",
   "ai-agents": "AI Agents 生态日报",
