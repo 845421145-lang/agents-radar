@@ -9,6 +9,7 @@ const FEED_PATH = "feed.xml";
 const SITE_URL = "https://duanyytop.github.io/agents-radar";
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const REPORT_FILES = [
+  "physical-ai-radar",
   "ai-cli",
   "ai-cli-en",
   "ai-agents",
