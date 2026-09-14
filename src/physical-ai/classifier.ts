@@ -92,8 +92,34 @@ interface LlmClassification {
   next_validation_questions: string[] | null;
 }
 
+const CAPABILITY_KEYS = new Set([
+  "sheet_metal_welding",
+  "cnc_machining",
+  "plastics_injection",
+  "die_casting",
+  "tooling",
+  "pcb_electronics",
+  "motors_actuators",
+  "sensors",
+  "embedded_firmware",
+  "ai_software_integration",
+  "final_assembly",
+  "testing",
+  "supply_chain_integration",
+  "mass_production",
+]);
+
+function normalizedRequirements(value: unknown, fallback: string[] | null): string[] {
+  if (!Array.isArray(value)) return fallback ?? [];
+  const requirements = value.filter(
+    (item): item is string => typeof item === "string" && CAPABILITY_KEYS.has(item),
+  );
+  return requirements.length ? requirements : (fallback ?? []);
+}
+
 function classifierPrompt(signals: ProductSignal[]): string {
-  return `你是 OOMWOO 的实体 AI 产品机会侦察员。你不是新闻编辑，也不是技术极客。\n\n只根据给定公开信号分类，不能编造销量、价格、BOM、利润、供应链、公司事实。输出严格 JSON 数组，每项只含：id, physical_product, ai_core_value, product_category, problem_solved, target_customer, ai_value_proposition, manufacturing_requirements, novelty_signal, confidence, next_validation_questions。\n\n规则：纯 SaaS、API、模型、论文、Agent/开发框架必须 physical_product=false。AI 只是营销而非核心价值则 ai_core_value=false。所有非直接来源事实要用保守语言，未知填 null。\n\n信号：\n${JSON.stringify(signals.map((s) => ({ id: s.id, title: s.title, description: s.description, source: s.source, category: s.raw_category, traction: s.traction_signal, evidence_url: s.source_url })))}`;
+  const capabilityIds = [...CAPABILITY_KEYS].join(", ");
+  return `你是 OOMWOO 的实体 AI 产品机会侦察员。你不是新闻编辑，也不是技术极客。\n\n只根据给定公开信号分类，不能编造销量、价格、BOM、利润、供应链、公司事实。输出严格 JSON 数组，每项只含：id, physical_product, ai_core_value, product_category, problem_solved, target_customer, ai_value_proposition, manufacturing_requirements, novelty_signal, confidence, next_validation_questions。manufacturing_requirements 必须是下列能力 ID 的 JSON 数组，不能输出说明文字：${capabilityIds}。\n\n规则：纯 SaaS、API、模型、论文、Agent/开发框架必须 physical_product=false。AI 只是营销而非核心价值则 ai_core_value=false。所有非直接来源事实要用保守语言，未知填 null。\n\n信号：\n${JSON.stringify(signals.map((s) => ({ id: s.id, title: s.title, description: s.description, source: s.source, category: s.raw_category, traction: s.traction_signal, evidence_url: s.source_url })))}`;
 }
 
 function applyLlm(base: OpportunityCandidate, item: LlmClassification): OpportunityCandidate {
@@ -115,7 +141,7 @@ function applyLlm(base: OpportunityCandidate, item: LlmClassification): Opportun
     target_customer: inferred(item.target_customer, "LLM 推断，非来源直接事实。"),
     ai_value_proposition: inferred(item.ai_value_proposition, "LLM 推断，非来源直接事实。"),
     manufacturing_requirements: inferred(
-      item.manufacturing_requirements ?? base.manufacturing_requirements.value,
+      normalizedRequirements(item.manufacturing_requirements, base.manufacturing_requirements.value),
       "产品类别和 LLM 的保守推断；需工程团队复核。",
     ),
     novelty_signal: inferred(item.novelty_signal, "LLM 对来源新颖性信号的保守概括。"),
