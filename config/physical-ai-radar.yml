@@ -1,0 +1,70 @@
+# OOMWOO Physical AI Radar V1.  All source switches live here.
+radar:
+  use_llm_classifier: true
+  llm_batch_size: 8
+  max_candidates_for_deep_analysis: 20
+  max_prefiltered_for_llm: 40
+  publish_issue: false
+  validate_threshold: 75
+  watch_threshold: 60
+
+sources:
+  google_news:
+    enabled: true
+    type: rss
+    queries:
+      - '"AI hardware" OR "AI device" OR "edge AI" product'
+      - 'robotics OR robot "new product"'
+      - '"AI glasses" OR "AI earbuds" OR "AI wearable"'
+      - '"AI camera" OR "AI home" OR "AI toy"'
+      - '"industrial vision" OR "AI inspection" equipment'
+  indiegogo:
+    enabled: true
+    type: official_public_api
+  crowd_supply:
+    enabled: true
+    type: public_catalog_page
+  hacker_news:
+    enabled: true
+    type: official_public_api
+  product_hunt:
+    enabled: true
+    type: official_api
+    requires_env: PRODUCTHUNT_TOKEN
+  kickstarter:
+    enabled: false
+    type: disabled
+    limitation: "No documented public discovery API selected for V1; do not claim Kickstarter coverage."
+  amazon:
+    enabled: false
+    type: disabled
+    limitation: "No compliant public sales/trend API selected for V1. Market Validation Agent should use approved commercial data."
+  tiktok_shop:
+    enabled: false
+    type: disabled
+    limitation: "No stable, approved public discovery interface selected for V1."
+  temu:
+    enabled: false
+    type: disabled
+    limitation: "No stable, approved public discovery interface selected for V1."
+  shopee:
+    enabled: false
+    type: disabled
+    limitation: "No stable, approved public discovery interface selected for V1."
+  platform_1688:
+    enabled: false
+    type: disabled
+    limitation: "No stable, approved public discovery interface selected for V1."
+
+# Kept as feature flags so the legacy technical digest remains available to a
+# future Technology Scout Agent, but it is not part of the Physical AI report.
+legacy_sources:
+  github_trending: { enabled: false, role: enabling_technology_signal }
+  openai_anthropic_web: { enabled: false }
+  hugging_face: { enabled: false }
+  arxiv: { enabled: false }
+  devto: { enabled: false }
+  lobsters: { enabled: false }
+  ai_cli_repos: { enabled: false }
+  openclaw_repos: { enabled: false }
+  ai_infra_repos: { enabled: false }
