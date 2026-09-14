@@ -9,7 +9,7 @@
       "accepted_count": 289,
       "limitation": "Google News RSS is a public feed without an SLA; it is headline-level discovery, not sales data.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:47.650Z"
+      "checked_at": "2026-09-14T11:03:14.694Z"
     },
     {
       "source": "indiegogo",
@@ -19,7 +19,7 @@
       "accepted_count": 0,
       "limitation": "Official endpoint availability may vary by region and platform policy.",
       "error": "Error: HTTP 403",
-      "checked_at": "2026-09-14T10:56:47.176Z"
+      "checked_at": "2026-09-14T11:03:14.301Z"
     },
     {
       "source": "crowd_supply",
@@ -29,7 +29,7 @@
       "accepted_count": 0,
       "limitation": "Public catalog page, parsed conservatively. No claim of complete Crowd Supply coverage.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:47.403Z"
+      "checked_at": "2026-09-14T11:03:14.267Z"
     },
     {
       "source": "hacker_news",
@@ -39,7 +39,7 @@
       "accepted_count": 2,
       "limitation": "Official HN API. Community attention is auxiliary evidence only, not demand proof.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:47.440Z"
+      "checked_at": "2026-09-14T11:03:14.654Z"
     },
     {
       "source": "product_hunt",
@@ -49,7 +49,7 @@
       "accepted_count": 0,
       "limitation": "PRODUCTHUNT_TOKEN is not configured; no Product Hunt coverage was claimed.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:47.047Z"
+      "checked_at": "2026-09-14T11:03:14.007Z"
     },
     {
       "source": "kickstarter",
@@ -59,7 +59,7 @@
       "accepted_count": 0,
       "limitation": "No documented public discovery API selected for V1; do not claim Kickstarter coverage.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:46.989Z"
+      "checked_at": "2026-09-14T11:03:13.826Z"
     },
     {
       "source": "amazon",
@@ -69,7 +69,7 @@
       "accepted_count": 0,
       "limitation": "No compliant public sales/trend API selected for V1. Market Validation Agent should use approved commercial data.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:46.989Z"
+      "checked_at": "2026-09-14T11:03:13.826Z"
     },
     {
       "source": "tiktok_shop",
@@ -79,7 +79,7 @@
       "accepted_count": 0,
       "limitation": "No stable, approved public discovery interface selected for V1.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:46.989Z"
+      "checked_at": "2026-09-14T11:03:13.826Z"
     },
     {
       "source": "temu",
@@ -89,7 +89,7 @@
       "accepted_count": 0,
       "limitation": "No stable, approved public discovery interface selected for V1.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:46.989Z"
+      "checked_at": "2026-09-14T11:03:13.826Z"
     },
     {
       "source": "shopee",
@@ -99,7 +99,7 @@
       "accepted_count": 0,
       "limitation": "No stable, approved public discovery interface selected for V1.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:46.989Z"
+      "checked_at": "2026-09-14T11:03:13.826Z"
     },
     {
       "source": "platform_1688",
@@ -109,7 +109,7 @@
       "accepted_count": 0,
       "limitation": "No stable, approved public discovery interface selected for V1.",
       "error": null,
-      "checked_at": "2026-09-14T10:56:46.989Z"
+      "checked_at": "2026-09-14T11:03:13.826Z"
     }
   ]
 }
