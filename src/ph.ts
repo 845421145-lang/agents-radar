@@ -2,7 +2,8 @@
  * Product Hunt AI products fetched via the GraphQL API.
  *
  * Strategy: fetch yesterday's top products (which have accumulated votes),
- * then filter locally for AI-related topics.
+ * then keep the hardware / Physical AI discovery surface. The final Physical
+ * AI gate lives in src/physical-ai and rejects SaaS, API and agent products.
  */
 
 // ---------------------------------------------------------------------------
@@ -34,18 +35,21 @@ const PH_TOP_PRODUCTS = 30;
 const PH_FETCH_COUNT = 20; // PH API complexity limit caps this at ~20
 const API_URL = "https://api.producthunt.com/v2/api/graphql";
 
-/** AI-related topic slugs — products with any of these are included. */
-const AI_TOPIC_SLUGS = new Set([
+/** Physical-AI discovery topic slugs — final classification happens downstream. */
+const PHYSICAL_AI_TOPIC_SLUGS = new Set([
   "artificial-intelligence",
   "machine-learning",
   "ai",
   "chatgpt",
   "llm",
-  "developer-tools",
-  "open-source",
-  "natural-language-processing",
-  "chatbots",
-  "generative-ai",
+  "hardware",
+  "internet-of-things",
+  "iot",
+  "wearables",
+  "robotics",
+  "consumer-electronics",
+  "electronics",
+  "smart-home",
 ]);
 
 // ---------------------------------------------------------------------------
@@ -152,9 +156,10 @@ export async function fetchPhData(): Promise<PhData> {
       const topicSlugs = node.topics?.edges?.map((e) => e.node.slug) ?? [];
       const topicNames = node.topics?.edges?.map((e) => e.node.name) ?? [];
 
-      // Filter: keep only products with at least one AI-related topic
-      const isAiRelated = topicSlugs.some((slug) => AI_TOPIC_SLUGS.has(slug));
-      if (!isAiRelated) continue;
+      // Do not use Product Hunt's broad software taxonomy as the final decision.
+      // This is only a cheap discovery gate for possible Physical AI products.
+      const isPhysicalDiscovery = topicSlugs.some((slug) => PHYSICAL_AI_TOPIC_SLUGS.has(slug));
+      if (!isPhysicalDiscovery) continue;
 
       allProducts.push({
         id: node.id,
@@ -171,7 +176,7 @@ export async function fetchPhData(): Promise<PhData> {
 
     const products = allProducts.sort((a, b) => b.votesCount - a.votesCount).slice(0, PH_TOP_PRODUCTS);
 
-    console.log(`  [ph] ${products.length} AI products (from ${json.data?.posts?.edges?.length ?? 0} total)`);
+    console.log(`  [ph] ${products.length} physical-AI discovery products (from ${json.data?.posts?.edges?.length ?? 0} total)`);
     return { products, fetchSuccess: products.length > 0 };
   } catch (err) {
     console.error(`  [ph] fetch failed: ${err}`);
