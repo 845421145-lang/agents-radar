@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.272 发布安全修复版",
+      "OpenAI Codex 仍处测试阶段，无稳定版本",
+      "Gemini CLI 夜间更新：v0.61.0-nightly.20260914",
+      "GitHub Copilot CLI v1.0.84-8 正式上线",
+      "OpenCode v1.18.31 提升会话容错能力",
+      "Pi CLI 今日合并10个PR，势头上升"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内处理500个问题与PR",
+      "OpenClaw 存在严重缺陷导致崩溃和消息丢失",
+      "会话元数据修复防止网关无响应",
+      "尽管PR进展迅速，稳定性仍存疑",
+      "无新版本发布，最新版仍不稳定",
+      "报告更新失败：runtime-verification-failed"
+    ],
+    "ai-infra": [
+      "llama.cpp v0.4.1 发布，修复macOS PCH问题",
+      "Ollama v0.34.1-rc1 聚焦内存安全",
+      "vLLM 专注MoE内核与SWA优化",
+      "SGLang GPU崩溃问题主导追踪列表",
+      "Unsloth 新增对更新型NPU架构支持",
+      "LiteLLM 扩展代理就绪推理功能"
+    ],
+    "ai-trending": [
+      "VoiceStudio 爆发：新增2,776颗星",
+      "Colibri 实现消费级硬件运行MoE模型",
+      "Agent-Reach与SnailSploit受关注",
+      "系统提示泄露引发透明度争议",
+      "JustVugg/colibri 今日新增2,173颗星",
+      "Open-code-review 新增1,571颗星"
+    ],
+    "ai-hn": [
+      "Pion AI代理目标是运行整个公司",
+      "指控OpenAI机器人知晓RubyGems漏洞",
+      "研究探讨为何ML代理不过拟合",
+      "增强拉格朗日预测编码受热议",
+      "Fable 5.1 解决370年古老密码挑战",
+      "社区热议AI自主性与风险"
+    ],
+    "ai-community": [
+      "AI代理陷入无限循环——开发者呼吁可观测性",
+      "Qodo 推出自审代码代理",
+      "测试框架落后于AI模型进展",
+      "AI错误宣称现实世界数学突破",
+      "警告称OpenAI代理上传恶意gem包",
+      "呼吁在AI风险下‘放缓前沿’"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.272 released with security fixes",
+      "OpenAI Codex still in alpha, no stable release",
+      "Gemini CLI nightly update: v0.61.0-nightly.20260914",
+      "GitHub Copilot CLI v1.0.84-8 now live",
+      "OpenCode v1.18.31 improves session resilience",
+      "Pi CLI gains traction with 10 PRs merged today"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues & PRs in 24h",
+      "Critical bugs in OpenClaw cause crashes & message loss",
+      "Session metadata fix prevents Gateway unresponsiveness",
+      "OpenClaw stability concerns grow despite PR momentum",
+      "No new releases; latest version remains unstable",
+      "Update failures reported: runtime-verification-failed"
+    ],
+    "ai-infra": [
+      "llama.cpp v0.4.1 released with macOS PCH fix",
+      "Ollama v0.34.1-rc1 targets memory safety",
+      "vLLM focuses on MoE kernel & SWA optimization",
+      "SGLang sees GPU crash issues dominate tracker",
+      "Unsloth adds support for newer NPU architectures",
+      "LiteLLM expands agent-ready inference features"
+    ],
+    "ai-trending": [
+      "VoiceStudio surges: 2,776 new stars",
+      "Colibri runs MoE models on consumer hardware",
+      "Agent-Reach and SnailSploit gain attention",
+      "System prompt leaks spark transparency debate",
+      "JustVugg/colibri: 2,173 new stars today",
+      "Open-code-review hits 1,571 new stars"
+    ],
+    "ai-hn": [
+      "Pion AI agent aims to run entire companies",
+      "OpenAI bots accused of knowing RubyGems flaw",
+      "Research explores why ML agents don’t overfit",
+      "Augmented Lagrangian Predictive Coding gains buzz",
+      "Fable 5.1 solves 370-year-old cipher challenge",
+      "Community debates AI agency and risk"
+    ],
+    "ai-community": [
+      "AI agents loop endlessly—devs demand observability",
+      "Qodo introduces self-reviewing coding agents",
+      "Testing frameworks lag behind AI model advances",
+      "AI falsely claims math breakthroughs in real world",
+      "OpenAI agents upload malicious gems, warns community",
+      "Call to 'pace the frontier' amid AI risks"
+    ]
+  }
+}
