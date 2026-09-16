@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.273 稳定性修复版发布",
+      "OpenAI Codex 24小时内出现10+严重问题",
+      "Gemini CLI v0.61.0-nightly 已上线",
+      "GitHub Copilot CLI v1.0.84-9 修复内存溢出漏洞",
+      "OpenCode v1.18.30 损坏，暂无发布计划",
+      "Pi CLI 尽管活跃但无新版本发布"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.9.4 导致网关重启循环",
+      "PR #149548：矩阵凭证存储重构以增强安全",
+      "Web UI 触控交互已在 PR #149360 修复",
+      "CLI 回退心跳现支持静默退出",
+      "会话状态损坏源于过期任务释放",
+      "全局安装交换时报告 npm 更新失败"
+    ],
+    "ai-infra": [
+      "vLLM 拥有284个开放问题，合并12个PR",
+      "llama.cpp b10991 和 b10985 构建已可用",
+      "Ollama v0.34.2-rc0 进入候选发布阶段",
+      "LiteLLM v1.101.0 稳定版确认发布",
+      "SGLang 24小时内合并8个PR",
+      "Unsloth 今日已合并7个PR"
+    ],
+    "ai-trending": [
+      "Hermes Agent 成为轻量级代理框架新星",
+      "VoiceStudio 出现本地多语言语音工具",
+      "Colibri 实现纯C语言MoE推理提速",
+      "mem0 与 claude-mem 支持代理持久记忆",
+      "Nanobot 在自主代理工作流中获关注",
+      "Caveman 项目提供高性价比编码代理"
+    ],
+    "ai-web": [
+      "OpenAI 被评为 Gartner 2026 企业AI领导者",
+      "自2026年6月发布后无新Anthropic内容",
+      "Gartner认可标志企业AI主导地位",
+      "OpenAI企业叙事持续升温",
+      "Anthropic 在Claude 3.5 Sonnet后曝光度低",
+      "企业AI助手市场聚焦OpenAI"
+    ],
+    "ai-hn": [
+      "System One Models 推出自修正代理",
+      "Gemini 3.8 Live 强调实时推理",
+      "Fable 5.1 破解370年古老密码",
+      "争议声明：单家公司攻破OpenAI、Anthropic",
+      "F-Droid 被指使用LLM生成代码库",
+      "聊天机器人声称仅凭未标注提示即失控"
+    ],
+    "ai-arxiv": [
+      "《Corrupt Plans》论文揭示思维链监控绕过",
+      "训练中期的免疫策略影响LLM泛化",
+      "Mind2Dialogue 训练共情语言模型",
+      "Atria Dawn Preview 探索自指智能",
+      "AlgoEvo 实现代理进化后代能力",
+      "CiteGuard-RAG 保障RAG系统事实准确性"
+    ],
+    "ai-community": [
+      "Dev.to：AI时代带来情绪代价与倦怠",
+      "AI无法替代工程判断，只会掩盖",
+      "过度依赖LLM导致认知退化上升",
+      "开发者警告代码质量中的AI捷径",
+      "呼吁放缓：Dario Amodei 呼声广泛传播",
+      "'免费'AI开发的真实成本受审视"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.273 released with stability fixes",
+      "OpenAI Codex hits 10+ critical issues in 24h",
+      "Gemini CLI v0.61.0-nightly now live",
+      "GitHub Copilot CLI fixes OOM bugs in v1.0.84-9",
+      "OpenCode v1.18.30 broken, no release planned",
+      "Pi CLI faces no new releases despite activity"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.9.4 linked to gateway restart loops",
+      "PR #149548: Matrix credential storage refactored for safety",
+      "Web UI touch interaction fixed in PR #149360",
+      "CLI-fallback heartbeats now have silent escape hatch",
+      "Session state corruption due to stale_lane_task release",
+      "npm update failures during global install swap reported"
+    ],
+    "ai-infra": [
+      "vLLM leads with 284 open issues and 12 PRs merged",
+      "llama.cpp builds b10991 and b10985 now available",
+      "Ollama v0.34.2-rc0 now in release candidate phase",
+      "LiteLLM v1.101.0 stable release confirmed",
+      "SGLang sees 8 PRs merged in 24h",
+      "Unsloth active with 7 PRs merged today"
+    ],
+    "ai-trending": [
+      "Hermes Agent surges as lightweight agent framework",
+      "VoiceStudio emerges as local multilingual voice tool",
+      "Colibri enables pure C MoE inference for speed",
+      "mem0 and claude-mem enable persistent agent memory",
+      "Nanobot gains traction in autonomous agent workflows",
+      "Caveman project offers token-efficient coding agents"
+    ],
+    "ai-web": [
+      "OpenAI named Gartner 2026 Enterprise AI Leader",
+      "No new Anthropic content since June 2026 launch",
+      "Gartner recognition signals enterprise AI dominance",
+      "OpenAI's enterprise narrative gains momentum",
+      "Anthropic shows low visibility post-Claude 3.5 Sonnet",
+      "Enterprise AI assistant market solidifies around OpenAI"
+    ],
+    "ai-hn": [
+      "System One Models introduce self-correcting agents",
+      "Gemini 3.8 Live emphasizes real-time reasoning",
+      "Fable 5.1 cracks 370-year-old cipher",
+      "Controversial claim: single firm hacked OpenAI, Anthropic",
+      "F-Droid accused of LLM-generated codebase",
+      "Chatbot claims unaligned with a single unlabeled prompt"
+    ],
+    "ai-arxiv": [
+      "Corrupt Plans paper exposes CoT monitoring bypass",
+      "Inoculation midtraining shapes LLM generalization",
+      "Mind2Dialogue trains empathetic language models",
+      "Atria Dawn Preview explores self-referential intelligence",
+      "AlgoEvo enables agents to evolve their successors",
+      "CiteGuard-RAG ensures factual grounding in RAG systems"
+    ],
+    "ai-community": [
+      "Dev.to: AI era brings emotional toll and burnout",
+      "AI can't replace engineering judgment, just hide it",
+      "Cognitive atrophy from over-reliance on LLMs rising",
+      "Developers warn against AI shortcuts in code quality",
+      "Call to slow down: Dario Amodei’s plea echoed widely",
+      "Real cost of 'free' AI development under scrutiny"
+    ]
+  }
+}
