@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.275 今日发布",
+      "OpenAI Codex 更新至 rust-v0.155.0",
+      "Gemini CLI 夜间构建已上线",
+      "GitHub Copilot CLI v1.0.86-2 正式运行",
+      "OpenCode 24小时内提交10个PR",
+      "Pi 工具在开发社区受关注"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内处理500个问题与PR",
+      "关键网关崩溃修复已合并",
+      "OpenClaw 恢复Bun运行时支持",
+      "Hermes Agent项目势头上升",
+      "QwenPaw集成代理框架",
+      "ZeroClaw Labs探索代理安全"
+    ],
+    "ai-infra": [
+      "vLLM 修复关键回归问题",
+      "SGLang 稳定性问题浮现",
+      "llama.cpp 发布 b11028–b11017",
+      "Ollama CLI 代理变更破坏流程",
+      "LiteLLM 增加多模型编排",
+      "Unsloth 提升ARM64与CUDA支持"
+    ],
+    "ai-trending": [
+      "WeKnora引领AI代理趋势爆发",
+      "affan-m/ECC 今日+1,171星",
+      "阿里巴巴开源安全审查工具",
+      "Cloudflare推出审计技能",
+      "腾讯浏览器技能受关注",
+      "Claude Code 达538星"
+    ],
+    "ai-web": [
+      "Anthropic 推出生命科学LSVP",
+      "Claude 加速生物分子建模",
+      "单张H100 GPU提速4倍",
+      "OpenAI 推送企业指南",
+      "Claude Science 模拟超10K token系统",
+      "LSVP 实现实时药物发现"
+    ],
+    "ai-hn": [
+      "OpenAI 承认模型对齐问题",
+      "泄露文档揭示‘劳动窃取’",
+      "Plugin4Shell发现零点击RCE",
+      "Bend和Jev Ultrafast代理引发热议",
+      "Astra for Law与Canto模型涌现",
+      "无限参数LLM研究成趋势"
+    ],
+    "ai-arxiv": [
+      "无限参数LLM：实时权重生成",
+      "零阶对齐降低训练成本",
+      "CERA-MoA协同进化代理路由",
+      "突破三值LLM 1.58比特瓶颈",
+      "ReFigBench评测代理推理",
+      "ECtHR-NPD测试领域专用AI"
+    ],
+    "ai-community": [
+      "AI重写旧版代码漏洞",
+      "用150美元安卓机构建AI导师",
+      "AI能写代码却无法证明修复",
+      "本地优先AI运动渐成气候",
+      "System One模型返回类型化决策",
+      "担忧知识与工具中毒"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.275 released today",
+      "OpenAI Codex updates to rust-v0.155.0",
+      "Gemini CLI nightly build out now",
+      "GitHub Copilot CLI v1.0.86-2 live",
+      "OpenCode sees 10 PRs in 24h",
+      "Pi tool gains traction in dev community"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues & PRs in 24h",
+      "Critical Gateway crash fixes merged",
+      "Bun runtime support restored in OpenClaw",
+      "Hermes Agent project gains momentum",
+      "QwenPaw integration with agent frameworks",
+      "ZeroClaw Labs explores agent safety"
+    ],
+    "ai-infra": [
+      "vLLM patches critical regressions",
+      "SGLang stability concerns emerge",
+      "llama.cpp releases b11028–b11017",
+      "Ollama CLI agent change breaks workflows",
+      "LiteLLM adds multi-model orchestration",
+      "Unsloth boosts ARM64 and CUDA support"
+    ],
+    "ai-trending": [
+      "WeKnora leads AI agent trend surge",
+      "affan-m/ECC +1,171 stars today",
+      "Alibaba open-codes security review tool",
+      "Cloudflare launches audit skill",
+      "Tencent BrowserSkill gains attention",
+      "Claude Code hits 538 stars"
+    ],
+    "ai-web": [
+      "Anthropic launches LSVP for life sciences",
+      "Claude accelerates biomolecular modeling",
+      "4× speedup on single H100 GPU",
+      "OpenAI pushes enterprise guides",
+      "Claude Science simulates 10K+ token systems",
+      "LSVP enables real-time drug discovery"
+    ],
+    "ai-hn": [
+      "OpenAI admits model misalignment",
+      "Leaked docs reveal 'theft of labor'",
+      "Plugin4Shell zero-click RCE found",
+      "Bend and Jev Ultrafast agents gain buzz",
+      "Astra for Law and Canto models emerge",
+      "Infinite-parameter LLM research trends"
+    ],
+    "ai-arxiv": [
+      "Infinite-parameter LLMs: live weight gen",
+      "Zeroth-order alignment reduces cost",
+      "CERA-MoA co-evolves agent routing",
+      "Breaking 1.58-bit barrier in ternary LLMs",
+      "ReFigBench benchmarks agent reasoning",
+      "ECtHR-NPD tests domain-specific AI"
+    ],
+    "ai-community": [
+      "AI rewrites old bugs from legacy code",
+      "Build AI mentor on $150 Android phone",
+      "AI writes code but can't prove fixes",
+      "Local-first AI movement gains steam",
+      "System One models return typed decisions",
+      "Concerns over knowledge and tool poisoning"
+    ]
+  }
+}
