@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.277 新增 AGENTS.md 支持",
+      "OpenAI Codex 升级至 rust-v0.155.1",
+      "Pi CLI 在开源社区获得关注",
+      "Qwen Code 现支持多语言代理",
+      "Gemini CLI 引入持久化状态管理",
+      "GitHub Copilot CLI 推出新安全检测"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时内触发 500 个问题",
+      "生产环境遭遇严重内存泄漏",
+      "自 2026.9.4 版本后无新发布",
+      "P0 问题影响网关可用性与消息传递",
+      "近期 PR 主要聚焦界面优化",
+      "多个工单报告会话状态损坏"
+    ],
+    "ai-infra": [
+      "vLLM 新增 5 个问题，关键修复进行中",
+      "SGLang 发布 v0.5.20 优化扩展能力",
+      "llama.cpp 面对 224 个未解决的 GPU 崩溃报告",
+      "Ollama 发布 v0.34.3-rc0 含破坏性变更",
+      "Unsloth 优化 Blackwell GPU 推理",
+      "Cosign 签名镜像成为基础设施主流"
+    ],
+    "ai-trending": [
+      "Claude Code 星标飙升 444 个",
+      "OpenCodeReview 今日达 2,704 星",
+      "Security-audit-skill 获 3,006 星",
+      "thedotmack/claude-mem 热门于持久性",
+      "Tencent/BrowserSkill 开启浏览器代理",
+      "ECC 项目强化代理性能焦点"
+    ],
+    "ai-web": [
+      "Anthropic 与 Accenture 合作安全事宜",
+      "Claude 蛋白质预测提速 4 倍",
+      "新 AI 安全举措嵌入工作流",
+      "Claude 优化 30+ 开源模型",
+      "Accenture Faculty 团队加入评估",
+      "科学发现因 AI 推进突破"
+    ],
+    "ai-hn": [
+      "OpenAI 用 LLM 设计 Jalapeño 芯片",
+      "AI 幻觉险些引发军事危机",
+      "微软称数据抓取为‘劳力盗窃’",
+      "Bend：GPU 原生语言阻断错误",
+      "语义缓存间通信上线",
+      "GLM 构建定制推理架构"
+    ],
+    "ai-arxiv": [
+      "前沿代理夸大任务完成度",
+      "安全训练后性别偏见仍存",
+      "PosteriorBench 提升模型评估严谨性",
+      "JEPA-Anything 实现自适应世界建模",
+      "GeoAAC 统一感知与行动",
+      "有害行为伪装转化歧视"
+    ],
+    "ai-community": [
+      "验证 AI 代码成主要瓶颈",
+      "只读 AI 代理安全审计 AWS",
+      "在 AMD MI300X 上部署 Gemma 4 每小时 1.99 美元",
+      "流式 AI 接口需严格测试",
+      "恶意包即便标记为‘良性’仍被预警",
+      "本地推理延迟仍是核心关切"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.277 adds AGENTS.md support",
+      "OpenAI Codex updates to rust-v0.155.1",
+      "Pi CLI gains traction in open-source community",
+      "Qwen Code now supports multi-language agents",
+      "Gemini CLI introduces persistent state management",
+      "GitHub Copilot CLI rolls out new security checks"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues in 24 hours",
+      "Critical memory leaks plague OpenClaw production",
+      "No new releases since version 2026.9.4",
+      "P0 bugs affect gateway uptime and message delivery",
+      "UI refinements dominate recent PRs",
+      "Session state corruption reported in multiple tickets"
+    ],
+    "ai-infra": [
+      "vLLM sees +5 new issues, critical fixes underway",
+      "SGLang releases v0.5.20 with scaling improvements",
+      "llama.cpp faces 224 open GPU crash reports",
+      "Ollama ships v0.34.3-rc0 with breaking changes",
+      "Unsloth optimizes Blackwell GPU inference",
+      "Cosign-signed images now mainstream in infra"
+    ],
+    "ai-trending": [
+      "Claude Code surges with 444 new stars",
+      "OpenCodeReview hits 2,704 stars today",
+      "Security-audit-skill gains 3,006 stars",
+      "thedotmack/claude-mem trends for persistence",
+      "Tencent/BrowserSkill enables browser agents",
+      "ECC project boosts agent performance focus"
+    ],
+    "ai-web": [
+      "Anthropic partners with Accenture on safety",
+      "Claude speeds up protein prediction 4x",
+      "New AI safety initiative embedded in workflows",
+      "Claude optimizes 30+ open-source models",
+      "Accenture’s Faculty team joins evaluation",
+      "Scientific discovery powered by AI advances"
+    ],
+    "ai-hn": [
+      "OpenAI uses LLMs to design Jalapeño chip",
+      "AI hallucination nearly triggered military crisis",
+      "Microsoft calls data scraping 'theft of labor'",
+      "Bend: GPU-native language blocks AI errors",
+      "Semantic cache-to-cache communication launched",
+      "GLM builds custom inference infrastructure"
+    ],
+    "ai-arxiv": [
+      "Frontier agents overclaim task completion",
+      "Gender bias persists after safety training",
+      "PosteriorBench improves model evaluation rigor",
+      "JEPA-Anything enables adaptive world modeling",
+      "GeoAAC unifies perception and action",
+      "Harm laundering transforms discrimination subtly"
+    ],
+    "ai-community": [
+      "Proving AI code is now the main bottleneck",
+      "Read-only AI agent audits AWS safely",
+      "Serving Gemma 4 on AMD MI300X costs $1.99/hour",
+      "Streaming AI interfaces need rigorous testing",
+      "Malicious packages flagged despite 'benign' labels",
+      "Local inference latency remains a key concern"
+    ]
+  }
+}
