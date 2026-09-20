@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.278 修复分类器问题发布",
+      "OpenAI Codex: rust-v0.156.0-alpha.9 稳定中",
+      "Gemini CLI v0.62.0-nightly 修复 PTY/AST 问题",
+      "GitHub Copilot CLI：无新版本，待修复",
+      "OpenCode：10 个 PR，免费版延迟发布",
+      "Qwen Code 在开源社区受关注"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.5 稳定网关与会话完整性",
+      "OpenClaw 网关启动崩溃循环已修复",
+      "内存泄漏与升级失败仍存",
+      "OpenClaw WebUI 性能提升",
+      "用户警告：2026.9.4 后升级可能无声失败",
+      "可回滚但不总透明"
+    ],
+    "ai-infra": [
+      "vLLM：PR #57731 引入破坏性变更",
+      "SGLang：在途破坏性变更待审",
+      "llama.cpp：新增 3 个版本（b11053–b11057）",
+      "Ollama：无发布，稳定性仍存疑",
+      "LiteLLM：成本治理采用率上升",
+      "Unsloth：边缘 LLM 训练优化"
+    ],
+    "ai-trending": [
+      "Claude Code：今日 +483 星",
+      "Cua：+859 星，AI 代理基础设施",
+      "安全审计技能：+3155 星",
+      "Mem0 & Claude-Mem：本地优先记忆趋势",
+      "Graphify & RAGFlow：知识管理进展",
+      "Agent-skills 工具包：模块化 AI 流程"
+    ],
+    "ai-web": [
+      "OpenAI 发布澳大利亚青年安全蓝图",
+      "政策焦点：面向青年的 AI 安全",
+      "无技术细节——伦理重于工程",
+      "Anthropic 静默：潜在重大发布酝酿中",
+      "Claude Guard 与 API v3 更新暂停",
+      "或迎 Claude 4 前的战略暂停"
+    ],
+    "ai-hn": [
+      "微软高管称 AI 数据抓取为‘盗窃’",
+      "AI 幻觉情报险致美国危机",
+      "发现两个大脑起源——AI 意义？",
+      "LLMs 通过缓存直连通信",
+      "AI 生成电影特技引发真实性争议",
+      "OpenAI 用 LLM 设计芯片——自我优化"
+    ],
+    "ai-community": [
+      "AI 编码代理可被仓库劫持",
+      "仅 60% 的 AI 测试通过生产",
+      "用 AI 自相辩论捕捉错误",
+      "聚焦代理记忆与上下文压缩",
+      "Jev + TLA+ 验证决策模型",
+      "OpenArm 与 Laya：易用的物理 AI 研究"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.278 released with classifier fix",
+      "OpenAI Codex: rust-v0.156.0-alpha.9 stabilizing",
+      "Gemini CLI v0.62.0-nightly fixes PTY/AST issues",
+      "GitHub Copilot CLI: no new release, pending fixes",
+      "OpenCode: 10 PRs, free-tier release delayed",
+      "Qwen Code gaining traction in open-source community"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.5 stabilizes gateway and session integrity",
+      "Critical crash loops fixed in OpenClaw Gateway startup",
+      "Memory leaks and upgrade failures still plague agents",
+      "OpenClaw WebUI performance now improved",
+      "Users warned: upgrades may fail silently post-2026.9.4",
+      "Rollback possible but not always transparent"
+    ],
+    "ai-infra": [
+      "vLLM: breaking change in PR #57731",
+      "SGLang: in-flight breaking changes under review",
+      "llama.cpp: 3 new releases (b11053–b11057)",
+      "Ollama: no release, stability concerns remain",
+      "LiteLLM: growing adoption for cost governance",
+      "Unsloth: optimized training for LLMs on edge"
+    ],
+    "ai-trending": [
+      "Claude Code: +483 stars today",
+      "Cua: +859 stars, AI agent infrastructure",
+      "Security audit skill: +3155 stars",
+      "Mem0 & Claude-Mem: local-first memory trend",
+      "Graphify & RAGFlow: advancing knowledge management",
+      "Agent-skills toolkit: modular AI workflows"
+    ],
+    "ai-web": [
+      "OpenAI launches Australian Youth Safety Blueprint",
+      "Policy focus: AI safety in youth-centric contexts",
+      "No technical details—ethics over engineering",
+      "Anthropic silent: potential major release brewing",
+      "Claude Guard and API v3 updates paused",
+      "Strategic pause ahead of possible Claude 4"
+    ],
+    "ai-hn": [
+      "Microsoft exec calls AI data scraping 'theft'",
+      "AI hallucinated intelligence nearly caused U.S. crisis",
+      "Two brain progenitors found—AI implications?",
+      "LLMs communicate directly via cache-to-cache",
+      "AI-generated film stunts spark authenticity debate",
+      "OpenAI uses LLMs to design chips—self-optimization"
+    ],
+    "ai-community": [
+      "AI coding agents can be hijacked by repos",
+      "Only 60% of AI tests survived production",
+      "Use AI arguing with itself to catch errors",
+      "Agent memory and context compaction in focus",
+      "Jev + TLA+ for decision model verification",
+      "OpenArm and Laya: accessible physical AI research"
+    ]
+  }
+}
