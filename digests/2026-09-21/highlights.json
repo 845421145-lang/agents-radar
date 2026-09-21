@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code今日引爆10个热点",
+      "Gemini CLI发布v0.62.0-nightly",
+      "OpenAI Codex发布3个测试版",
+      "GitHub Copilot CLI无新版本",
+      "Pi工具活跃度飙升10次",
+      "Qwen Code新增技能"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内提交500个问题",
+      "混沌中无OpenClaw更新",
+      "Heartbeat修复#153573稳定消息",
+      "插件清理解决每日7.5GB膨胀",
+      "会话状态修复防止数据丢失",
+      "Hermes Agent融入工作流"
+    ],
+    "ai-infra": [
+      "vLLM领先，18个开放问题",
+      "SGLang激增23个新问题",
+      "llama.cpp补丁b11065",
+      "Ollama仅合并5个PR",
+      "LiteLLM发布v1.103.0-rc.1",
+      "Unsloth测试版存在回归问题"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC获26.3万星标",
+      "Cloudflare安全技能走红",
+      "RAG+向量数据库集成上升",
+      "Career-ops AI求职引擎增长",
+      "Codewhale Rust代理达4.1万星标",
+      "Cherry Studio推出新AI工作室"
+    ],
+    "ai-hn": [
+      "ChatGPT广告收集引发隐私担忧",
+      "Qwen Image 2.1发布，画质更优",
+      "缓存间LLM通信曝光",
+      "HN上对AI Kool-Aid质疑增多",
+      "AI乐高分类胜出Hacker News",
+      "Claude Code AGENTS.md行为变更"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B下载量达730万",
+      "Qwen3.8-Flash-Next点赞领先",
+      "Ternary-Bonsai-2-27B-gguf缩小模型",
+      "LTX-2.5驱动视频生成趋势",
+      "Edge0-35B-A3B-preview展现MoE兴趣",
+      "GGUF量化主导本地推理"
+    ],
+    "ai-community": [
+      "AI代理的DevSecOps流水线上线",
+      "需DPO/RLHF训练AI质量",
+      "代理编程扰乱开发流程",
+      "Orca代理环境势头上升",
+      "Jev框架被开发者快速克隆",
+      "企业级AI代理CI/CD升温"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hits 10 hot issues today",
+      "Gemini CLI releases v0.62.0-nightly",
+      "OpenAI Codex issues 3 alpha builds",
+      "GitHub Copilot CLI sees no new release",
+      "Pi tool gains 10 activity spikes",
+      "Qwen Code integrates new skills"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues in 24 hours",
+      "No new OpenClaw release despite chaos",
+      "Heartbeat fix #153573 stabilizes messages",
+      "Plugin cleanup resolves 7.5GB/day bloat",
+      "Session state fixes prevent data loss",
+      "Hermes Agent gains traction in workflow"
+    ],
+    "ai-infra": [
+      "vLLM leads with 18 open issues",
+      "SGLang surges with 23 new issues",
+      "llama.cpp patches with b11065",
+      "Ollama sees only 5 PRs merged",
+      "LiteLLM releases v1.103.0-rc.1",
+      "Unsloth beta has regression issues"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC hits 263k stars",
+      "Cloudflare security skill trends",
+      "RAG + vector DB integrations rise",
+      "Career-ops AI job search engine grows",
+      "Codewhale Rust agent hits 41k stars",
+      "Cherry Studio launches new AI studio"
+    ],
+    "ai-hn": [
+      "ChatGPT ad collector sparks privacy fears",
+      "Qwen Image 2.1 released with better fidelity",
+      "Cache-to-Cache LLM communication revealed",
+      "AI Kool-Aid skepticism grows on HN",
+      "AI Lego sorting wins Hacker News",
+      "Claude Code's AGENTS.md behavior changes"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 7.3M downloads",
+      "Qwen3.8-Flash-Next leads in likes",
+      "Ternary-Bonsai-2-27B-gguf cuts model size",
+      "LTX-2.5 drives video generation trend",
+      "Edge0-35B-A3B-preview shows MoE interest",
+      "GGUF quantizations dominate local inference"
+    ],
+    "ai-community": [
+      "DevSecOps pipeline for AI agents goes live",
+      "DPO/RLHF needed to train AI quality",
+      "Agentic coding disrupts developer flow",
+      "Orca agent environment gains momentum",
+      "Jev framework cloned rapidly by devs",
+      "Enterprise CI/CD for AI agents heats up"
+    ]
+  }
+}
