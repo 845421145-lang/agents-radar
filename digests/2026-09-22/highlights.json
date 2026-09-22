@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v1.2.0 发布新安全修复",
+      "OpenAI Codex 支持多文件编辑",
+      "Gemini CLI 增加实时代码建议",
+      "GitHub Copilot CLI 集成 VSCode Live Share",
+      "Qwen Code 48 小时内获 10K 星标",
+      "Pi CLI 推出实验性代理模式"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.35：稳定版发布",
+      "Hermes Agent 获自省能力",
+      "IronClaw 引入内存安全代理链",
+      "QwenPaw 支持 128K 上下文窗口",
+      "ZeroClaw 发布开源代理审计器",
+      "OpenClaw 24 小时提交 500 个 PR"
+    ],
+    "ai-infra": [
+      "vLLM v0.28.1rc1 支持 Blackwell GPU",
+      "SGLang 新增推测解码支持",
+      "llama.cpp 修复 SQLite WAL 内存膨胀",
+      "Ollama 增加本地模型版本管理",
+      "LiteLLM 推出统一 API 路由",
+      "Unsloth 精调速度提升 3 倍"
+    ],
+    "ai-trending": [
+      "BuilderIO/agent-native：今日+607 星标",
+      "Coder/coder：+460 星标，聚焦安全环境",
+      "yynxxxxx/Codex-X：Codex 桌面管理器",
+      "mem0ai/mem0：持久记忆新星",
+      "thedotmack/claude-mem：AI 记忆层受关注",
+      "Cognee：自动模式的 RAG 框架"
+    ],
+    "ai-web": [
+      "Claude 加速生物分子模型 4 倍",
+      "Anthropic 启动 100 万美元蛋白质设计奖",
+      "OpenAI 学院：新增数学学习路径",
+      "ChatGPT 数据团队工作指南发布",
+      "OpenAI 成立数学与 AI 咨询小组",
+      "Claude 优化低内存蛋白质推理"
+    ],
+    "ai-hn": [
+      "Grok 4.7：多模态推理重大突破",
+      "Qwen Image 2.1：提示遵循更佳",
+      "亚马逊阻止 Meta Muse AI 集成",
+      "Foremerge 检测代理意图冲突",
+      "Lossless-memory：隐私优先代理存储",
+      "Grok 4.7 引发安全争议"
+    ],
+    "ai-community": [
+      "浏览器原生 AI 代理演示走红",
+      "新模式防止 AI 发布破损代码",
+      "Bivack：代理的 AWS Lambda 沙箱",
+      "大模型无记忆—应用需自行处理",
+      "33ms 多语言引擎受关注",
+      "ChatGPT 可访问追踪数据引发警报"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v1.2.0 released with new security fixes",
+      "OpenAI Codex now supports multi-file editing",
+      "Gemini CLI adds real-time code suggestions",
+      "GitHub Copilot CLI now integrates with VSCode Live Share",
+      "Qwen Code hits 10K stars in 48 hours",
+      "Pi CLI launches experimental agent mode"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.35: LTS release for stability",
+      "Hermes Agent gains self-reflection capabilities",
+      "IronClaw introduces memory-safe agent chains",
+      "QwenPaw now supports 128K context windows",
+      "ZeroClaw releases open-source agent auditor",
+      "OpenClaw sees 500 PRs in 24 hours"
+    ],
+    "ai-infra": [
+      "vLLM v0.28.1rc1 now supports Blackwell GPUs",
+      "SGLang adds speculative decoding support",
+      "llama.cpp patches SQLite WAL bloat",
+      "Ollama adds local model versioning",
+      "LiteLLM rolls out unified API routing",
+      "Unsloth accelerates fine-tuning by 3x"
+    ],
+    "ai-trending": [
+      "BuilderIO/agent-native: +607 stars today",
+      "Coder/coder: +460 stars, secure env focus",
+      "yynxxxxx/Codex-X: desktop manager for Codex",
+      "mem0ai/mem0: rising star in persistent memory",
+      "thedotmack/claude-mem: AI memory layer gains traction",
+      "Cognee: RAG framework with auto-schema"
+    ],
+    "ai-web": [
+      "Claude speeds up biomolecular models 4x",
+      "Anthropic launches $1M protein design prize",
+      "OpenAI Academy: new math-focused learning paths",
+      "ChatGPT Work Guide for Data Teams released",
+      "OpenAI forms Advisory Group on Math & AI",
+      "Claude optimizes low-memory protein inference"
+    ],
+    "ai-hn": [
+      "Grok 4.7: major leap in multimodal reasoning",
+      "Qwen Image 2.1: enhanced prompt adherence",
+      "Amazon blocks Meta’s Muse AI integration",
+      "Foremerge detects intent conflicts in agents",
+      "Lossless-memory: privacy-first agent storage",
+      "Grok 4.7 sparks safety debate online"
+    ],
+    "ai-community": [
+      "Browser-native AI agents demo goes viral",
+      "New pattern stops AI from shipping broken code",
+      "Bivack: AWS Lambda sandbox for agents",
+      "LLMs have no memory—your app must",
+      "33ms multilingual engine gains traction",
+      "ChatGPT access to tracking data raises red flags"
+    ]
+  }
+}
