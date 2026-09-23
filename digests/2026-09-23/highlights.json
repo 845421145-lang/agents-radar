@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.280 发布稳定性修复版",
+      "OpenAI Codex 开启 rust-v0.156.0 测评",
+      "Gemini CLI 支持多模型工作流",
+      "GitHub Copilot CLI 实现会话持久化",
+      "Pi CLI 集成本地模型",
+      "Qwen Code 社区贡献激增"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内处理500个问题与PR",
+      "OpenClaw #155764 报告严重内存泄漏",
+      "PR #156040 修复CI依赖警告",
+      "PR #132955 修复数据库竞争条件",
+      "会话状态损坏仍是主要担忧",
+      "无新版本发布，最新稳定版存在回归"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.0 发布并支持硬件加速",
+      "llama.cpp 修复推测解码缺陷",
+      "SGLang 回归密度高",
+      "Ollama RC阶段聚焦稳定性",
+      "LiteLLM 成为通用多供应商网关",
+      "Unsloth 提升多模态代理性能"
+    ],
+    "ai-trending": [
+      "google/ax 今日增长+2,305 颗星",
+      "ECC 和 claude-mem 在代理中受关注",
+      "RAGflow 与 Headroom 引入智能上下文",
+      "minimind 与 LLMs-from-scratch 持续流行",
+      "谷歌AX框架被视为代理基础",
+      "Affaan-M/ECC 聚焦代理性能"
+    ],
+    "ai-web": [
+      "OpenAI 推出 GPT-6 Sol 与 Luna",
+      "GPT-6 启用更优提示缓存",
+      "优先原则第三方评估发布",
+      "OpenAI 单日发布5篇新文章",
+      "Anthropic 自2026年7月起沉默",
+      "暗示GPT-6 双模型策略"
+    ],
+    "ai-arxiv": [
+      "MedRSI 实现代理递归自提升",
+      "RRSI 论文探索通用代理演化",
+      "onPanda 引入令牌级对齐标注",
+      "答案盆地假说挑战探测方法",
+      "GameHorizon 套件启动交互评估",
+      "MSI-Bench 推进多模态代理评测"
+    ],
+    "ai-community": [
+      "AI代理主导开发讨论成本控制",
+      "API密钥泄露与自动部署风险上升",
+      "ChatGPT 现通过广告追踪用户",
+      "资深问答者反思AI驱动角色转变",
+      "使用Gemini文件搜索实现低成本Go RAG",
+      "我们解决了'如何编码'——而非'做什么构建'"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.280 released with stability fixes",
+      "OpenAI Codex enters alpha testing with rust-v0.156.0",
+      "Gemini CLI now supports multi-model workflows",
+      "GitHub Copilot CLI gains session persistence",
+      "Pi CLI adds local model integration",
+      "Qwen Code sees surge in community contributions"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and PRs in 24 hours",
+      "Critical memory leak reported in OpenClaw #155764",
+      "PR #156040 fixes CI dependency warnings",
+      "Agent database race condition fixed in PR #132955",
+      "Session state corruption remains top concern",
+      "No new releases; latest stable version has regressions"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.0 released with hardware support",
+      "llama.cpp fixes speculative decoding bug",
+      "SGLang sees high regression density",
+      "Ollama RC stage focused on stability",
+      "LiteLLM becomes universal multi-provider gateway",
+      "Unsloth pushes multimodal agent performance"
+    ],
+    "ai-trending": [
+      "google/ax surges +2,305 stars today",
+      "ECC and claude-mem gain traction for agents",
+      "RAGflow and Headroom introduce smarter context",
+      "minimind and LLMs-from-scratch remain popular",
+      "Google's AX framework seen as agentic foundation",
+      "Affaan-M/ECC focuses on agent performance"
+    ],
+    "ai-web": [
+      "GPT-6 Sol and Luna introduced by OpenAI",
+      "Better Prompt Caching for GPT-6 launched",
+      "Priorities Principles Third Party Assessments released",
+      "OpenAI publishes 5 new articles in one day",
+      "Anthropic silent since July 2026",
+      "GPT-6 dual-model strategy hinted at"
+    ],
+    "ai-arxiv": [
+      "MedRSI enables recursive self-improvement in agents",
+      "RRSI paper explores general-purpose agent evolution",
+      "onPanda introduces token-level alignment annotation",
+      "Answer-Basin Hypothesis challenges probing methods",
+      "GameHorizon Suite launches for interactive evaluation",
+      "MSI-Bench advances multimodal agent benchmarking"
+    ],
+    "ai-community": [
+      "AI agents dominate dev discussions on cost control",
+      "API key leaks and auto-deploy risks rise",
+      "ChatGPT now tracks users via ad collectors",
+      "QA veteran reflects on AI-driven role shift",
+      "Cheap RAG in Go using Gemini file search",
+      "We solved 'how to code'—not 'what to build'"
+    ]
+  }
+}
