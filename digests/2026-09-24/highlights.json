@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.281 发布，修复安全与IAM问题",
+      "OpenAI Codex 解决关键Windows稳定性问题",
+      "Gemini CLI v3.8 Flash 正在积极开发中",
+      "GitHub Copilot CLI 新增代理编排功能",
+      "Qwen Code 支持多语言代码库索引",
+      "Pi CLI 现支持实时调试会话"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.6 因macOS崩溃循环被撤回",
+      "macOS用户须立即重装v2026.9.5",
+      "Hermes Agent 新增记忆持久化模块",
+      "IronClaw 引入安全代理沙箱",
+      "QwenPaw 增加技能协作机制",
+      "ZeroClaw 发布开源智能体工作流引擎"
+    ],
+    "ai-infra": [
+      "vLLM 稳定SM120与ROCm优化",
+      "SGLang v0.5.20 稳定版，增强防护机制",
+      "llama.cpp v0.5.0 修复Vulkan/Metal回归问题",
+      "Ollama v0.34.4-rc1 修复MLX/结构化输出缺陷",
+      "LiteLLM 为智能体工作流添加预算控制",
+      "Unsloth 发布GDN模型优化训练方案"
+    ],
+    "ai-trending": [
+      "Google的ax今日增长1,543个星标",
+      "dream-num/univer：统一的AI办公运行时",
+      "obra/superpowers：智能体技能框架",
+      "Cognee：持久化代理记忆系统",
+      "alibaba/zvec：轻量级向量数据库",
+      "lancedb/lancedb：设备端AI推理工具"
+    ],
+    "ai-web": [
+      "Claude 发现新型酶系统含类CRISPR重复序列",
+      "Anthropic宣布首个真实世界AI生物发现",
+      "OpenAI发布4个无内容页面",
+      "Sam Altman暗示将发表联合国安理会讲话",
+      "Airbnb GPT 6 Astra预计即将上线",
+      "OpenAI透露心理健康AI产品即将推出"
+    ],
+    "ai-hn": [
+      "Claude发现酶系统——首个AI生物学突破",
+      "GPT-6 Sol和Luna主导HN讨论",
+      "OpenAI称GPT-6破解2005年恩尼格玛密文",
+      "澳大利亚医保数据泄露引发安全争议",
+      "Claude Opus 5.5表现超预期",
+      "Hacker News要求验证AI发现成果"
+    ],
+    "ai-arxiv": [
+      "Flash-dLLM实现快速扩散式LLM推理",
+      "能力强但简洁提取隐藏推理过程",
+      "CliffCompaction降低长上下文开销",
+      "扩大能力而非上下文提升效率",
+      "SWE-Serve基准揭示代理部署风险",
+      "A2M评估语义供应链漏洞"
+    ],
+    "ai-community": [
+      "按代理计费追踪降低AWS账单通胀",
+      "状态机减少多代理70%令牌浪费",
+      "代理必须验证每条引用来源文档",
+      "Claude Opus 5.5现已上线Google Cloud",
+      "代理隐性令牌浪费推动可观测性关注",
+      "绿色日志失败信号暴露未察觉的AI失能"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.281 released with security + IAM fixes",
+      "OpenAI Codex fixes critical Windows stability issues",
+      "Gemini CLI v3.8 Flash now in active development",
+      "GitHub Copilot CLI gains new agent orchestration features",
+      "Qwen Code adds multi-language codebase indexing",
+      "Pi CLI now supports real-time debugging sessions"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.6 withdrawn due to macOS crash loop",
+      "macOS users must reinstall v2026.9.5 immediately",
+      "Hermes Agent gains new memory persistence module",
+      "IronClaw introduces secure agent sandboxing",
+      "QwenPaw adds skill-based agent collaboration",
+      "ZeroClaw launches open-source agentic workflow engine"
+    ],
+    "ai-infra": [
+      "vLLM stabilizes SM120 & ROCm optimizations",
+      "SGLang v0.5.20 stable with improved guardrails",
+      "llama.cpp v0.5.0 fixes Vulkan/Metal regressions",
+      "Ollama v0.34.4-rc1 addresses MLX/structured output bugs",
+      "LiteLLM adds budget enforcement for agent workflows",
+      "Unsloth releases optimized training for GDN models"
+    ],
+    "ai-trending": [
+      "Google's ax hits +1,543 stars today",
+      "dream-num/univer: unified AI Office runtime",
+      "obra/superpowers: agentic skills framework",
+      "Cognee: persistent agent memory system",
+      "alibaba/zvec: lightweight vector database",
+      "lancedb/lancedb: on-device AI inference tool"
+    ],
+    "ai-web": [
+      "Claude discovers novel enzyme system with CRISPR-like repeats",
+      "Anthropic announces first real-world AI biological discovery",
+      "OpenAI releases 4 index pages with no visible content",
+      "Sam Altman hints at UN Security Council remarks",
+      "Airbnb GPT 6 Astra expected in upcoming release",
+      "Mental health AI product likely imminent per OpenAI"
+    ],
+    "ai-hn": [
+      "Claude discovers enzyme system—first AI biology breakthrough",
+      "GPT-6 Sol and Luna dominate HN discussion",
+      "OpenAI claims GPT-6 cracked 2005 Enigma message",
+      "Australia Medicare breach sparks safety debate",
+      "Claude Opus 5.5 performance exceeds expectations",
+      "Hacker News demands peer validation of AI discoveries"
+    ],
+    "ai-arxiv": [
+      "Flash-dLLM enables fast diffusion LLM inference",
+      "Capable yet Parsimonious extracts hidden reasoning",
+      "CliffCompaction reduces long-context overhead",
+      "Grow the Harness, Not the Context improves efficiency",
+      "SWE-Serve benchmark reveals agent deployment risks",
+      "A2M evaluates semantic supply-chain vulnerabilities"
+    ],
+    "ai-community": [
+      "Per-agent cost tracking cuts AWS billing inflation",
+      "State machines reduce multi-agent token waste by 70%",
+      "Agent must prove every quote against source document",
+      "Claude Opus 5.5 now on Google Cloud",
+      "Silent token waste in agents drives observability focus",
+      "Green log failures signal uncaught AI inaction"
+    ]
+  }
+}
