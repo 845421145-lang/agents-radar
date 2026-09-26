@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.283 稳定版发布",
+      "OpenAI Codex 修复关键认证问题",
+      "Gemini CLI 夜间构建持续进行",
+      "GitHub Copilot CLI v1.0.89-4 稳定版",
+      "Pi 工具在代理工作流中受关注",
+      "Qwen Code 集成本地代理"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.9.6 存在内存泄漏",
+      "24小时内合并500+个PR",
+      "代理更新失败激增",
+      "从9.5迁移至9.6风险高",
+      "每轮内存增长：+77MB",
+      "CI修复：恢复SQLite测试数据"
+    ],
+    "ai-infra": [
+      "vLLM：关键修复已合并",
+      "SGLang 稳定版v0.5.19 发布",
+      "Ollama rc0 v0.40.0 发布",
+      "LiteLLM 发布开发与稳定版",
+      "llama.cpp 构建活跃",
+      "Unsloth 问题负载高"
+    ],
+    "ai-trending": [
+      "PaperclipAI 今日增长2,109颗星",
+      "Hermes Agent：24.8万颗星",
+      "Career-Ops AI 求职代理",
+      "ECC：编码代理优化",
+      "Google的`ax`代理运行时",
+      "Vectorize的`hindsight`记忆"
+    ],
+    "ai-web": [
+      "Claude 计算九环物理",
+      "项目Swap：AI代理交换书籍",
+      "Claude 发现新型酶",
+      "Anthropic 发布两篇研究论文",
+      "Claude Opus 5.5 获好评",
+      "GPT-6 Sol & Luna 正式发布"
+    ],
+    "ai-hn": [
+      "Claude Opus 5.5：重大飞跃",
+      "GPT-6 Sol & Luna：长上下文",
+      "Claude 发现新酶系统",
+      "OpenAI代理尝试攻击",
+      "FTC 推动开发者责任",
+      "Snapdragon X2 支持Linux"
+    ],
+    "ai-arxiv": [
+      "代理可篡改执行轨迹",
+      "模型仅事后推理，非真正推理",
+      "RAPID：可靠机器人编程",
+      "HEXIS：从演示中编译技能",
+      "MISVO 改进模型引导",
+      "AD-WM 提升决策保真度"
+    ],
+    "ai-community": [
+      "API被代理广泛使用",
+      "代理需严格准入控制",
+      "本地代理6轮内完成应用构建",
+      "ChatGPT 现通过广告追踪用户",
+      "MCP 实现可审计AI系统",
+      "Rust 控制层受青睐"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.283 stable release",
+      "OpenAI Codex fixes critical auth issues",
+      "Gemini CLI nightly builds ongoing",
+      "GitHub Copilot CLI v1.0.89-4 stable",
+      "Pi tool gains traction in agent workflows",
+      "Qwen Code integrates with local agents"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.9.6 has memory leaks",
+      "500+ PRs merged in 24 hours",
+      "Agent update failures spike",
+      "Migration from 9.5 to 9.6 risky",
+      "Memory growth: +77MB per turn",
+      "CI fix: restore SQLite fixture collection"
+    ],
+    "ai-infra": [
+      "vLLM: critical fixes merged",
+      "SGLang stable v0.5.19 released",
+      "Ollama rc0 v0.40.0 out",
+      "LiteLLM releases dev and stable",
+      "llama.cpp builds active",
+      "Unsloth sees high issue load"
+    ],
+    "ai-trending": [
+      "PaperclipAI +2,109 stars today",
+      "Hermes Agent: 248K stars",
+      "Career-Ops AI job search agent",
+      "ECC: coding agent optimization",
+      "Google's `ax` agentic runtime",
+      "Vectorize's `hindsight` memory"
+    ],
+    "ai-web": [
+      "Claude computes nine-loop physics",
+      "Project Swap: AI agents trade books",
+      "Claude discovers novel enzyme",
+      "Anthropic releases two research papers",
+      "Claude Opus 5.5 praised",
+      "GPT-6 Sol & Luna unveiled"
+    ],
+    "ai-hn": [
+      "Claude Opus 5.5: major leap",
+      "GPT-6 Sol & Luna: long-context",
+      "Claude finds new enzyme system",
+      "OpenAI agents attempt hacking",
+      "FTC pushes developer liability",
+      "Linux support for Snapdragon X2"
+    ],
+    "ai-arxiv": [
+      "Agents can tamper with execution traces",
+      "Model reasons post-hoc, not truly",
+      "RAPID: reliable robot programming",
+      "HEXIS: skill compilation from demos",
+      "MISVO improves model steering",
+      "AD-WM enhances decision fidelity"
+    ],
+    "ai-community": [
+      "APIs now used by AI agents",
+      "Gatekeeping essential for agents",
+      "Local agents build app in 6 rounds",
+      "ChatGPT now tracks users via ads",
+      "MCP enables auditable AI systems",
+      "Rust control layers gain traction"
+    ]
+  }
+}
