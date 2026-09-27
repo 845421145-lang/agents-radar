@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 今日新增10个热门问题",
+      "OpenAI Codex 发布多个测试版",
+      "Gemini CLI 推出夜间构建版本",
+      "Qwen Code 推出托管代理模型",
+      "Pi 专注基础稳定性修复",
+      "GitHub Copilot CLI 无新动态"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内突破500个开放问题",
+      "v2026.9.6 版本出现严重崩溃循环",
+      "报告会话状态损坏",
+      "插件捕获泄漏导致磁盘耗尽",
+      "通道运行时日志现可见",
+      "向后兼容性提升"
+    ],
+    "ai-infra": [
+      "vLLM 面临4个关键死锁问题",
+      "SGLang 存在内存无限制漏洞",
+      "因GPU崩溃回退 llama.cpp",
+      "Ollama 云部署失败率达95%",
+      "LiteLLM 流式传输问题频发",
+      "推测解码在 DFlash2 中成熟"
+    ],
+    "ai-trending": [
+      "NVIDIA 模型优化器快速走红",
+      "Ollama 星标数达18.1万",
+      "LangChain 仍居主导地位14.7万",
+      "Paperclip 引领代理趋势",
+      "Hindsight 受关注",
+      "HKUDS 纳米机器人在自托管领域上升"
+    ],
+    "ai-web": [
+      "Claude 提升黎曼ζ函数边界至67.2%",
+      "AI 独立验证数学突破",
+      "黎曼猜想进展获确认",
+      "数学家认可AI发现",
+      "Claude 发现新型酶系统",
+      "AI 协同开展纯数学研究"
+    ],
+    "ai-hn": [
+      "GPT-6 Sol 和 Luna 广泛发布",
+      "Claude Opus 5.5 因推理能力受赞",
+      "AI 攻破 Hugging Face，利用DNS漏洞",
+      "AI 发现类CRISPR酶系统",
+      "社区热议模型对齐问题",
+      "后AI教育引发文化讨论"
+    ],
+    "ai-community": [
+      "AI 编写并审查代码——还剩什么？",
+      "人机协同问责危机",
+      "隐藏API成本带来安全风险",
+      "模型卡片成信任必备",
+      "VS Code 工具自动应用聊天机器人差异",
+      "代理记忆管理需新范式"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code gains 10 hot issues today",
+      "OpenAI Codex releases multiple alphas",
+      "Gemini CLI rolls out nightly build",
+      "Qwen Code pushes managed agent models",
+      "Pi focuses on foundational stability fixes",
+      "GitHub Copilot CLI sees no new activity"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 open issues in 24h",
+      "Critical crash loops in v2026.9.6",
+      "Session state corruption reported",
+      "Plugin capture leaks cause disk exhaustion",
+      "Channel runtime logs now visible",
+      "Backward compatibility improved"
+    ],
+    "ai-infra": [
+      "vLLM faces 4 critical deadlock issues",
+      "SGLang has unbounded memory bug",
+      "llama.cpp reverted due to GPU crashes",
+      "Ollama fails 95% of cloud deployments",
+      "LiteLLM struggles with streaming bugs",
+      "Speculative decoding matures in DFlash2"
+    ],
+    "ai-trending": [
+      "NVIDIA Model Optimizer trends fast",
+      "Ollama hits 181K stars",
+      "LangChain remains dominant at 147K",
+      "Paperclip leads agent trend",
+      "Hindsight gains traction",
+      "HKUDS nanobot rises in self-hosted space"
+    ],
+    "ai-web": [
+      "Claude improves Riemann zeta bound to 67.2%",
+      "AI verifies math breakthrough independently",
+      "Riemann Hypothesis progress confirmed",
+      "Mathematicians validate AI discovery",
+      "Claude finds novel enzyme system",
+      "AI co-pilot in pure mathematical research"
+    ],
+    "ai-hn": [
+      "GPT-6 Sol and Luna launch widely",
+      "Claude Opus 5.5 praised for reasoning",
+      "AI breaches Hugging Face, exploits DNS",
+      "AI discovers CRISPR-like enzyme system",
+      "Community debates model misalignment",
+      "Post-AI teaching sparks cultural debate"
+    ],
+    "ai-community": [
+      "AI writes and reviews code—what's left?",
+      "Human-in-the-loop accountability crisis",
+      "Security risks from hidden API costs",
+      "Model cards now essential for trust",
+      "VS Code tool auto-applies chatbot diffs",
+      "Agent memory management needs new patterns"
+    ]
+  }
+}
