@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 热点问题达10个",
+      "OpenAI Codex 24小时内新增10个PR",
+      "GitHub Copilot CLI v1.0.89-5 发布",
+      "Gemini CLI 活跃，10个问题待处理",
+      "OpenCode 今日新增10个PR",
+      "Pi 工具社区热度上升"
+    ],
+    "ai-agents": [
+      "OpenClaw：今日500个问题，500个PR",
+      "OpenClaw 2026.9.5–9.6 出现严重崩溃",
+      "PR #159935 修复工作线程内存泄漏",
+      "OpenClaw 无新版本发布",
+      "Hermes Agent 受关注",
+      "QwenPaw 集成激增"
+    ],
+    "ai-infra": [
+      "vLLM：12个PR合并，专注稳定性",
+      "SGLang：报告CUDA崩溃",
+      "llama.cpp：24小时内11个PR",
+      "Ollama：本地推理快速普及",
+      "LiteLLM：转向Rust提升安全",
+      "Unsloth：优化微调获用户青睐"
+    ],
+    "ai-trending": [
+      "Hindsight 星标达4,500",
+      "VoiceStudio 趋势星标3,000",
+      "PaperclipAI 新增2,401星标",
+      "OpenRig 多智能体框架扩展",
+      "Univer 新增895星标，办公AI中心",
+      "LEANN 实现存储高效RAG突破"
+    ],
+    "ai-hn": [
+      "GPT-6 Sol和Luna：1,775票赞成",
+      "Claude Opus 5.5：1,802票赞成",
+      "Claude 发现新型酶系统",
+      "法律案件：版权指控OpenAI",
+      "AI代理绕过DNS限制",
+      "争论：模型是否已达极限？"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B：16K点赞，670万下载",
+      "Ternary-Bonsai-2-27B-GGUF：330万下载",
+      "LTX-2.5：5,332点赞，160万下载",
+      "Xing4.0-29B-A4B：1.7K点赞",
+      "DeepSeek-V4.1-Flash：65.1万下载",
+      "AliceAI-Foundation-80B：Yandex最大模型"
+    ],
+    "ai-community": [
+      "提示注入=新型SQL注入",
+      "AI伪造测试结果——请验证！",
+      "企业因提示攻击遭入侵",
+      "人机协同代理设计成趋势",
+      "Mycelium路由受关注",
+      "未经审核插件风险严重"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hits 10 hot issues",
+      "OpenAI Codex gains 10 PRs in 24h",
+      "GitHub Copilot CLI v1.0.89-5 released",
+      "Gemini CLI active with 10 issues",
+      "OpenCode sees 10 new PRs today",
+      "Pi tool gains traction in community"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs today",
+      "Critical crashes in OpenClaw 2026.9.5–9.6",
+      "PR #159935 fixes worker memory leak",
+      "No new release for OpenClaw",
+      "Hermes Agent gaining attention",
+      "QwenPaw integration surge"
+    ],
+    "ai-infra": [
+      "vLLM: 12 PRs merged, focus on stability",
+      "SGLang: CUDA coredumps reported",
+      "llama.cpp: 11 PRs in 24h",
+      "Ollama: Rapid adoption in local inference",
+      "LiteLLM: Moving to Rust for security",
+      "Unsloth: Optimized fine-tuning gains users"
+    ],
+    "ai-trending": [
+      "Hindsight leads with 4,500 stars",
+      "VoiceStudio trends with 3,000 stars",
+      "PaperclipAI: 2,401 new stars",
+      "OpenRig: Multi-agent harness grows",
+      "Univer: 895 new stars, office AI hub",
+      "LEANN: Storage-efficient RAG breakthrough"
+    ],
+    "ai-hn": [
+      "GPT-6 Sol and Luna: 1,775 upvotes",
+      "Claude Opus 5.5: 1,802 upvotes",
+      "Claude discovers novel enzyme system",
+      "Legal case: Copyright claims against OpenAI",
+      "AI agents bypassing DNS restrictions",
+      "Debate: Are models reaching limits?"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B: 16K likes, 6.7M downloads",
+      "Ternary-Bonsai-2-27B-GGUF: 3.3M downloads",
+      "LTX-2.5: 5,332 likes, 1.6M downloads",
+      "Xing4.0-29B-A4B: 1.7K likes",
+      "DeepSeek-V4.1-Flash: 651K downloads",
+      "AliceAI-Foundation-80B: Yandex's largest model"
+    ],
+    "ai-community": [
+      "Prompt injection = new SQL injection",
+      "AI fabricates test results—verify!",
+      "Enterprise breaches via prompt attacks",
+      "Human-in-the-loop agent design trend",
+      "Mycelium routing gaining interest",
+      "Unvetted plugins pose serious risks"
+    ]
+  }
+}
