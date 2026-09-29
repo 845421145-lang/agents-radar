@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.284 稳定代理工作流",
+      "OpenAI Codex rust-v0.158.0 提升性能",
+      "Qwen Code 引入持久会话传输",
+      "Pi 推出本地 AI 代理虚拟模型",
+      "Gemini CLI 夜间更新聚焦稳定性",
+      "GitHub Copilot CLI v1.0.90-1 发布"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.9.6 频发崩溃循环",
+      "24 小时内 500 个问题与 PR",
+      "Hermes Agent 在研究中获关注",
+      "IronClaw 扩展多代理支持",
+      "QwenPaw 集成代理工作流",
+      "ZeroClaw 聚焦轻量级编排"
+    ],
+    "ai-infra": [
+      "vLLM 修复 CUDA 图与 ROCm 问题",
+      "SGLang 增强分布式 KV 缓存",
+      "llama.cpp 发布 4 个补丁 (b11236–b11242)",
+      "Ollama v0.35.0 新增模型路由",
+      "LiteLLM 成为网关标准",
+      "Unsloth 优化推理速度"
+    ],
+    "ai-trending": [
+      "回溯：持久代理记忆快速增长",
+      "Paperclip：AI 代理工作流工具激增",
+      "Openrig 整合 Claude + Codex 代理",
+      "Dream-Num univer：办公 AI 汇聚",
+      "RAGFlow：LLM 可扩展上下文层",
+      "Cognee：生产级 RAG 引擎"
+    ],
+    "ai-web": [
+      "Anthropic Project Swap 展现代理合作",
+      "Infosys 合作扩大 Claude 覆盖",
+      "OpenAI 因安全延迟 Astra 6.1",
+      "Sonnet 5.5 引发透明度争议",
+      "Ember-1 成为开源权重新秀",
+      "Fireworks AI 突出效率提升"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5 发布点燃 HN 讨论",
+      "Astra 6.1 因安全问题取消",
+      "MicroLLM Lab 推进边缘 AI 接入",
+      "ESP32S3 集群实现设备端 LLM",
+      "Ember-1 获赞研究潜力",
+      "社区呼吁模型治理"
+    ],
+    "ai-community": [
+      "一半 AI 代理仅是 GPU 驱动的 if 语句",
+      "Claude + Obsidian 提升问答效率",
+      "Dev.to 警告 AI FOMO",
+      "RAG 系统优化实际应用",
+      "卫星分析使用手机端 AI",
+      "MCP 工具隐性成本推高令牌消耗"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.284 stabilizes agent workflows",
+      "OpenAI Codex rust-v0.158.0 boosts performance",
+      "Qwen Code introduces durable session delivery",
+      "Pi launches virtual models for local AI agents",
+      "Gemini CLI nightly update targets stability",
+      "GitHub Copilot CLI v1.0.90-1 released"
+    ],
+    "ai-agents": [
+      "OpenClaw 2026.9.6 plagued by crash loops",
+      "500 issues and PRs in 24 hours",
+      "Hermes Agent gains traction in research",
+      "IronClaw expands multi-agent support",
+      "QwenPaw integrates with agent workflows",
+      "ZeroClaw focuses on lightweight orchestration"
+    ],
+    "ai-infra": [
+      "vLLM fixes CUDA graphs and ROCm issues",
+      "SGLang enhances distributed KV cache",
+      "llama.cpp releases 4 patches (b11236–b11242)",
+      "Ollama v0.35.0 adds new model routing",
+      "LiteLLM becomes gateway standard",
+      "Unsloth optimizes inference speed"
+    ],
+    "ai-trending": [
+      "Hindsight: persistent agent memory grows fast",
+      "Paperclip: AI agent workflow tool surges",
+      "Openrig combines Claude + Codex agents",
+      "Dream-Num univer: Office AI harness",
+      "RAGFlow: scalable context layer for LLMs",
+      "Cognee: production-grade RAG engine"
+    ],
+    "ai-web": [
+      "Anthropic's Project Swap shows agent deals",
+      "Infosys partnership expands Claude reach",
+      "OpenAI delays Astra 6.1 over safety",
+      "Sonnet 5.5 sparks debate on transparency",
+      "Ember-1 emerges as open-weight contender",
+      "Fireworks AI highlights efficiency gains"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5 release ignites HN debate",
+      "Astra 6.1 scrapped over safety concerns",
+      "MicroLLM Lab pushes edge AI access",
+      "ESP32S3 clusters enable on-device LLMs",
+      "Ember-1 praised for research potential",
+      "Community demands model governance"
+    ],
+    "ai-community": [
+      "Half of AI agents are just GPU-powered if-statements",
+      "Claude + Obsidian boost QA productivity",
+      "Dev.to warns against AI FOMO",
+      "RAG systems optimize real-world use",
+      "Satellite analysis uses on-phone AI",
+      "Hidden costs of MCP tools spike token use"
+    ]
+  }
+}
