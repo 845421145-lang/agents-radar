@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.285：修复+新功能",
+      "OpenAI Codex：v0.160.0-alpha.6.1发布",
+      "Gemini CLI：v0.63.0-preview.0上线",
+      "GitHub Copilot CLI：v1.0.90-5安全更新",
+      "OpenCode：暂无发布，稳定性债务高",
+      "Pi：报告中缺少活动数据"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.33：长期稳定等效版",
+      "关键SQLite WAL修复已合并",
+      "v2026.9.6追踪下存在回归问题",
+      "OpenClaw：24小时500个问题与PR",
+      "内存泄漏与工作线程安全优先修复",
+      "新增模型支持：DeepSeek、Claude-Fable"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.0：稳定，高吞吐",
+      "SGLang v0.5.20：稳定版本",
+      "llama.cpp：无新版本（b11260+）",
+      "Ollama RC：v0.35.1-rc0上线",
+      "LiteLLM：上周合并35个PR",
+      "Unsloth：微调流程关键角色"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell：今日990星",
+      "t8y2/dbx：232星，集成AI的数据库客户端",
+      "vLLM：92,959星，顶级推理引擎",
+      "Ollama：181,932星，本地模型库",
+      "PageIndex：无向量RAG新方法",
+      "LEANN：存储优化向量数据库"
+    ],
+    "ai-web": [
+      "Anthropic警告GLM-5.3网络攻击",
+      "GPT 6.1 Sol：接近Astra智能",
+      "OpenAI‘Dots’代理引发争议",
+      "Anthropic启动公开AI治理研究",
+      "OpenAI安全论文发表",
+      "GLM-5.3防护在64%测试中被绕过"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5：推理突破",
+      "GPT 6.1 Sol：低成本Astra级AI",
+      "Ember-1：高效边缘推理",
+      "达拉斯AI污染评分：争议",
+      "Palantir AI关联伊朗爆炸",
+      "Nvidia监控芯片提案进行中"
+    ],
+    "ai-arxiv": [
+      "CoEM：仅提交验证证据",
+      "ER-JEPA：用重播稳定JEPA",
+      "冷却采样器：修复GRPO陈旧性",
+      "异步训练：陈旧性控制进展",
+      "可验证奖励学习：新框架",
+      "部署中引入物理世界约束"
+    ],
+    "ai-community": [
+      "AWS Bedrock：禁用代理，证明合规",
+      "AI泄露数据悄然数周：案例研究",
+      "ChatGPT暴露完整代码库：令人震惊",
+      "提示注入：漏洞风险上升",
+      "代理记忆脆弱性：现实风险",
+      "欧盟AI法案合规：紧急需求"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.285: hotfix + new features",
+      "OpenAI Codex: v0.160.0-alpha.6.1 released",
+      "Gemini CLI: v0.63.0-preview.0 out now",
+      "GitHub Copilot CLI: v1.0.90-5 for security",
+      "OpenCode: no release, high stability debt",
+      "Pi: activity data missing in report"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.33: extended-stable LTS equivalent",
+      "Critical SQLite WAL fix merged in OpenClaw",
+      "v2026.9.6 has regression issues under tracking",
+      "OpenClaw: 500 issues & PRs in 24 hours",
+      "Memory leaks and worker safety fixes prioritized",
+      "New model support: DeepSeek, Claude-Fable"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.0: stable, high throughput",
+      "SGLang v0.5.20: stable release",
+      "llama.cpp: no new release (b11260+)",
+      "Ollama RC: v0.35.1-rc0 now live",
+      "LiteLLM: 35 PRs merged last week",
+      "Unsloth: key player in fine-tuning workflows"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell: 990 stars today",
+      "t8y2/dbx: 232 stars, AI-integrated DB client",
+      "vLLM: 92,959 stars, top inference engine",
+      "Ollama: 181,932 stars, local model hub",
+      "PageIndex: novel vectorless RAG approach",
+      "LEANN: storage-optimized vector database"
+    ],
+    "ai-web": [
+      "Anthropic warns on GLM-5.3 cyber exploits",
+      "GPT 6.1 Sol: near-Astra intelligence",
+      "OpenAI’s 'Dots' agent sparks debate",
+      "Anthropic launches public AI governance study",
+      "OpenAI’s safety case paper published",
+      "GLM-5.3 safeguards bypassed in 64% of tests"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5: reasoning breakthrough",
+      "GPT 6.1 Sol: low-cost Astra-level AI",
+      "Ember-1: efficient edge inference",
+      "AI blight scores in Dallas: controversy",
+      "Palantir AI linked to Iran bombing",
+      "Nvidia watchdog chip proposal underway"
+    ],
+    "ai-arxiv": [
+      "CoEM: memory commits only verified evidence",
+      "ER-JEPA: stabilizes JEPA with replay",
+      "Cool the Sampler: fixes GRPO staleness",
+      "Async training: staleness control advances",
+      "Verifiable reward learning: new framework",
+      "Physical-world constraints in AI deployment"
+    ],
+    "ai-community": [
+      "AWS Bedrock: block agents, prove compliance",
+      "AI leaked data silently for weeks: case study",
+      "ChatGPT exposed full codebase: scary results",
+      "Prompt injection: growing vulnerability concern",
+      "Agent memory fragility: real-world risk",
+      "EU AI Act compliance: urgent demand"
+    ]
+  }
+}
