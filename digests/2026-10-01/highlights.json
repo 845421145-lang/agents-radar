@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.286 优化代理工作流",
+      "OpenAI Codex 发布 rust-v0.161.0-alpha",
+      "Gemini CLI 修复会话持久性问题",
+      "Qwen Code 增强企业安全",
+      "GitHub Copilot CLI 添加IDE集成",
+      "Pi 工具支持轻量级代理脚本"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.7 修复关键内存泄漏",
+      "OpenClaw 解决SQLite WAL增长问题",
+      "OpenClaw 修复网关崩溃循环漏洞",
+      "OpenClaw 修复计费恢复冷却问题",
+      "今日合并202个PR——用户体验优化进行中",
+      "Hermes Agent 支持多代理编排"
+    ],
+    "ai-infra": [
+      "vLLM 提升SM120/ROCm稳定性与DFlash支持",
+      "SGLang 推出HiSparse/HiCache功能",
+      "llama.cpp 修复Metal/Vulkan后端问题",
+      "Ollama 社区PR数量激增",
+      "LiteLLM 新增成本感知代理支持",
+      "Unsloth 加速模型微调"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell 增加1,281颗星",
+      "VoiceStudio 实现本地语音克隆",
+      "MoneyPrinterTurbo 离线生成视频",
+      "VectifyAI/PageIndex 优化令牌使用",
+      "Caveman 聚焦基于推理的RAG",
+      "OpenShell 成为安全代理运行时"
+    ],
+    "ai-web": [
+      "Anthropic 启动生命科学验证计划",
+      "Mythos、Opus、Sonnet 可供研究使用",
+      "新论文警示GLM-5.3网络攻击风险",
+      "机器人暴露分析揭示就业影响",
+      "LSVP 实现前沿模型受控访问",
+      "安全治理备受关注"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon 引发透明度争议",
+      "GPT 6.1 Sol 宣称接近Astra性能",
+      "Ember-1 面向高吞吐推理",
+      "谷歌内部对Gemini存抵触",
+      "OpenAI降价遭质疑",
+      "Reddit 加强对AI机器人的管控"
+    ],
+    "ai-arxiv": [
+      "ViLegalExpert：首个越南法律基准",
+      "LexReward框架提升法律AI奖励",
+      "异常检测适应非平稳数据",
+      "稀疏注意力实现内存高效LLM",
+      "自进化代理避免共谋作弊",
+      "新论文解决KV缓存瓶颈"
+    ],
+    "ai-community": [
+      "五分之一AI推荐npm包不存在",
+      "Slopsquatting：攻击者利用AI幻觉",
+      "AI防护常被静默禁用",
+      "Mock揭示隐藏代理流程",
+      "本地LLM部署渐受欢迎",
+      "AI代理引发自主与监管之争"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.286 stabilizes agent workflows",
+      "OpenAI Codex launches rust-v0.161.0-alpha",
+      "Gemini CLI gains session durability fixes",
+      "Qwen Code enhances enterprise security",
+      "GitHub Copilot CLI adds IDE integration",
+      "Pi tool enables lightweight agent scripting"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.7 fixes critical memory leaks",
+      "OpenClaw resolves SQLite WAL growth issue",
+      "OpenClaw fixes gateway crash-loop bug",
+      "OpenClaw fixes billing recovery cooldown",
+      "202 PRs merged today—UX polish in full swing",
+      "Hermes Agent gains multi-agent orchestration"
+    ],
+    "ai-infra": [
+      "vLLM boosts SM120/ROCm stability with DFlash",
+      "SGLang rolls out HiSparse/HiCache features",
+      "llama.cpp fixes Metal/Vulkan backend issues",
+      "Ollama sees surge in community PRs",
+      "LiteLLM adds cost-aware proxy support",
+      "Unsloth accelerates model fine-tuning"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell jumps +1,281 stars",
+      "VoiceStudio enables local voice cloning",
+      "MoneyPrinterTurbo generates videos offline",
+      "VectifyAI/PageIndex optimizes token use",
+      "Caveman focuses on reasoning-based RAG",
+      "OpenShell emerges as secure agent runtime"
+    ],
+    "ai-web": [
+      "Anthropic launches Life Sciences Verification Program",
+      "Mythos, Opus, Sonnet now accessible for research",
+      "New paper warns of GLM-5.3 cyber exploit risks",
+      "Robot exposure analysis reveals job impact",
+      "LSVP enables regulated access to frontier models",
+      "Safety governance takes center stage"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon sparks debate on transparency",
+      "GPT 6.1 Sol claims near-Astra performance",
+      "Ember-1 targets high-throughput inference",
+      "Google faces internal resistance on Gemini",
+      "OpenAI's pricing cuts meet skepticism",
+      "Reddit cracks down on AI bots"
+    ],
+    "ai-arxiv": [
+      "ViLegalExpert: first Vietnamese legal benchmark",
+      "LexReward framework improves legal AI rewards",
+      "Anomaly detection adapts to non-stationary data",
+      "Memory-efficient LLMs via sparse attention",
+      "Self-evolving agents avoid co-cheating",
+      "KV-cache bottlenecks addressed in new paper"
+    ],
+    "ai-community": [
+      "1 in 5 AI-suggested npm packages don't exist",
+      "Slopsquatting: attackers exploit AI hallucinations",
+      "AI guardrails often silently disabled",
+      "Mocks reveal hidden agent workflows",
+      "Local LLM deployment gains traction",
+      "AI agents spark autonomy vs oversight debate"
+    ]
+  }
+}
