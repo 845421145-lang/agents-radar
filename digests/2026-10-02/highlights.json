@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.287 稳定性修复发布",
+      "OpenAI Codex 更新：rust-v0.162.0-alpha.2 上线",
+      "Gemini CLI 夜间版 v0.64.0-nightly.20261002 发布",
+      "GitHub Copilot CLI v1.0.92-0 正式稳定",
+      "OpenCode 新增 10 个 PR，暂无发布",
+      "Pi 发布 v1.0.0 重大更新"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.34 LTS 版本上线",
+      "OpenClaw v2026.8.34 修复关键安全漏洞",
+      "OpenClaw 24 小时内处理 500 个问题与 PR",
+      "Hermes Agent 在代理工作流中受关注",
+      "IronClaw 扩展跨平台支持",
+      "QwenPaw 集成 Qwen 模型"
+    ],
+    "ai-infra": [
+      "vLLM：87 个开放问题，小修复进行中",
+      "SGLang v0.5.21 稳定版确认发布",
+      "llama.cpp 补丁 b11332–b11330 已上线",
+      "Ollama 0.35.0 报告回归问题",
+      "LiteLLM v1.103.2 与 v1.101.4 发布",
+      "Unsloth v0.1.902-beta 进入测试"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell 增加 2456 星标领跑",
+      "affaan-m/ECC 提升代理内存效率",
+      "mksglu/context-mode 突破上下文限制",
+      "shareAI-lab/learn-claude-code 受关注",
+      "Graphify-Labs/graphify 推出 RAG 创新",
+      "thedotmack/claude-mem 实现持久上下文"
+    ],
+    "ai-web": [
+      "Anthropic 发布 'Claude 形状科学' 论文",
+      "巴克莱银行目标 2026 年实现 50% Claude 采用率",
+      "BootLoops 科学计算工具包",
+      "OpenAI 与 Albertsons 关联暗示零售合作",
+      "企业对安全代理 AI 信任度提升",
+      "Claude 集成在金融领域至关重要"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon 获 1641 HN 点数",
+      "OpenAI 因代理遭 FTC 与加州调查",
+      "HN 讨论 AI 热潮疲乏与倦怠",
+      "Aweb、Dots、MonoCode 受代理关注",
+      "上下文语言模型论文引发争议",
+      "DoGBench 显示文档生成准确率不足 50%"
+    ],
+    "ai-arxiv": [
+      "Gacha Decoding 提升大模型输出多样性",
+      "PACE 与 TRACE 改善模型对齐安全",
+      "Fold'EM 准确预测冷冻电镜结构",
+      "离散 Wasserstein 流提升样本质量",
+      "制造场景下 LLM 驱动多智能体控制",
+      "Know When to Hold 'em 修复令牌保留"
+    ],
+    "ai-community": [
+      "AI 代理未通过认证测试",
+      "AI 功能为不可控依赖项",
+      "AI 体育复盘虚构数据如说谎",
+      "ESP32 集群运行轻量级 LLM",
+      "防护机制对代理可靠性至关重要",
+      "AI 伦理与劳工权利辩论升温"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.287 released with stability fixes",
+      "OpenAI Codex updates: rust-v0.162.0-alpha.2 live",
+      "Gemini CLI nightly v0.64.0-nightly.20261002 out",
+      "GitHub Copilot CLI v1.0.92-0 now stable",
+      "OpenCode sees 10 new PRs, no release yet",
+      "Pi launches v1.0.0 major update"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.34 LTS release now live",
+      "Critical security patches in OpenClaw v2026.8.34",
+      "OpenClaw sees 500 issues & PRs in 24h",
+      "Hermes Agent gains traction in agent workflows",
+      "IronClaw expands cross-platform support",
+      "QwenPaw integrates with Qwen models"
+    ],
+    "ai-infra": [
+      "vLLM: 87 open issues, minor fixes ongoing",
+      "SGLang v0.5.21 stable release confirmed",
+      "llama.cpp patch b11332–b11330 now live",
+      "Ollama 0.35.0 has regression issues reported",
+      "LiteLLM v1.103.2 & v1.101.4 released",
+      "Unsloth v0.1.902-beta now in testing"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell leads with +2,456 stars",
+      "affaan-m/ECC boosts agent memory efficiency",
+      "mksglu/context-mode tackles context limits",
+      "shareAI-lab/learn-claude-code gains traction",
+      "Graphify-Labs/graphify offers RAG innovation",
+      "thedotmack/claude-mem enables persistent context"
+    ],
+    "ai-web": [
+      "Anthropic unveils 'Claude-shaped science' paper",
+      "Barclays targets 50% Claude adoption by 2026",
+      "BootLoops toolkit for scientific calculations",
+      "OpenAI's Albertsons link hints at retail tie-up",
+      "Enterprise trust in secure agentic AI grows",
+      "Claude integration now pivotal in finance"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon hits 1641 HN points",
+      "OpenAI faces FTC & CA probes over agents",
+      "HN debates AI hype fatigue and burnout",
+      "Aweb, Dots, MonoCode gain agentic interest",
+      "Context Language Models paper sparks debate",
+      "DoGBench shows <50% doc generation accuracy"
+    ],
+    "ai-arxiv": [
+      "Gacha Decoding boosts LLM output diversity",
+      "PACE & TRACE improve model alignment safety",
+      "Fold'EM predicts cryo-EM structures accurately",
+      "Discrete Wasserstein Flows enhance sample quality",
+      "LLM-Driven Multi-Agent Control in manufacturing",
+      "Know When to Hold 'em fixes token retention"
+    ],
+    "ai-community": [
+      "AI agents fail certification gate tests",
+      "AI features are uncontrolled dependencies",
+      "AI sports recaps invent stats like liars",
+      "ESP32 clusters run lightweight LLMs",
+      "Guardrails essential for agent reliability",
+      "Debate on AI ethics and labor rights heats up"
+    ]
+  }
+}
