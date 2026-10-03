@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.288 发布",
+      "OpenAI Codex：24小时内合并10个PR",
+      "Gemini CLI v0.64.0-nightly.20261002 上线",
+      "GitHub Copilot CLI 持续更新",
+      "Qwen Code 获社区关注",
+      "Pi CLI 新增代理工作流支持"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.35：长期稳定版发布",
+      "OpenClaw 修复关键会话状态问题",
+      "新增模型支持：Gemini-3.1-pro-preview",
+      "内存泄漏问题正在修复",
+      "社区推动核心重构",
+      "跨代理完整性问题凸显"
+    ],
+    "ai-infra": [
+      "vLLM 稳定版，57个开放问题",
+      "SGLang 开发活跃：69个开放问题",
+      "llama.cpp 已修补：b11364, b11362",
+      "Ollama 高风险状态预警",
+      "LiteLLM v1.105.0-dev.2 发布",
+      "Unsloth 面临回归警告"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell：+594 星标",
+      "ponytail：新增1,435 星标",
+      "DietrichGebert/ponytail：懒惰思维",
+      "context-mode：输出减少98%",
+      "headroom：压缩RAG块",
+      "obra/superpowers：代理能力提升"
+    ],
+    "ai-web": [
+      "Anthropic 启动1亿美元学院",
+      "Claude Frontier学院：1万工程师",
+      "OpenAI：'实用指南'暗示GPT-6",
+      "企业人才缺口驱动策略",
+      "培训计划聚焦头部企业",
+      "学院目标2027年底上线"
+    ],
+    "ai-hn": [
+      "AI战胜Stratego：隐藏信息取胜",
+      "Apple收紧macOS磁盘访问",
+      "ds4, Rai, OpenDLSS 受关注",
+      "Gemini 4 Argon：HN评分1683",
+      "FLUX 3图像：高保真生成",
+      "上下文感知LLM：新框架问世"
+    ],
+    "ai-arxiv": [
+      "LLM2Jev：LLM作决策模型",
+      "关键词利用失败开放：漏洞暴露",
+      "KaliBench：可信工具评估",
+      "SILSA：拓扑保持3D生成",
+      "零阶优化：快速调优LLM",
+      "扩散模型中的嵌入预测"
+    ],
+    "ai-community": [
+      "73% AI模型忽视真实攻击威胁",
+      "重打包QAT Gemma 4：675 token/秒",
+      "一个‘生成草稿’按钮改变设计",
+      "TPU v5e 实现低成本推理",
+      "AI幻觉与水印风险上升",
+      "Lisp系AI中类型系统争论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.288 released",
+      "OpenAI Codex: 10 PRs merged in 24h",
+      "Gemini CLI v0.64.0-nightly.20261002 out",
+      "GitHub Copilot CLI active updates",
+      "Qwen Code gains community traction",
+      "Pi CLI now supports agent workflows"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.35: extended-stable LTS release",
+      "Critical session state fixes in OpenClaw",
+      "New model support: Gemini-3.1-pro-preview",
+      "Memory leak bugs under active fix",
+      "Community drives core refactoring",
+      "Cross-agent integrity issues highlighted"
+    ],
+    "ai-infra": [
+      "vLLM stable with 57 open issues",
+      "SGLang active dev: 69 open issues",
+      "llama.cpp patched: b11364, b11362",
+      "Ollama high-risk status flagged",
+      "LiteLLM v1.105.0-dev.2 released",
+      "Unsloth faces regression alert"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell: +594 stars",
+      "ponytail: 1,435 new stars",
+      "DietrichGebert/ponytail: lazy thinking",
+      "context-mode: 98% output reduction",
+      "headroom: compresses RAG chunks",
+      "obra/superpowers: agentic skills rise"
+    ],
+    "ai-web": [
+      "Anthropic launches $100M academy",
+      "Claude Frontier Academy: 10K engineers",
+      "OpenAI: 'Practical Guide' hints at GPT-6",
+      "Enterprise talent gap driving strategy",
+      "Training program targets top firms",
+      "Academy aims for end-2027 rollout"
+    ],
+    "ai-hn": [
+      "AI masters Stratego: hidden info win",
+      "Apple tightens macOS Full Disk Access",
+      "ds4, Rai, OpenDLSS gain traction",
+      "Gemini 4 Argon: 1683 HN score",
+      "FLUX 3 Image: high-fidelity gen",
+      "Context-aware LLMs: new framework"
+    ],
+    "ai-arxiv": [
+      "LLM2Jev: LLMs as decision models",
+      "Keyword harnesses fail open: flaw exposed",
+      "KaliBench: trustworthy tool evaluation",
+      "SILSA: topology-preserving 3D gen",
+      "Zero-order opt: fast LLM tuning",
+      "Next-embedding prediction in diffusion"
+    ],
+    "ai-community": [
+      "73% of AI models ignore real hacking threats",
+      "Repacked QAT Gemma 4: 675 tokens/sec",
+      "One 'Generate Draft' button changes design",
+      "TPU v5e enables cost-efficient inference",
+      "AI hallucination and watermark risks rise",
+      "Type systems debated in Lisp-based AI"
+    ]
+  }
+}
