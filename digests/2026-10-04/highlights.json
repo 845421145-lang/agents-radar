@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.289 今日发布",
+      "OpenAI Codex：rust-v0.162.0-alpha.11 发布",
+      "Gemini CLI 尚無新版本",
+      "GitHub Copilot CLI 版本停更",
+      "Pi 和 Qwen Code 受關注",
+      "OpenCode 開源替代品崛起"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.8 修復會話狀態問題",
+      "OpenClaw 今日新增 500 個問題與提交",
+      "PR #164649：Telegram 回覆修復合併",
+      "OpenClaw 發布後專注穩定性",
+      "Hermes Agent 引發關注",
+      "QwenPaw 支持多代理工作流"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.1-rc1 修復版發布",
+      "SGLang 加強 AMD/ROCm 支持",
+      "llama.cpp b11382 修補解碼問題",
+      "Ollama 待發佈，音頻輸入在前",
+      "LiteLLM v1.105.0-rc.1：安全優先",
+      "Unsloth 提升本地運行速度"
+    ],
+    "ai-trending": [
+      "Panniantong/Agent-Reach：+1,696 顆星",
+      "DietrichGebert/ponytail：153K 顆星",
+      "affaan-m/ECC：272K 顆星，頂尖代理中心",
+      "thedotmack/claude-mem：持久記憶",
+      "ECC 優化代理技能",
+      "Agent-Reach 接入 Twitter、Reddit"
+    ],
+    "ai-hn": [
+      "OpenAI 安全主管請辭，警告文化問題",
+      "Gemini 4 Argon HN 評分 1,694",
+      "FLUX 3 圖像模型細節獲讚",
+      "代理是否需要記憶？爭議升溫",
+      "Pop!_OS 禁用 AI 生成代碼",
+      "Pi Pod、Offrun 代碼代理受熱捧"
+    ],
+    "ai-community": [
+      "5 週 866 次提交—缺乏深度",
+      "AI 讓項目切換過於輕鬆",
+      "更多上下文反損 AI 表現",
+      "AI 引發過度產出令開發者擔憂",
+      "團隊成本建模變關鍵",
+      "AI 政策事實漂移引發問題"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.289 released today",
+      "OpenAI Codex: rust-v0.162.0-alpha.11 out",
+      "Gemini CLI no new release yet",
+      "GitHub Copilot CLI inactive on releases",
+      "Pi and Qwen Code gain traction",
+      "OpenCode open-source alternative rising"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.8 fixes session state issues",
+      "500 issues & PRs in OpenClaw today",
+      "PR #164649: Telegram reply fix merged",
+      "OpenClaw stability focus post-release",
+      "Hermes Agent gains attention",
+      "QwenPaw enables multi-agent workflows"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.1-rc1 released with fixes",
+      "SGLang boosts AMD/ROCm support",
+      "llama.cpp b11382 patch addresses decoding",
+      "Ollama pending release, audio input ahead",
+      "LiteLLM v1.105.0-rc.1: security-first",
+      "Unsloth enhances local runtime speed"
+    ],
+    "ai-trending": [
+      "Panniantong/Agent-Reach: +1,696 stars",
+      "DietrichGebert/ponytail: 153K stars",
+      "affaan-m/ECC: 272K stars, top agent hub",
+      "thedotmack/claude-mem: persistent memory",
+      "ECC optimizes skills across agents",
+      "Agent-Reach accesses Twitter, Reddit"
+    ],
+    "ai-hn": [
+      "OpenAI safety lead resigns, warns culture",
+      "Gemini 4 Argon scores 1,694 on HN",
+      "FLUX 3 Image model praised for detail",
+      "Agents don’t need memory? Debate heats up",
+      "Pop!_OS bans AI-generated code",
+      "Pi Pod, Offrun rise in coding agents"
+    ],
+    "ai-community": [
+      "866 commits in 5 weeks—no depth",
+      "AI makes project-switching too easy",
+      "More context harms AI performance",
+      "AI-induced overproduction worries devs",
+      "Cost modeling now critical for teams",
+      "Fact drift in AI policies causes issues"
+    ]
+  }
+}
