@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v0.162.0-alpha.13 发布",
+      "GitHub Copilot CLI v1.4.0 正式上线",
+      "Gemini CLI 稳定性问题被报告",
+      "OpenAI Codex 新增 MoE 支持",
+      "Qwen Code 24 小时获 10K 星标",
+      "Pi CLI 新增 webhook 支持"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时报告 500 个问题",
+      "PR #165237 修复会话删除漏洞",
+      "Hermes Agent 增加记忆持久化",
+      "IronClaw 更新启动控制界面",
+      "QwenPaw 添加实时网页抓取",
+      "ZeroClaw 发布代理编排工具包"
+    ],
+    "ai-infra": [
+      "vLLM 修复 MoE 内核错误",
+      "SGLang 出现 323 次 CUDA 崩溃",
+      "llama.cpp 稳定 Vulkan 后端",
+      "Ollama 新增 GPU 内存监控",
+      "LiteLLM 支持 18 个服务商",
+      "Unsloth 推出多模态微调"
+    ],
+    "ai-trending": [
+      "Ponytail 实现代理网页浏览",
+      "Agent-Reach 免费提取 Reddit 数据",
+      "claude-mem 提升上下文保留",
+      "ECC 优化代理令牌使用",
+      "ds4 引擎支持 Metal 与 ROCm",
+      "gstack 模拟 CEO + 工程师工作流"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon HN 得分 1697",
+      "FLUX 3 Image 获图像质量好评",
+      "Stratego AI 击败人类冠军",
+      "Homa 协议受赞于 AI 集群",
+      "OpenAI 安全文化受质疑",
+      "新传输协议提升训练效率"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 下载量达 680 万",
+      "Ternary-Bonsai-2-27B-gguf 爆火",
+      "DavidAU 无审查 Qwen 变体领先",
+      "LTX-2.5 视频模型点赞飙升",
+      "Qwen-Image-2.1 主导多模态",
+      "GGUF 模型社区增长 3 倍"
+    ],
+    "ai-community": [
+      "本地 LLM 夜间预测低血糖",
+      "用 Gemma 构建孟加拉诈骗检测器",
+      "AI 在生存游戏中未通过道德测试",
+      "离线菜谱应用使用本地 AI",
+      "自托管 GitLab 代理受关注",
+      "Dev.to 警告凭证泄露风险"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v0.162.0-alpha.13 released",
+      "GitHub Copilot CLI v1.4.0 out now",
+      "Gemini CLI stability issues reported",
+      "OpenAI Codex adds MoE support",
+      "Qwen Code gains 10K stars in 24h",
+      "Pi CLI now supports webhooks"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 issues in 24h",
+      "PR #165237 fixes session delete bug",
+      "Hermes Agent gains memory persistence",
+      "IronClaw updates launch control UI",
+      "QwenPaw adds real-time web scraping",
+      "ZeroClaw releases agent orchestration toolkit"
+    ],
+    "ai-infra": [
+      "vLLM fixes MoE kernel bugs",
+      "SGLang sees 323 CUDA coredumps",
+      "llama.cpp stabilizes Vulkan backend",
+      "Ollama adds GPU memory monitoring",
+      "LiteLLM now supports 18 providers",
+      "Unsloth launches multimodal fine-tuning"
+    ],
+    "ai-trending": [
+      "Ponytail enables agent web browsing",
+      "Agent-Reach extracts Reddit data free",
+      "claude-mem boosts context retention",
+      "ECC optimizes agent token usage",
+      "ds4 engine runs on Metal & ROCm",
+      "gstack mimics CEO + engineer workflows"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon scores 1697 on HN",
+      "FLUX 3 Image wins image quality praise",
+      "Stratego AI beats human champion",
+      "Homa protocol praised for AI clusters",
+      "OpenAI safety culture under scrutiny",
+      "New transport protocol boosts training"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 6.8M downloads",
+      "Ternary-Bonsai-2-27B-gguf goes viral",
+      "DavidAU's uncensored Qwen variant leads",
+      "LTX-2.5 video model surges in likes",
+      "Qwen-Image-2.1 dominates multimodal",
+      "GGUF models see 3x community growth"
+    ],
+    "ai-community": [
+      "Local LLM predicts hypoglycemia at night",
+      "Bengali scam detector built with Gemma",
+      "AI failed moral test in survival game",
+      "Offline recipe app uses local AI",
+      "Self-hosted GitLab agents gain traction",
+      "Dev.to warns of credential leaks"
+    ]
+  }
+}
