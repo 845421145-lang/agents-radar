@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.290 修复会话问题发布",
+      "OpenAI Codex 新增 rust-v0.162.0-alpha.1",
+      "Gemini CLI 夜间更新：v0.64.0-nightly.20261006",
+      "GitHub Copilot CLI v1.0.93-1 正式上线",
+      "OpenCode 在 AI 工具社区受关注",
+      "Pi CLI 支持多智能体工作流"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.1-beta.1 提升会话持久性",
+      "OpenClaw 测试版仍存在内存泄漏",
+      "远程工作区工人连接已修复",
+      "Hermes Agent 现已集成 Slack",
+      "QwenPaw 实现低延迟智能体执行",
+      "ZeroClaw 推出去中心化智能体网络"
+    ],
+    "ai-infra": [
+      "vLLM v0.31.0 发布，吞吐量显著提升",
+      "llama.cpp v0.6.0 稳定本地推理",
+      "LiteLLM 补丁修复关键路由漏洞",
+      "SGLang 更新优化推测解码",
+      "Ollama 稳定性问题补丁进行中",
+      "Unsloth 尽管活跃但无新版本发布"
+    ],
+    "ai-trending": [
+      "Ollama 以 18.2 万星标领先，本地 LLM 运行器",
+      "CopilotKit 支持在 React 应用中使用 AI 智能体",
+      "LangGraph 驱动有状态智能体工作流",
+      "DeepSeek-Reasonix 代码推理表现优异",
+      "开源智能体主导 GitHub 趋势",
+      "智能体 UI 框架快速流行"
+    ],
+    "ai-web": [
+      "Anthropic 机器人岗位研究揭示成本障碍",
+      "OpenAI 推出欧盟文本溯源索引",
+      "新 ChatGPT 广告形式暗示商业化",
+      "机器人暴露指数显示 75% 任务能力",
+      "实体自动化仍不经济可行",
+      "企业过度扩张引发伦理争议"
+    ],
+    "ai-hn": [
+      "Beam：Reflection 的 501B 开源权重模型",
+      "Dust 无需反向传播预训练 Transformer",
+      "Opus 5.5 发现室温磁半导体",
+      "OpenAI 机器人被曝攻击维基百科",
+      "Anthropic 向警方报告用户日记",
+      "LeCun 否认 AI 绝灭担忧"
+    ],
+    "ai-arxiv": [
+      "离策略合并优于自蒸馏",
+      "自适应 LoRA 门控提升效率",
+      "发现 LLM 中被压制的安全特性",
+      "测试时训练增强模型鲁棒性",
+      "DelegationBench 评估智能体可信度",
+      "MedicalHarness 评测临床推理能力"
+    ],
+    "ai-community": [
+      "AI 审计日志不可信——智能体是目击者",
+      "智能体 49 秒提取 60 页文档",
+      "分叉智能体自动启动网页服务器",
+      "为 ADHD 支持微调模型渐增",
+      "尼日利亚语音识别受关注",
+      "撤退后 AI 安全文化受审视"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.290 released with session fixes",
+      "OpenAI Codex adds rust-v0.162.0-alpha.1",
+      "Gemini CLI nightly update: v0.64.0-nightly.20261006",
+      "GitHub Copilot CLI v1.0.93-1 now live",
+      "OpenCode gains traction in AI tooling community",
+      "Pi CLI now supports multi-agent workflows"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.1-beta.1 boosts session persistence",
+      "Memory leaks still plague OpenClaw beta",
+      "Remote workspace worker attachments fixed",
+      "Hermes Agent now integrates with Slack",
+      "QwenPaw enables low-latency agent execution",
+      "ZeroClaw introduces decentralized agent network"
+    ],
+    "ai-infra": [
+      "vLLM v0.31.0 released with major throughput gains",
+      "llama.cpp v0.6.0 stabilizes local inference",
+      "LiteLLM patches fix critical routing bugs",
+      "SGLang updates improve speculative decoding",
+      "Ollama patch fix underway for stability issues",
+      "Unsloth sees no new release despite activity"
+    ],
+    "ai-trending": [
+      "Ollama leads with 182K stars, local LLM runner",
+      "CopilotKit enables AI agents in React apps",
+      "LangGraph powers stateful agent workflows",
+      "DeepSeek-Reasonix excels in code reasoning",
+      "Open-source agents dominate GitHub trends",
+      "Agent UI framework gains traction fast"
+    ],
+    "ai-web": [
+      "Anthropic's robot job study reveals cost barriers",
+      "OpenAI launches EU Text Provenance index",
+      "New ChatGPT ads format hints at monetization",
+      "Robot exposure index shows 75% task capability",
+      "Physical automation remains economically unfeasible",
+      "Corporate overreach sparks ethics debate"
+    ],
+    "ai-hn": [
+      "Beam: 501B open-weight model from Reflection",
+      "Dust pretrains Transformers without backprop",
+      "Opus 5.5 discovers room-temp magnetic semiconductors",
+      "OpenAI bot reported to Wikimedia vandalism",
+      "Anthropic reports user diary to police",
+      "LeCun dismisses AI extinction fears"
+    ],
+    "ai-arxiv": [
+      "Off-policy merging beats self-distillation",
+      "Adaptive LoRA gating improves efficiency",
+      "Suppressed safety features found in LLMs",
+      "Test-time training boosts model robustness",
+      "DelegationBench benchmarks agent trustworthiness",
+      "MedicalHarness evaluates clinical reasoning"
+    ],
+    "ai-community": [
+      "AI audit logs can't be trusted—agent is witness",
+      "Agents extract 60 pages of docs in 49 seconds",
+      "Forked agents auto-launch web servers",
+      "Fine-tuning models for ADHD support grows",
+      "Nigerian speech recognition gains attention",
+      "AI safety culture under scrutiny post-exodus"
+    ]
+  }
+}
