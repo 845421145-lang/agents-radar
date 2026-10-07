@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.292 发布补丁修复",
+      "Gemini CLI 进入夜间预览模式",
+      "OpenAI Codex 增加2个测试版发布",
+      "GitHub Copilot CLI 修复稳定版",
+      "Pi 工具在开发流程中受关注",
+      "Qwen Code 推出新代理集成"
+    ],
+    "ai-agents": [
+      "OpenClaw 500个开放问题，报告严重漏洞",
+      "自2026.9.5以来无新版本发布",
+      "Hermes Agent 插件活动激增",
+      "IronClaw 更新聚焦内存稳定性",
+      "QwenPaw 在多智能体任务中加速",
+      "ZeroClaw 报告Windows崩溃循环"
+    ],
+    "ai-infra": [
+      "vLLM：过去24小时报告4个关键问题",
+      "SGLang：流水线存在2个高危漏洞",
+      "llama.cpp 发布b11457、b11450、b11447",
+      "Ollama 0.40.0 上线但存在迁移问题",
+      "LiteLLM Rust 测试版进行中",
+      "Unsloth 新增Blackwell SM120支持"
+    ],
+    "ai-trending": [
+      "claude-mem一夜增长9.7万星标",
+      "firecrawl/firecrawl引领网页抓取趋势",
+      "Graphify-Labs graphify 受欢迎",
+      "AnythingLLM 成为本地优先代理",
+      "nanobot 隐私用途激增",
+      "affaan-m/ECC 推动上下文管理需求"
+    ],
+    "ai-web": [
+      "Anthropic 扩展网络验证计划",
+      "Claude Opus 5.5 向退伍军人开放",
+      "Claude Mythos 5.1 推出新访问层级",
+      "OpenAI 发布8个新索引页",
+      "OpenAI 强调智能体工作流",
+      "企业价值建模受重视"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 HN得分1590",
+      "EmbeddingGemma 2 面向边缘部署",
+      "整数乘法低于n log n论文",
+      "OpenTPU 主导AI性能讨论",
+      "犹他州允许AI医疗决策",
+      "韩国报告AI银行攻击"
+    ],
+    "ai-arxiv": [
+      "大模型会基于所知行动吗？研究",
+      "语言传递专家印象论文",
+      "长周期推理的测试时演化",
+      "部分可观测下的零样本协作",
+      "智能体可靠性跨运行评估",
+      "形式化方法融入神经模型"
+    ],
+    "ai-community": [
+      "AI代理可能造成真实伤害——需设计防护机制",
+      "CI绿色不等于生产安全",
+      "12岁少年用150元手机击败Claude Code",
+      "本地LLM通过llama.cpp对比Ollama受关注",
+      "代理记忆与工具编排成核心关切",
+      "欧盟AI法案下水印技术受关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.292 released with patch fixes",
+      "Gemini CLI now in nightly preview mode",
+      "OpenAI Codex adds 2 alpha releases",
+      "GitHub Copilot CLI patches stable release",
+      "Pi tool gains traction in dev workflows",
+      "Qwen Code launches new agent integrations"
+    ],
+    "ai-agents": [
+      "OpenClaw has 500 open issues, critical bugs reported",
+      "No new OpenClaw releases since 2026.9.5",
+      "Hermes Agent sees surge in plugin activity",
+      "IronClaw updates focus on memory stability",
+      "QwenPaw gains momentum in multi-agent tasks",
+      "ZeroClaw reports crash loops on Windows"
+    ],
+    "ai-infra": [
+      "vLLM: 4 critical issues reported in last 24h",
+      "SGLang: 2 high-severity bugs in pipeline",
+      "llama.cpp releases b11457, b11450, b11447",
+      "Ollama 0.40.0 live but has migration issues",
+      "LiteLLM Rust beta in progress",
+      "Unsloth adds support for Blackwell SM120"
+    ],
+    "ai-trending": [
+      "claude-mem hits +97k stars overnight",
+      "firecrawl/firecrawl leads web ingestion trend",
+      "Graphify-Labs graphify gains traction",
+      "AnythingLLM grows as local-first agent",
+      "nanobot sees spike in privacy-focused use",
+      "affaan-m/ECC drives context management demand"
+    ],
+    "ai-web": [
+      "Anthropic expands Cyber Verification Program",
+      "Claude Opus 5.5 now accessible to vets",
+      "Claude Mythos 5.1 launched with new access tiers",
+      "OpenAI releases 8 new index pages",
+      "OpenAI pushes agentic workflows focus",
+      "Enterprise value modeling highlighted"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 scores 1590 on HN",
+      "EmbeddingGemma 2 targets edge deployment",
+      "Integer multiplication below n log n paper",
+      "OpenTPU dominates AI performance debate",
+      "Utah allows AI medical decisions",
+      "South Korea reports AI bank hacks"
+    ],
+    "ai-arxiv": [
+      "Do LLMs Act on What They Know? Study",
+      "Language Carries Expert Impression Paper",
+      "Test-time evolution for long-horizon reasoning",
+      "Zero-shot coordination under partial observability",
+      "Agent reliability evaluation across runs",
+      "Formal methods integrated with neural models"
+    ],
+    "ai-community": [
+      "AI agents can cause real harm—design guardrails",
+      "CI green doesn't mean production-safe",
+      "12-year-old beats Claude Code on $150 phone",
+      "Local LLMs gain traction via llama.cpp vs Ollama",
+      "Agent memory and tool orchestration top concerns",
+      "Watermarking under EU AI Act gaining attention"
+    ]
+  }
+}
