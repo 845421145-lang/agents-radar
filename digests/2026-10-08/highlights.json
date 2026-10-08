@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.293 发布稳定性修复版",
+      "Gemini CLI v0.65.0-nightly.20261008 已上线",
+      "OpenAI Codex rust-v0.162.0-alpha.17.1 正式运行",
+      "Qwen Code 在开源社区获关注",
+      "Pi CLI 显著提升内存效率",
+      "OpenCode 修复关键会话持久性漏洞"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.1-beta.2 发布内存修复版",
+      "会话状态跨注册表变更保持不变",
+      "僵尸进程与崩溃问题终获解决",
+      "续写签名保持对齐",
+      "嵌入缓存无缝迁移",
+      "今日合并142个PR——重大稳定性更新"
+    ],
+    "ai-infra": [
+      "vLLM v0.30+ 因严重漏洞不稳定",
+      "SGLang CI 不稳定导致运行时崩溃",
+      "llama.cpp b11481 破坏MoE缓存",
+      "Ollama v0.40.1 存在Apple Silicon兼容问题",
+      "LiteLLM v1.106.0-dev.1 处于开发阶段",
+      "Unsloth v0.1.904-beta 新增决策模型训练"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem 收获97K星标",
+      "affaan-m/ECC: 274K星标，代理优化标杆",
+      "NouResearch/hermes-agent: 251K星标",
+      "cloudflare/security-audit-skill: 今日新增576星",
+      "addyosmani/agent-skills: 新增677星标",
+      "代理技能框架引领趋势"
+    ],
+    "ai-web": [
+      "Claude 发现类CRISPR酶系统",
+      "Anthropic 启动‘你希望AI做什么？’研究",
+      "CVP 扩大 Claude Opus 5.5 与 Mythos 5.1 访问权限",
+      "GPT-6 更新暗示即将发布",
+      "青少年学AI：教育重点聚焦",
+      "GPT-6 全民化：用户中心化部署计划"
+    ],
+    "ai-hn": [
+      "Claude Haiku 5.5：速度与成本效益胜出",
+      "Mistral Large 4 benchmarks 领先",
+      "AI 证明11个正方形最优排列",
+      "争议研究：AI 按财富差异定价",
+      "GPT-6 与智能UI预示环境智能时代",
+      "OpenAI 默默无言暗示重大产品转向"
+    ],
+    "ai-arxiv": [
+      "Caddie 仅凭任务结果训练代理",
+      "MIRROR 实现深度LLM个性化",
+      "Dual-QK：低比特KV缓存突破",
+      "NeuralZip：快速无损压缩",
+      "UltraText Bench：全新多模态评估",
+      "LiveMACEBench 实时测试代理性能"
+    ],
+    "ai-community": [
+      "AI系统拒绝信任自身代码输出",
+      "一位开发者让AI一次合并至生产",
+      "模型切换引发无声失败：警示案例",
+      "本地AI网关如Claude Code Router v3兴起",
+      "免费API层级渐退——成本控制成关键",
+      "自托管工具增长以保障数据主权"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.293 released with stability fixes",
+      "Gemini CLI v0.65.0-nightly.20261008 out now",
+      "OpenAI Codex rust-v0.162.0-alpha.17.1 live",
+      "Qwen Code gains traction in open-source community",
+      "Pi CLI shows strong memory efficiency gains",
+      "OpenCode closes critical session durability gaps"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.1-beta.2 released with memory fixes",
+      "Sessions now preserved across registry changes",
+      "Zombie processes and crashes finally addressed",
+      "Continuation signatures now stay aligned",
+      "Embedding caches migrate seamlessly",
+      "142 PRs merged today — major stability push"
+    ],
+    "ai-infra": [
+      "vLLM v0.30+ unstable due to high-severity bugs",
+      "SGLang CI flakiness causes runtime crashes",
+      "llama.cpp b11481 breaks MoE caching",
+      "Ollama v0.40.1 has Apple Silicon issues",
+      "LiteLLM v1.106.0-dev.1 in active dev phase",
+      "Unsloth v0.1.904-beta adds decision model training"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem hits 97K stars",
+      "affaan-m/ECC: 274K stars, agent optimization gold",
+      "NouResearch/hermes-agent: 251K stars",
+      "cloudflare/security-audit-skill: +576 today",
+      "addyosmani/agent-skills: +677 new stars",
+      "Agent skills frameworks dominate trend charts"
+    ],
+    "ai-web": [
+      "Claude discovers CRISPR-like enzyme system",
+      "Anthropic launches 'What do you want from AI?' study",
+      "CVP expands access to Claude Opus 5.5 & Mythos 5.1",
+      "GPT-6 updates hint at imminent launch",
+      "Teens Learn And Plan: AI education focus",
+      "GPT-6 For Everyone: user-centric rollout planned"
+    ],
+    "ai-hn": [
+      "Claude Haiku 5.5: speed & cost-efficiency wins",
+      "Mistral Large 4 dominates benchmarks",
+      "AI proves optimal packing for 11 squares",
+      "Controversial study: AI offers different prices by wealth",
+      "GPT-6 & intelligent UIs signal ambient AI era",
+      "OpenAI’s silence hints at major product shift"
+    ],
+    "ai-arxiv": [
+      "Caddie trains agents using only task outcomes",
+      "MIRROR enables deep LLM personalization",
+      "Dual-QK: low-bit KV caching breakthrough",
+      "NeuralZip: fast lossless compression",
+      "UltraText Bench: new multimodal evaluation",
+      "LiveMACEBench tests real-time agent performance"
+    ],
+    "ai-community": [
+      "AI system refuses to trust its own code output",
+      "One dev let AI merge to production — once",
+      "Model swap caused silent failure: cautionary tale",
+      "Local AI gateways like Claude Code Router v3 rise",
+      "Free API tiers fading — cost control becomes key",
+      "Self-hosting tools grow for data sovereignty"
+    ]
+  }
+}
