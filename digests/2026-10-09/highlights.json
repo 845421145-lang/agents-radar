@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.295 发布安全修复版",
+      "OpenAI Codex rust-v0.163.0-alpha.2 正式上线",
+      "GitHub Copilot CLI v1.0.95-1 推出",
+      "Gemini CLI 报告10个P1/P2级问题",
+      "OpenCode 在开源社区获关注",
+      "Pi CLI 支持多代理工作流"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.9 修复会话问题发布",
+      "OpenClaw 今日提交185次，合并112个PR",
+      "关键会话持久化漏洞已修复",
+      "v2026.9.9 版本无破坏性变更",
+      "更新修复代理数据库争用问题",
+      "插件激活可靠性提升"
+    ],
+    "ai-infra": [
+      "vLLM：147个开放问题，存在严重回归",
+      "SGLang CI 不稳定，报告132个问题",
+      "llama.cpp 升级至 v11514–b11501",
+      "Ollama v0.40.2 发布，回归问题激增",
+      "LiteLLM 集成多供应商支持",
+      "Unsloth 加速推理微调"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem 今日+670星",
+      "affaan-m/ECC 优化代理性能",
+      "Panniantong/Agent-Reach 实现网页感知",
+      "Ollama 达18.2万星，成本地推理标准",
+      "Hugging Face Transformers 仍为基石",
+      "代理框架主导AI趋势榜"
+    ],
+    "ai-web": [
+      "Anthropic 推出OSS安全网络任务",
+      "OSS扫描器实现大规模漏洞检测",
+      "Claude Science 生成首张紫外天空图",
+      "Anthropic 承诺捐赠1.5亿美元至创世计划",
+      "OpenAI 针对AI影响力行动",
+      "新政策禁止操作中使用欺骗性AI"
+    ],
+    "ai-hn": [
+      "Step 5 预览：100万上下文MoE模型上线",
+      "OpenAI 因审查撤回3项数学成果",
+      "三星实验室：亚1比特LLM压缩突破",
+      "Claude Code 助力发现潜在新行星",
+      "OpenAI 收入未达预期引发讨论",
+      "MoE模型突破上下文长度限制"
+    ],
+    "ai-arxiv": [
+      "TRACE：诊断代理验证器脆弱性",
+      "LLM频繁更换削弱科学筛选",
+      "记忆类型多样：代理多样化策略",
+      "不确定性量化提升可信度",
+      "提示注入防御研究进展",
+      "时空建模用于自动驾驶"
+    ],
+    "ai-community": [
+      "AI重试逻辑可能放大错误并浪费算力",
+      "团队使用'真人代理'模拟工程师",
+      "以AI加速交付非工程成熟体现",
+      "非英文语言下RAG可靠性担忧上升",
+      "开源代理如TouchGrass受关注",
+      "AI工具聚焦行为改变"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.295 released with security fixes",
+      "OpenAI Codex rust-v0.163.0-alpha.2 out now",
+      "GitHub Copilot CLI v1.0.95-1 launched",
+      "Gemini CLI sees 10 P1/P2 issues reported",
+      "OpenCode gains traction in open-source community",
+      "Pi CLI now supports multi-agent workflows"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.9 released with session fixes",
+      "185 commits in OpenClaw today, 112 PRs merged",
+      "Critical session persistence bug resolved",
+      "No breaking changes in v2026.9.9 release",
+      "Agent DB contention issue fixed in update",
+      "Plugin activation reliability improved"
+    ],
+    "ai-infra": [
+      "vLLM: 147 open issues, critical regressions",
+      "SGLang CI instability reported in 132 issues",
+      "llama.cpp updated to v11514–b11501",
+      "Ollama v0.40.2 released, regression spike",
+      "LiteLLM consolidates multi-provider support",
+      "Unsloth accelerates fine-tuning for reasoning"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem +670 stars today",
+      "affaan-m/ECC optimizes agent performance",
+      "Panniantong/Agent-Reach enables web perception",
+      "Ollama hits 182K stars, local inference standard",
+      "Hugging Face Transformers remains backbone",
+      "Agent frameworks dominate AI trending list"
+    ],
+    "ai-web": [
+      "Anthropic launches Cyber Mission for OSS security",
+      "OSS Scanner now detects vulnerabilities at scale",
+      "Claude Science generates first UV sky map",
+      "Anthropic pledges $150M to Genesis Mission",
+      "OpenAI targets AI influence campaigns",
+      "New policy bans deceptive AI use in ops"
+    ],
+    "ai-hn": [
+      "Step 5 Preview: 1M-context MoE model live",
+      "OpenAI withdraws 3 math results amid scrutiny",
+      "Samsung Labs: sub-1-bit LLM compression breakthrough",
+      "Claude Code helps discover potential new planet",
+      "OpenAI revenue shortfall sparks debate",
+      "MoE models push context length limits"
+    ],
+    "ai-arxiv": [
+      "TRACE: Diagnosing verifier brittleness in agents",
+      "LLM turnover undermines scientific screening",
+      "Memory Type Varies: diverse strategies for agents",
+      "Uncertainty quantification improves trustworthiness",
+      "Prompt injection defense research advances",
+      "Spatiotemporal modeling for autonomous driving"
+    ],
+    "ai-community": [
+      "AI retry logic can amplify errors and waste compute",
+      "Teams use 'meat proxies' to simulate engineers",
+      "Shipping faster with AI isn't true engineering maturity",
+      "RAG reliability concerns rise in non-English languages",
+      "Open-source agents like TouchGrass gain attention",
+      "AI tools now focus on behavioral change"
+    ]
+  }
+}
