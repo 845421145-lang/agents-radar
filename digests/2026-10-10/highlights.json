@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.296 修复会话问题发布",
+      "OpenAI Codex 更新：rust-v0.163.0-alpha.5 上线",
+      "Gemini CLI：v0.65.0-nightly 可用",
+      "Copilot CLI v1.0.96-1 发布提升稳定性",
+      "OpenCode 见 10 个 PR 无新版本",
+      "Pi 工具活跃，10 个 PR 3 个讨论"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 个问题，P0 坠机阻升级",
+      "关键漏洞下无新 OpenClaw 版本",
+      "关键修复 #168076 已批准归档线程",
+      "用户因更新死锁困于旧版",
+      "Windows 原生负载高危漏洞",
+      "社区深陷持续边缘案例"
+    ],
+    "ai-infra": [
+      "vLLM 不稳定：SM120/ROCm 回退",
+      "SGLang 确定性推理路径缺陷",
+      "llama.cpp 修复：b11538+ 构建可用",
+      "Ollama 面临 11 个高危问题",
+      "LiteLLM 24 小时获 95 星",
+      "基于 Rust 网关驱动低延迟路由"
+    ],
+    "ai-trending": [
+      "Ollama：182K 星，本地 LLM 跑得最快",
+      "LiteLLM：13K 星，最快 AI 网关",
+      "ECC 与 Front-End-Checklist 流行工具",
+      "HKUDS/nanobot：轻量自托管代理",
+      "Zhayujie/CowAgent 注重隐私",
+      "Qdrant 与 LangChain 主导 RAG 生态"
+    ],
+    "ai-web": [
+      "Anthropic 推出 Claude Corps 1.5 亿美元资助",
+      "OSS Scanner：通过 Claude 可选漏洞探测",
+      "发布无意模型行为研究",
+      "OpenAI 发布 4 篇仅元数据文章",
+      "真实模型行为风险受关注",
+      "主动安全透明成焦点"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 创新推理基准",
+      "OpenAI 因争议撤回 3 个数学结果",
+      "AI 助力发现失踪陨石或行星",
+      "Rust 重写提升文本转图像训练",
+      "费城谋杀案 AI 错误提示事件",
+      "Hacker News 讨论 AI 幻觉风险"
+    ],
+    "ai-arxiv": [
+      "用价值表示预测对齐泛化",
+      "法律 LLM 在假法条测试中失真",
+      "无需 VAE 的高效训练突破",
+      "BrickBench 生成实体乐高套件",
+      "FAITH：高效强化学习框架",
+      "潜空间核心分词器有效压缩模型"
+    ],
+    "ai-community": [
+      "边界开放时 AI 代理自封王者",
+      "离线 AI 知你上次霜冻日，无需 API",
+      "Whistle：16.9 MB 语音转文字模型发布",
+      "Kaggle 挑战：大忽悠 vs LLM 真相",
+      "Docker 新 `agent wall` 引发争论",
+      "AWS vs Sui：代理授权模型冲突"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.296 released with session fixes",
+      "OpenAI Codex updates: rust-v0.163.0-alpha.5 live",
+      "Gemini CLI: v0.65.0-nightly now available",
+      "Copilot CLI v1.0.96-1 released for stability",
+      "OpenCode sees 10 PRs but no new release",
+      "Pi tool active with 10 PRs and 3 discussions"
+    ],
+    "ai-agents": [
+      "OpenClaw has 500 issues, P0 bugs blocking upgrades",
+      "No new OpenClaw releases despite critical bugs",
+      "Critical fix #168076 approved for thread archiving",
+      "Users stuck on old builds due to update deadlocks",
+      "High-severity bugs in Windows-native workloads",
+      "Community deeply engaged on persistent edge cases"
+    ],
+    "ai-infra": [
+      "vLLM unstable: regressions on SM120/ROCm",
+      "SGLang flawed deterministic inference paths",
+      "llama.cpp patched: b11538+ builds out",
+      "Ollama sees 11 high-severity issues",
+      "LiteLLM gains 95 stars in 24 hours",
+      "Rust-based gateways driving low-latency routing"
+    ],
+    "ai-trending": [
+      "Ollama: 182K stars, top local LLM runner",
+      "LiteLLM: 13K stars, fastest AI gateway",
+      "ECC & Front-End-Checklist trending tools",
+      "HKUDS/nanobot: lightweight self-hosted agent",
+      "Zhayujie/CowAgent gaining privacy focus",
+      "Qdrant & LangChain lead RAG ecosystem"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude Corps $150M fellowship",
+      "OSS Scanner: opt-in vulnerability finder via Claude",
+      "Investigating unintended model actions published",
+      "OpenAI releases 4 metadata-only articles",
+      "Real-world model behavior risks highlighted",
+      "Proactive safety transparency takes center stage"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 sets new reasoning benchmarks",
+      "OpenAI retracts 3 math results amid debate",
+      "AI helps discover lost meteorites, possible planet",
+      "Rust rewrite boosts text-to-image training",
+      "Philadelphia murder case AI false tip incident",
+      "Hacker News debates AI hallucination risks"
+    ],
+    "ai-arxiv": [
+      "Predicting alignment generalization with value reps",
+      "Legal LLMs fail faithfulness test with fake statutes",
+      "Efficient training without VAEs: a breakthrough",
+      "BrickBench generates physical LEGO sets",
+      "FAITH: efficient reinforcement learning framework",
+      "Latent Core Tokenizer compresses models effectively"
+    ],
+    "ai-community": [
+      "AI agents crowned themselves when boundaries open",
+      "Offline AI knows your last frost date, no API",
+      "Whistle: 16.9 MB speech-to-text model released",
+      "Kaggle challenge: yes-men vs truth in LLMs",
+      "Docker's new `agent wall` sparks debate",
+      "AWS vs Sui: conflicting agent authorization models"
+    ]
+  }
+}
