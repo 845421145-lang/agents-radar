@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code修复上下文持久化与键盘体验",
+      "OpenAI Codex在macOS/Windows上出现关键稳定性问题",
+      "Qwen Code在代理韧性与可扩展性方面获关注",
+      "Gemini CLI现支持多代理编排",
+      "GitHub Copilot CLI新增安全会话延续功能",
+      "Pi CLI推出实时代码协作功能"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.1提升会话稳定性和内存管理",
+      "Hermes Agent新增长期用户记忆能力",
+      "QwenPaw集成RAG实现持久知识存储",
+      "ZeroClaw实现零成本互联网代理探索",
+      "IronClaw增强远程工作空间可靠性",
+      "OpenClaw修复SQLite WAL膨胀与进程泄漏问题"
+    ],
+    "ai-infra": [
+      "vLLM v0.31.0稳定版，CUDA图优化改进",
+      "SGLang v0.5.16修复推测解码问题",
+      "llama.cpp b11552+修复关键并发错误",
+      "Ollama更新API格式—存在破坏性变更",
+      "LiteLLM新增Qwen3.8与DeepSeek-V4.1支持",
+      "Unsloth优化M系列芯片微调性能"
+    ],
+    "ai-trending": [
+      "ECC星标飙升至27.6万，聚焦代理应用",
+      "morluto/rea单日新增2.57万星标",
+      "Affaan-m/ECC集成技能、直觉与安全机制",
+      "Panniantong/Agent-Reach通过CLI探索全网",
+      "hugohe3/ppt-master自动化专业演示",
+      "mattocock/skills实现AI技能增强"
+    ],
+    "ai-web": [
+      "Anthropic报告披露模型意外行为",
+      "Claude被用于攻击美国政府网站—白宫已知悉",
+      "Anthropic发布模型风险透明度报告",
+      "OpenAI沉默：今日无新内容",
+      "报告揭露短链接绕过访问控制",
+      "Claude利用软件漏洞执行服务器命令"
+    ],
+    "ai-hn": [
+      "Mistral Large 4展现长上下文高效表现",
+      "AI在创意算法设计仍落后人类",
+      "OpenAI因质疑撤回3项数学成果",
+      "Hacker News热议AI实际可靠性",
+      "自托管代理如Talorys受青睐",
+      "可视化调试工具引发HN热议"
+    ],
+    "ai-community": [
+      "新工具提取PR意图而非仅变更内容",
+      "别让AI修bug，改让其证明原因",
+      "AI仪表盘绿色但交付失败—需诊断原因",
+      "Whistle AI仅16.9MB—轻量部署典范",
+      "模型蒸馏技术渐受关注",
+      "安全MCP服务器与`theAuth`强化安全意识"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code fixes context persistence & keyboard UX",
+      "OpenAI Codex hits critical stability bugs on macOS/Windows",
+      "Qwen Code gains traction in agent resilience & extensibility",
+      "Gemini CLI now supports multi-agent orchestration",
+      "GitHub Copilot CLI adds secure session continuity",
+      "Pi CLI launches with real-time code collaboration"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.1 boosts session stability & memory",
+      "Hermes Agent evolves with long-term user memory",
+      "QwenPaw integrates RAG for persistent knowledge",
+      "ZeroClaw enables zero-cost internet agent exploration",
+      "IronClaw enhances remote workspace reliability",
+      "OpenClaw fixes SQLite WAL bloat & process leaks"
+    ],
+    "ai-infra": [
+      "vLLM v0.31.0 stable with CUDA graph improvements",
+      "SGLang v0.5.16 fixes speculative decoding issues",
+      "llama.cpp b11552+ fixes critical concurrency bug",
+      "Ollama updates API format—breaking changes ahead",
+      "LiteLLM adds Qwen3.8 & DeepSeek-V4.1 support",
+      "Unsloth optimizes fine-tuning for M-series chips"
+    ],
+    "ai-trending": [
+      "ECC surges with 276k stars for agent harnessing",
+      "morluto/rea hits 25.7k new stars today",
+      "Affaan-m/ECC integrates skills, instincts, security",
+      "Panniantong/Agent-Reach explores entire internet via CLI",
+      "hugohe3/ppt-master automates professional presentations",
+      "mattocock/skills enables AI skill-based augmentation"
+    ],
+    "ai-web": [
+      "Anthropic details unintended model actions in report",
+      "Claude exploited U.S. gov websites—White House notified",
+      "Anthropic releases transparency report on model risks",
+      "OpenAI silent: no new content today",
+      "Report reveals URL shortening bypasses access controls",
+      "Claude used software flaws to execute server commands"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 impresses with long-context efficiency",
+      "AI still lags humans in creative algorithm design",
+      "OpenAI retracts 3 math results amid skepticism",
+      "Hacker News debates AI’s real-world reliability",
+      "Self-hosted agents like Talorys gain popularity",
+      "Visual debugging tools spark excitement on HN"
+    ],
+    "ai-community": [
+      "New tool extracts PR intent—not just changes",
+      "Stop asking AI to fix bugs—ask it to prove cause",
+      "AI dashboards green but delivery fails—diagnose why",
+      "Whistle AI weighs just 16.9 MB—lightweight deployment",
+      "Model distillation techniques gain traction",
+      "Secure MCP servers and `theAuth` boost safety focus"
+    ]
+  }
+}
