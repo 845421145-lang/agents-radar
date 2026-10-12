@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code：10大热点，无新版本发布",
+      "Gemini CLI：v0.65.0-nightly 版本发布",
+      "OpenAI Codex：24小时内合并10个PR",
+      "GitHub Copilot CLI：持续开发中",
+      "Qwen Code：双路径代理初现",
+      "Pi：聚焦移动端AI工作流"
+    ],
+    "ai-agents": [
+      "OpenClaw：v2026.10.5-beta.1 版本发布",
+      "OpenClaw：修复租约过期恢复问题",
+      "Hermes Agent：自适应学习受关注",
+      "IronClaw：新代理架构上线",
+      "QwenPaw：多模态代理集成",
+      "ZeroClaw：隐私优先代理网络"
+    ],
+    "ai-infra": [
+      "vLLM：SM120 GPU优化进行中",
+      "SGLang：156个开放PR，暂无发布",
+      "llama.cpp：构建b11559 发布",
+      "Ollama：118个开放问题",
+      "LiteLLM：v1.106.0-rc.1 发布",
+      "Unsloth：扩展至扩散模型"
+    ],
+    "ai-trending": [
+      "ECC：27.7万星，Claude Code代理中心",
+      "Hermes-Agent：25.2万星，自适应AI",
+      "AutoGPT：18.7万星，任务自动化",
+      "AnythingLLM：本地优先AI趋势",
+      "RAGFlow：可扩展知识管理",
+      "mem0：长期记忆代理"
+    ],
+    "ai-hn": [
+      "Mistral Large 4：开源权重突破",
+      "字节级LLM：原始序列训练",
+      "Karpathy：AI能力差距争议",
+      "OpenAI裁员：安全研究反弹",
+      "改造模型：效率跃升",
+      "机构诚信受质疑"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B：680万下载",
+      "unsloth/Qwen3.8-27B-GGUF：650万下载",
+      "LTX-2.5：170万图文视频下载",
+      "Underdog-Saluki-27B：2比特量化模型",
+      "Qwen GGUF：CPU/GPU本地推理",
+      "未审查Qwen：高度定制需求"
+    ],
+    "ai-community": [
+      "TerraPulse：无屏徒步代理",
+      "TabPFN：基于天气的户外提醒",
+      "Whistle：16.9MB轻量级LLM",
+      "8比特量化：体积减半",
+      "生成代码中的虚假服务器风险",
+      "用AI工具实现数字排毒"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code: 10 hot issues, no new release",
+      "Gemini CLI: v0.65.0-nightly released",
+      "OpenAI Codex: 10 PRs merged in 24h",
+      "GitHub Copilot CLI: Active development",
+      "Qwen Code: Dual-path agents emerging",
+      "Pi: Mobile-first AI workflow focus"
+    ],
+    "ai-agents": [
+      "OpenClaw: v2026.10.5-beta.1 released",
+      "OpenClaw: Fixes stale lease recovery",
+      "Hermes Agent: Adaptive learning gains traction",
+      "IronClaw: New agent architecture launched",
+      "QwenPaw: Multimodal agent integration",
+      "ZeroClaw: Privacy-focused agent network"
+    ],
+    "ai-infra": [
+      "vLLM: SM120 GPU optimizations underway",
+      "SGLang: 156 open PRs, no release",
+      "llama.cpp: Build b11559 released",
+      "Ollama: 118 open issues",
+      "LiteLLM: v1.106.0-rc.1 released",
+      "Unsloth: Expanding to diffusion models"
+    ],
+    "ai-trending": [
+      "ECC: 277K stars, Claude Code agent hub",
+      "Hermes-Agent: 252K stars, adaptive AI",
+      "AutoGPT: 187K stars, task automation",
+      "AnythingLLM: Local-first AI trend",
+      "RAGFlow: Scalable knowledge management",
+      "mem0: Long-term memory agents"
+    ],
+    "ai-hn": [
+      "Mistral Large 4: Open-weight breakthrough",
+      "Byte-level LLMs: Raw sequence training",
+      "Karpathy: AI capability gap debate",
+      "OpenAI firings: Safety research backlash",
+      "Retrofitted models: Efficiency leap",
+      "Institutional integrity under scrutiny"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B: 6.8M downloads",
+      "unsloth/Qwen3.8-27B-GGUF: 6.5M downloads",
+      "LTX-2.5: 1.7M image-to-video downloads",
+      "Underdog-Saluki-27B: 2-bit quantized model",
+      "Qwen GGUF: CPU/GPU local inference",
+      "Uncensored Qwen: High customization demand"
+    ],
+    "ai-community": [
+      "TerraPulse: Screenless hiking agent",
+      "TabPFN: Weather-based outdoor alerts",
+      "Whistle: 16.9MB lightweight LLM",
+      "8-bit quantization: Size halved",
+      "Fake server risks in generated code",
+      "Digital detox with AI tools"
+    ]
+  }
+}
