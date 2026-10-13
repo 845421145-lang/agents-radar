@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 新增技能 API",
+      "Gemini CLI 发布 v0.65.0-nightly",
+      "GitHub Copilot CLI 推出 v1.0.97-2",
+      "OpenAI Codex 24 小时内提交 10 个 PR",
+      "Pi 工具支持代理工作流",
+      "Qwen Code 增加本地模型支持"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.5-beta.2 修复更新崩溃",
+      "OpenClaw 解决 Windows 路径问题",
+      "最新版聚焦 OpenClaw 稳定性",
+      "Hermes Agent 优化内存性能",
+      "IronClaw 提升会话韧性",
+      "QwenPaw 扩展多模态支持"
+    ],
+    "ai-infra": [
+      "Ollama 发布 v0.40.4-rc0",
+      "Unsloth 推出 v0.1.906-beta",
+      "vLLM 开启 98 个开放 PR",
+      "SGLang 优化分布式推理",
+      "llama.cpp 稳定 CPU 部署",
+      "LiteLLM 集成成本防护"
+    ],
+    "ai-trending": [
+      "morluto/rea 星标飙升至 4.5 万",
+      "affaan-m/ECC 星标达 27.7 万",
+      "ollama 主导本地 LLM 趋势",
+      "向量数据库项目快速成长",
+      "open-webui 成为 RAG 标准",
+      "langchain 巩固核心工具地位"
+    ],
+    "ai-web": [
+      "Claude 发现类 CRISPR 酶系统",
+      "物联网设备发现自复制 AI",
+      "新防御手段降低数据泄露 99%",
+      "Anthropic 发布 AI 安全报告",
+      "AI 模型现已可运行于智能烤箱",
+      "Meta Muse Wonder 获 HN 备受好评"
+    ],
+    "ai-hn": [
+      "Codex CLI 守护进程引发隐私争议",
+      "Meta Muse Wonder 登上 HN 首页",
+      "OpenAI 数学突破引爆病毒传播",
+      "审计质疑纳维-斯托克斯声明",
+      "AI 监控工具遭批评",
+      "黑客热议 DevOps 中的 AI 伦理"
+    ],
+    "ai-community": [
+      "Randal Schwartz 修复提示幻觉",
+      "一个 rm -f 导致崩溃检测失效",
+      "本地 LLM 挑战 Claude Code",
+      "Hacktoberfest：接触自然周",
+      "AI 安全控制日益紧迫",
+      "Lobste.rs 讨论涌现行为"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code gains new Skills API",
+      "Gemini CLI hits v0.65.0-nightly",
+      "GitHub Copilot CLI rolls out v1.0.97-2",
+      "OpenAI Codex sees 10 PRs in 24h",
+      "Pi tool now supports agent workflows",
+      "Qwen Code adds local model support"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.5-beta.2 fixes update crashes",
+      "Windows path issues resolved in OpenClaw",
+      "OpenClaw stability focus in latest release",
+      "Hermes Agent gains memory optimization",
+      "IronClaw enhances session resilience",
+      "QwenPaw expands multimodal support"
+    ],
+    "ai-infra": [
+      "Ollama releases v0.40.4-rc0",
+      "Unsloth launches v0.1.906-beta",
+      "vLLM hits 98 open PRs",
+      "SGLang improves distributed inference",
+      "llama.cpp stabilizes on CPU deployment",
+      "LiteLLM integrates cost guardrails"
+    ],
+    "ai-trending": [
+      "morluto/rea surges with 45K stars",
+      "affaan-m/ECC hits 277K stars",
+      "ollama dominates local LLM trend",
+      "vector DB projects grow fast",
+      "open-webui becomes RAG standard",
+      "langchain solidifies as core tool"
+    ],
+    "ai-web": [
+      "Claude finds CRISPR-like enzyme system",
+      "Self-replicating AI found on IoT devices",
+      "New defense cuts data leakage by 99%",
+      "Anthropic releases AI safety report",
+      "AI models can now run on smart ovens",
+      "Meta's Muse Wonder wins HN praise"
+    ],
+    "ai-hn": [
+      "Codex CLI daemon sparks privacy outrage",
+      "Meta's Muse Wonder debuts on HN",
+      "OpenAI math breakthrough goes viral",
+      "Audit questions Navier-Stokes claims",
+      "AI surveillance tools draw criticism",
+      "Hackers debate AI ethics in DevOps"
+    ],
+    "ai-community": [
+      "Randal Schwartz fixes prompt hallucinations",
+      "One rm -f broke crash detection",
+      "Local LLMs challenge Claude Code",
+      "Hacktoberfest: Touch Grass Week",
+      "AI safety controls gain urgency",
+      "Lobste.rs debates emergent behaviors"
+    ]
+  }
+}
