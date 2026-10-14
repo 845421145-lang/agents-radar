@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code：24小时内10个问题，2个PR",
+      "OpenAI Codex：今日发布3个测试版",
+      "Gemini CLI：v0.65.0-preview.0上线",
+      "GitHub Copilot CLI：v1.0.98-1发布",
+      "OpenCode：10个问题，10个PR合并",
+      "Pi：24小时内10个问题，10个PR"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.5-beta.3：网关稳定性修复",
+      "v2026.10.3：99位贡献者，79个PR",
+      "OpenClaw：认证与会话漏洞修复",
+      "Hermes Agent：新插件生命周期支持",
+      "IronClaw：跨平台稳定性优化",
+      "QwenPaw：活跃贡献者扩展"
+    ],
+    "ai-infra": [
+      "vLLM：187个开放问题，性能稳定",
+      "SGLang：234个问题，部署反馈高",
+      "llama.cpp：补丁修复，b11604+已上线",
+      "Ollama：v0.40.3–v0.40.4待发布",
+      "LiteLLM：v1.106.0-rc.2发布",
+      "Unsloth：持续聚焦边缘效率"
+    ],
+    "ai-trending": [
+      "morluto/rea：24小时获54k+星标",
+      "context-mode：新增969颗星",
+      "vercel-labs/skills：模块化代理工具包",
+      "airllm：低硬件高性能",
+      "Rea：二进制文件的AI逆向工程",
+      "上下文优化：17个平台钩子"
+    ],
+    "ai-web": [
+      "Anthropic：Claude每日3万次合并",
+      "Scion：自研VC系统上线",
+      "Antique：AI代码审查工具上线",
+      "分布式泄漏减少90–99%",
+      "IAM升级：安全防护增强",
+      "单体仓库迁移：5个月内替换Git"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon：多模态跃升引发讨论",
+      "OpenAI员工因窃听被捕",
+      "AI机器人流量冲击HN热潮后",
+      "能力隐藏：可证明安全模型",
+      "蒸馏攻击防御：显著提升",
+      "隐私保护AI：研究兴趣上升"
+    ],
+    "ai-community": [
+      "AI倦怠：持续炒作导致倦怠",
+      "代理谎报拦截攻击",
+      "遗忘症：重启后状态丢失",
+      "本地AI：树莓派与浏览器RAG兴起",
+      "低成本AI：可持续趋势",
+      "信任流失：代理无声退化"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code: 10 issues, 2 PRs in 24h",
+      "OpenAI Codex: 3 alpha releases today",
+      "Gemini CLI: v0.65.0-preview.0 live",
+      "GitHub Copilot CLI: v1.0.98-1 released",
+      "OpenCode: 10 issues, 10 PRs merged",
+      "Pi: 10 issues, 10 PRs in 24h"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.5-beta.3: Gateway durability fixed",
+      "v2026.10.3: 99 contributors, 79 PRs",
+      "OpenClaw: auth & session bugs patched",
+      "Hermes Agent: new plugin lifecycle support",
+      "IronClaw: cross-platform stability push",
+      "QwenPaw: active contributor expansion"
+    ],
+    "ai-infra": [
+      "vLLM: 187 open issues, stable performance",
+      "SGLang: 234 issues, high deployment feedback",
+      "llama.cpp: patch fixes, b11604+ live",
+      "Ollama: v0.40.3–v0.40.4 pending",
+      "LiteLLM: v1.106.0-rc.2 released",
+      "Unsloth: edge efficiency focus continues"
+    ],
+    "ai-trending": [
+      "morluto/rea: 54k+ stars in 24h",
+      "context-mode: 969 new stars",
+      "vercel-labs/skills: modular agent toolkit",
+      "airllm: high-performance on minimal hardware",
+      "Rea: AI reverse-engineering for binaries",
+      "Context optimization: 17 platform hooks"
+    ],
+    "ai-web": [
+      "Anthropic: 30K merges/day from Claude",
+      "Scion: in-house VC system launched",
+      "Antique: AI code review tool live",
+      "90–99% reduction in distillation leaks",
+      "IAM upgrades: enhanced security posture",
+      "Monorepo migration: Git replaced in 5 months"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon: multimodal leap debated",
+      "OpenAI employee arrested for bugging",
+      "AI bot traffic floods post-HN surge",
+      "Capability hiding: provably safe models",
+      "Distillation attack defenses: strong gains",
+      "Privacy-preserving AI: rising research interest"
+    ],
+    "ai-community": [
+      "AI fatigue: burnout from constant hype",
+      "Agents lie about blocking attacks",
+      "Amnesia: agents lose state after restart",
+      "Local AI: Raspberry Pi and browser RAG rise",
+      "Cost-efficient AI: sustainability trend",
+      "Trust erosion: silent regressions in agents"
+    ]
+  }
+}
