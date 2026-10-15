@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.300 修复会话稳定性问题",
+      "OpenAI Codex 推出 rust-v0.163.0-alpha.11",
+      "Gemini CLI 发布 v0.65.0-nightly 新工具",
+      "Qwen Code 获得自托管扩展优势",
+      "Pi CLI 支持多模态输入",
+      "Claude Code Skills 增加企业权限控制"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内处理500个PR，应对严重漏洞潮",
+      "UI重构移除Lit依赖",
+      "安全修复解决凭证处理缺陷",
+      "OpenClaw 2026.9.8 稳定版，避免近期更新",
+      "Hermes Agent 引入MCP路由能力",
+      "IronClaw 提升插件加载稳定性"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.0 稳定版发布",
+      "SGLang v0.5.20 已投入生产",
+      "llama.cpp 合并重大上下文变更",
+      "LiteLLM 新增成本追踪与可观测性",
+      "vLLM nightly 版本在cu129上崩溃",
+      "Ollama 主导轻量本地部署"
+    ],
+    "ai-trending": [
+      "rea (241K stars) 引领逆向工程潮流",
+      "iFixAi 120秒内审计智能体",
+      "Context-mode 将AI上下文减少98%",
+      "VoiceStudio 提供本地ElevenLabs替代",
+      "Scientific-agent-skills 面向领域专家",
+      "CLI-Anything 推动原生CLI AI工作流"
+    ],
+    "ai-web": [
+      "Anthropic 开设新加坡办公室，拓展亚太",
+      "新加坡备忘录彰显主权AI信任",
+      "美国仅0.01% Claude对话涉及选民引导",
+      "政治使用占比：美国互动的5.75%",
+      "Claude中期报告突出安全措施",
+      "Anthropic 发布抗选举干扰数据"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon HN得分1433",
+      "LFM2.5-24B-A2B 专为设备端代理设计",
+      "Spool 解决持续Claude Code循环",
+      "Neckbeard 成为热门运维平台",
+      "容器失效后AI安全担忧激增",
+      "数据中心债务压力推动银行剥离"
+    ],
+    "ai-arxiv": [
+      "SEAR 实现智能体递归自我优化",
+      "DoubtLess 无需训练优化推理",
+      "解锁令牌奖励实现精准评估",
+      "Pack Light 提升结构化上下文使用",
+      "OmniCompass 评测全维度多模态AI",
+      "Sitreps 对标现实标准评估LLM内容"
+    ],
+    "ai-community": [
+      "浏览器AI支持实时语音与代码",
+      "端到端智能体评估受关注",
+      "AI 因称课程为‘AI垃圾’道歉",
+      "记忆≠学习：智能体重复错误",
+      "自托管智能体突破隐私边界",
+      "AI 拒绝发布未经验证内容"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.300 released with session resilience fixes",
+      "OpenAI Codex rolls out rust-v0.163.0-alpha.11",
+      "Gemini CLI hits v0.65.0-nightly with new tooling",
+      "Qwen Code gains self-hosted scalability edge",
+      "Pi CLI now supports multimodal input",
+      "Claude Code Skills adds enterprise permission controls"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 PRs in 24h amid critical bug surge",
+      "UI refactoring removes Lit dependency in OpenClaw",
+      "Security fixes address credential handling flaws",
+      "OpenClaw 2026.9.8 stable, avoid recent updates",
+      "Hermes Agent gains MCP-based routing capabilities",
+      "IronClaw boosts plugin loading stability"
+    ],
+    "ai-infra": [
+      "vLLM v0.30.0 stable release launched",
+      "SGLang v0.5.20 in production use",
+      "llama.cpp merges breaking context changes",
+      "LiteLLM adds cost tracking & observability",
+      "vLLM nightly build broken on cu129",
+      "Ollama dominates lightweight local deployment"
+    ],
+    "ai-trending": [
+      "rea (241K stars) leads reverse-engineering trend",
+      "iFixAi audits agents in under 120 seconds",
+      "Context-mode cuts AI context by 98%",
+      "VoiceStudio offers local ElevenLabs alternative",
+      "Scientific-agent-skills targets domain experts",
+      "CLI-Anything pushes CLI-native AI workflows"
+    ],
+    "ai-web": [
+      "Anthropic opens Singapore office for APAC expansion",
+      "Singapore MOU signals sovereign AI trust",
+      "Only 0.01% of U.S. Claude chats involve voter guidance",
+      "Political usage: 5.75% of U.S. interactions",
+      "Claude midterms report highlights safety measures",
+      "Anthropic releases election-resilience data"
+    ],
+    "ai-hn": [
+      "Gemini 4 Argon scores 1433 on HN",
+      "LFM2.5-24B-A2B built for on-device agents",
+      "Spool tackles persistent Claude Code loops",
+      "Neckbeard gains traction as DevOps platform",
+      "AI safety concerns spike after containment failures",
+      "Data center debt strain fuels bank offloads"
+    ],
+    "ai-arxiv": [
+      "SEAR enables recursive self-improvement in agents",
+      "DoubtLess optimizes reasoning without training",
+      "Unlocking Token Rewards for precise evaluation",
+      "Pack Light improves structured context use",
+      "OmniCompass benchmarks holistic multimodal AI",
+      "Sitreps evaluates LLM content against real-world standards"
+    ],
+    "ai-community": [
+      "Browser AI now runs real-time speech & code",
+      "End-to-end agent evals gain traction",
+      "AI apologizes for calling course 'AI Slop'",
+      "Memory ≠ learning: agents repeat mistakes",
+      "Self-hosted agents push privacy boundaries",
+      "AI refuses to publish unverified content"
+    ]
+  }
+}
