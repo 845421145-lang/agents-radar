@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.301 稳定版发布",
+      "OpenAI Codex：24小时内合并10个PR",
+      "Gemini CLI 活跃，处理10个问题",
+      "GitHub Copilot CLI v1.0.99-1 稳定版",
+      "Pi与Qwen Code推动开源创新",
+      "OpenCode获关注，新增10个PR"
+    ],
+    "ai-agents": [
+      "OpenClaw：24小时内处理500个问题与PR",
+      "v2026.10.10-beta.1：网关提速",
+      "v2026.10.5-beta.4：macOS修复",
+      "Hermes Agent：25.4万星，快速成长",
+      "Agent-Reach实现免费网页浏览",
+      "career-ops：AI求职代理上线"
+    ],
+    "ai-infra": [
+      "llama.cpp v0.7.0 发布：MoE与解码优化",
+      "Ollama v0.40.5 即将推出：MiniCPM-V 4.7",
+      "Unsloth v0.1.908-beta：Muse Spark Open",
+      "LiteLLM v1.107.0-dev.2：安全加固",
+      "SGLang v0.5.20 稳定版",
+      "vLLM：98个问题，主分支活跃"
+    ],
+    "ai-trending": [
+      "morluto/rea：代理性能提升",
+      "affaan-m/ECC：热门优化工具",
+      "K-Dense-AI/scientific-agent-skills：新标准",
+      "VoiceStudio：本地语音克隆趋势",
+      "xerj-org/xerj：注重隐私的索引",
+      "多智能体系统势头上升"
+    ],
+    "ai-web": [
+      "Anthropic授予美国政府$1访问权限",
+      "METR获得员工级风险数据访问",
+      "Scion：日均处理3万次代码合并",
+      "新合作强化透明度",
+      "Claude已覆盖全美所有分支机构",
+      "Scion专为前沿规模开发打造"
+    ],
+    "ai-hn": [
+      "Meta的Muse Spark Open引发争议",
+      "Scion受Mononoke启发：争议不断",
+      "AI代理突破限制：红色警报",
+      "ChatGPT广告瞄准用户数据：隐私泄露",
+      "社区呼吁伦理约束",
+      "开放性与性能：核心矛盾"
+    ],
+    "ai-arxiv": [
+      "弹性Transformer推理扩展",
+      "Manacá-1B-Instruct-2：葡萄牙语安全",
+      "翻译中的偏见审计缺陷",
+      "协同进化代理提升规划",
+      "连续注意力提升效率",
+      "医疗LLM表示隐藏风险"
+    ],
+    "ai-community": [
+      "AI代理谎报代码变更：警示",
+      "AI编码代理谎言检测工具",
+      "Scope-Creep Guard：本地Gemma AI",
+      "Vibecoding：玩笑还是危险？",
+      "Hacktoberfest推动真实世界AI项目",
+      "本地AI方案兴起以保障隐私"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.301 stable release",
+      "OpenAI Codex: 10 PRs merged in 24h",
+      "Gemini CLI active with 10 issues",
+      "GitHub Copilot CLI v1.0.99-1 stable",
+      "Pi and Qwen Code driving open innovation",
+      "OpenCode gains traction with 10 PRs"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues & PRs in 24h",
+      "v2026.10.10-beta.1: faster gateway",
+      "v2026.10.5-beta.4: macOS fix",
+      "Hermes Agent: 254K stars, growing fast",
+      "Agent-Reach enables free web browsing",
+      "career-ops: AI job search agent launched"
+    ],
+    "ai-infra": [
+      "llama.cpp v0.7.0 released: MoE & decoding",
+      "Ollama v0.40.5 incoming: MiniCPM-V 4.7",
+      "Unsloth v0.1.908-beta: Muse Spark Open",
+      "LiteLLM v1.107.0-dev.2: security hardened",
+      "SGLang v0.5.20 stable",
+      "vLLM: 98 issues, main branch active"
+    ],
+    "ai-trending": [
+      "morluto/rea: agent performance boost",
+      "affaan-m/ECC: trending optimization tool",
+      "K-Dense-AI/scientific-agent-skills: new standard",
+      "VoiceStudio: local voice cloning trend",
+      "xerj-org/xerj: privacy-focused indexing",
+      "multi-agent systems gaining momentum"
+    ],
+    "ai-web": [
+      "Anthropic grants U.S. government $1 access",
+      "METR gets employee-level risk data access",
+      "Scion: handles 30K daily code merges",
+      "New partnership strengthens transparency",
+      "Claude now used across all U.S. branches",
+      "Scion built for frontier-scale development"
+    ],
+    "ai-hn": [
+      "Meta’s Muse Spark Open sparks debate",
+      "Scion inspired by Mononoke: controversy",
+      "AI agents bypass containment: red flag",
+      "ChatGPT ads target user data: privacy breach",
+      "Community demands ethical guardrails",
+      "Openness vs. performance: core tension"
+    ],
+    "ai-arxiv": [
+      "Elastic Transformers scale at inference",
+      "Manacá-1B-Instruct-2: Portuguese safety",
+      "Lost in Translation: bias audit flaws",
+      "Co-evolving agents improve planning",
+      "Continuum Attention boosts efficiency",
+      "Hidden risks in medical LLM representations"
+    ],
+    "ai-community": [
+      "AI agents lie about code changes: warn",
+      "Lie detector tool for AI coding agents",
+      "Scope-Creep Guard: local Gemma AI",
+      "Vibecoding: joke or danger?",
+      "Hacktoberfest fuels real-world AI projects",
+      "Local AI solutions rising for privacy"
+    ]
+  }
+}
