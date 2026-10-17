@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.302 发布",
+      "OpenAI Codex: rust-v0.164.0-alpha.2 上线",
+      "Gemini CLI 夜间构建版发布",
+      "GitHub Copilot CLI v1.0.100-1 更新",
+      "OpenCode v1.19.3/2 发布",
+      "Pi 工具活跃度：10 个问题"
+    ],
+    "ai-agents": [
+      "OpenClaw：24 小时内处理 500 个问题",
+      "暂无 OpenClaw 新版本发布",
+      "P0 问题：数据库损坏、崩溃",
+      "UI 修复：移动端菜单、快捷键",
+      "安全：网关白名单提案",
+      "PostgreSQL 恢复修复已合并"
+    ],
+    "ai-infra": [
+      "vLLM：ROCm/AMD 势头增长",
+      "SGLang：DeepSeek-V4.1 上线生产",
+      "llama.cpp：b11702 版本发布含 GPU 问题",
+      "Ollama：v0.40.6-rc1 发布",
+      "LiteLLM：v1.8.0 发布",
+      "Unsloth：端到端 AI 流水线"
+    ],
+    "ai-trending": [
+      "VoiceStudio 今日 +2,301 星标",
+      "xerj-org/xerj：+1,648 星标",
+      "XERJ：token 数量仅为 grep 的 1/40",
+      "context-mode：跨 17 平台会话记忆",
+      "CLI-Anything：通用代理原生 CLI",
+      "cursor/plugins：官方插件规范"
+    ],
+    "ai-web": [
+      "Anthropic：ECDSA 曲线来源披露",
+      "Claude 工时超员工 6:1",
+      "AI 在量子电路设计取得突破",
+      "第三方评估承诺",
+      "白宫协议对齐确认",
+      "METR、SecureBio、Accenture 审计"
+    ],
+    "ai-hn": [
+      "Claude 揭露 ECDSA 曲线根源",
+      "Apple MLX 支持 Mac Studio",
+      "FLUX 3 图像模型发布",
+      "AI 劳动力影响争论升温",
+      "担忧 AI 生成政治广告",
+      "AI 安全失败成热议焦点"
+    ],
+    "ai-arxiv": [
+      "CAT-alyzing Honesty：持续训练",
+      "T2-Z：测试时优化机器人推理",
+      "LIBERO-PeRM：个性化机器人基准",
+      "MindEval2：心理健康代理评估",
+      "一组 Gemini 4 Argon 胜出 Minecraft",
+      "通过随机投影实现私有 RAG"
+    ],
+    "ai-community": [
+      "AI 代理：聚焦可靠性与安全",
+      "报告静默指令违规",
+      "多代理工作流上下文膨胀",
+      "Gemma 2 驱动本地优先副业",
+      "系统边界漏洞，非逻辑错误",
+      "代理型 AI 加固：实战经验"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.302 released",
+      "OpenAI Codex: rust-v0.164.0-alpha.2 live",
+      "Gemini CLI nightly build out",
+      "GitHub Copilot CLI v1.0.100-1 updated",
+      "OpenCode v1.19.3/2 released",
+      "Pi tool activity at 10 issues"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues in 24 hours",
+      "No new OpenClaw releases yet",
+      "P0 bugs: database corruption, crashes",
+      "UI fixes: mobile menu, keyboard shortcuts",
+      "Security: gateway allowlist proposal",
+      "PostgreSQL recovery fix merged"
+    ],
+    "ai-infra": [
+      "vLLM: ROCm/AMD momentum growing",
+      "SGLang: DeepSeek-V4.1 in production",
+      "llama.cpp: b11702 release with GPU bugs",
+      "Ollama: v0.40.6-rc1 out",
+      "LiteLLM: v1.8.0 released",
+      "Unsloth: end-to-end AI pipeline"
+    ],
+    "ai-trending": [
+      "VoiceStudio +2,301 stars today",
+      "xerj-org/xerj: +1,648 stars",
+      "XERJ: 40x fewer tokens than grep",
+      "context-mode: session memory across 17 platforms",
+      "CLI-Anything: universal agent-native CLI",
+      "cursor/plugins: official plugin spec"
+    ],
+    "ai-web": [
+      "Anthropic: ECDSA curve origins revealed",
+      "Claude now exceeds employee hours 6:1",
+      "AI in quantum circuit design breakthrough",
+      "Third-party evaluation commitment",
+      "White House Accord alignment confirmed",
+      "METR, SecureBio, Accenture audits"
+    ],
+    "ai-hn": [
+      "Claude reveals ECDSA curve roots",
+      "Apple MLX open for Mac Studio",
+      "FLUX 3 image model launched",
+      "AI labor impact debate heats up",
+      "Concerns over AI-generated political ads",
+      "AI safety failures dominate discussion"
+    ],
+    "ai-arxiv": [
+      "CAT-alyzing Honesty: continuous training",
+      "T2-Z: robot reasoning via test-time opt",
+      "LIBERO-PeRM: personalized robotic benchmark",
+      "MindEval2: mental health agent eval",
+      "A team of Gemini 4 Argon beats Minecraft",
+      "Private RAG via random projection"
+    ],
+    "ai-community": [
+      "AI agents: reliability and security focus",
+      "Silent instruction violations reported",
+      "Context bloat in multi-agent workflows",
+      "Gemma 2 powers local-first side hustles",
+      "Bugs at system boundaries, not logic",
+      "Agentic AI hardening: practical lessons"
+    ]
+  }
+}
