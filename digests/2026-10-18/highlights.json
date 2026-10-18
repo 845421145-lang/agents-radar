@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code今日新增179颗星",
+      "OpenAI Codex发布v0.164.0-alpha.3",
+      "Gemini CLI更新至夜间构建版",
+      "GitHub Copilot CLI无活动",
+      "Pi工具现身AI CLI领域",
+      "Qwen Code跻身顶尖AI编程工具"
+    ],
+    "ai-agents": [
+      "OpenClaw24小时内处理500个问题与PR",
+      "OpenClaw无新版本发布",
+      "关键会话完整性漏洞持续存在",
+      "PR #175930修复插件包检查",
+      "代理崩溃循环仍是主要担忧",
+      "Hermes Agent在生态中获得关注"
+    ],
+    "ai-infra": [
+      "llama.cpp发布3个新测试版",
+      "vLLM24小时内新增14个问题",
+      "SGLang今日提交9个PR",
+      "Ollama标记重大变更",
+      "LiteLLM报告8个新问题",
+      "Unsloth专注代理生命周期"
+    ],
+    "ai-trending": [
+      "CLI-Anything激增574颗星",
+      "XERJ因索引获1160颗星",
+      "VoiceStudio新增130+颗星",
+      "K-Dense-AI推出科研技能",
+      "ECC与Ruflo成为代理枢纽",
+      "RAG向量数据库势头上升"
+    ],
+    "ai-web": [
+      "Anthropic：AI代理工作时长增加6倍",
+      "Claude实现量子电路突破",
+      "Anthropic AI期望差距扩大",
+      "Claude被误报冷案",
+      "研究论文揭示劳动力转移",
+      "AI劳动经济成公众焦点"
+    ],
+    "ai-hn": [
+      "DeepSeek-v4.1-Flash-1017引发争论",
+      "Meta Muse Spark开源发布",
+      "Claude代码审查流程公开",
+      "AI幻觉风险受关注",
+      "用记忆解释Transformer",
+      "OpenAI数据泄露加剧质疑"
+    ],
+    "ai-community": [
+      "Dev.to：72小时用Claude搭建SaaS",
+      "本地模型兴起用于隐私任务",
+      "FalkorDB获代理工作流支持",
+      "MCP在开发圈普及",
+      "日志自删除引发警报",
+      "Hacktoberfest助推AI副业"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code gains 179 new stars today",
+      "OpenAI Codex releases v0.164.0-alpha.3",
+      "Gemini CLI updates to nightly build",
+      "GitHub Copilot CLI sees no activity",
+      "Pi tool emerges in AI CLI space",
+      "Qwen Code joins top AI coding tools"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues & PRs in 24h",
+      "No new releases for OpenClaw",
+      "Critical session integrity bugs persist",
+      "PR #175930 fixes plugin bundle checks",
+      "Agent crash loops remain a top concern",
+      "Hermes Agent gains traction in ecosystem"
+    ],
+    "ai-infra": [
+      "llama.cpp releases 3 new beta builds",
+      "vLLM sees 14 new issues in 24h",
+      "SGLang pushes 9 PRs today",
+      "Ollama flags breaking change",
+      "LiteLLM reports 8 new issues",
+      "Unsloth focuses on agent lifecycle"
+    ],
+    "ai-trending": [
+      "CLI-Anything surges with 574 new stars",
+      "XERJ gains 1160 stars for indexing",
+      "VoiceStudio hits 130+ new stars",
+      "K-Dense-AI launches scientific skills",
+      "ECC and Ruflo emerge as agent harnesses",
+      "RAG vector databases gain momentum"
+    ],
+    "ai-web": [
+      "Anthropic: AI agents work 6x more hours",
+      "Claude achieves quantum circuit breakthrough",
+      "AI expectations gap widens at Anthropic",
+      "Claude falsely reported cold case",
+      "Research papers reveal workforce shift",
+      "AI labor economics now public focus"
+    ],
+    "ai-hn": [
+      "DeepSeek-v4.1-Flash-1017 sparks debate",
+      "Meta's Muse Spark open release",
+      "Claude code review process shared",
+      "AI hallucination risks under scrutiny",
+      "Transformers explained via memory",
+      "OpenAI data leaks fuel skepticism"
+    ],
+    "ai-community": [
+      "Dev.to: SaaS built in 72 hours with Claude",
+      "Local models rise for privacy tasks",
+      "FalkorDB gains agent workflow traction",
+      "MCP adoption grows in dev circles",
+      "Self-deletion of logs raises alarm",
+      "Hacktoberfest fuels AI side hustles"
+    ]
+  }
+}
