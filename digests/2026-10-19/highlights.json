@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.303 修复关键漏洞",
+      "Gemini CLI v0.66.0-nightly 发布",
+      "OpenAI Codex 出现10个热门问题",
+      "Qwen Code 在CLI领域崭露头角",
+      "Pi 工具支持代理工作流",
+      "OpenCode 扩展插件生态"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.5 增加自愈更新",
+      "过期租约恢复自动完成",
+      "忙碌代理处理提升更新可靠性",
+      "过去24小时500个问题与PR",
+      "Hermes Agent 实现记忆持久化",
+      "ZeroClaw 引入联邦工作流"
+    ],
+    "ai-infra": [
+      "vLLM v0.32.0 修复关键问题",
+      "SGLang v0.5.22 稳定发布",
+      "Ollama v0.40.7-rc0 开放测试",
+      "LiteLLM v1.0+ 新功能上线",
+      "llama.cpp 补丁系列持续中",
+      "Unsloth 提升GPU效率"
+    ],
+    "ai-trending": [
+      "VoiceStudio 星标增长+2,082",
+      "Claude Code 插件势头强劲",
+      "Ruflo 支持多人AI集群",
+      "AI记忆系统星标+512",
+      "CLI-Anything 让工具原生代理化",
+      "代理编排框架兴起"
+    ],
+    "ai-hn": [
+      "混合推理代理引发热议",
+      "DeepSeek-v4.1-Flash-1017 获赞",
+      "Meta 发布 Muse Spark Open",
+      "Terry Tao 警告数学中的AI风险",
+      "Claude日记揭示FBI关联",
+      "Sphinx工具聚焦安全"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 下载量达770万",
+      "LTX-2.5 视频模型快速走红",
+      "Qwen-Image-2.1 无审查GGUF受热捧",
+      "ConwayResearch 2比特LLM胜出",
+      "Muse Spark Open 受关注",
+      "DeepSeek-V4.1-Flash-1017 流行"
+    ],
+    "ai-community": [
+      "Hacktoberfest AI挑战升温",
+      "微调Qwen3-8B仅需1.40美元",
+      "客户期望拖累AI项目",
+      "本地企业通过AI提升可见度",
+      "模型漂移检测担忧加剧",
+      "GGUF模型实现本地推理"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.303 fixes critical bugs",
+      "Gemini CLI v0.66.0-nightly released",
+      "OpenAI Codex sees 10 hot issues",
+      "Qwen Code gains traction in CLI space",
+      "Pi tool now supports agent workflows",
+      "OpenCode expands plugin ecosystem"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.5 adds self-healing updates",
+      "Stale lease recovery now automatic",
+      "Busy agent handling improves update reliability",
+      "500 issues and PRs in last 24 hours",
+      "Hermes Agent gains memory persistence",
+      "ZeroClaw introduces federated workflows"
+    ],
+    "ai-infra": [
+      "vLLM v0.32.0 fixes critical issues",
+      "SGLang v0.5.22 stable release",
+      "Ollama v0.40.7-rc0 out for testing",
+      "LiteLLM v1.0+ with new features",
+      "llama.cpp patch series active",
+      "Unsloth boosts GPU efficiency"
+    ],
+    "ai-trending": [
+      "VoiceStudio surges +2,082 stars",
+      "Claude Code plugins gain momentum",
+      "Ruflo enables multi-player AI swarms",
+      "AI-memory system hits +512 stars",
+      "CLI-Anything makes tools agent-native",
+      "Agent orchestration frameworks rise"
+    ],
+    "ai-hn": [
+      "Hybrid Reasoning Agents spark debate",
+      "DeepSeek-v4.1-Flash-1017 praised",
+      "Muse Spark Open released by Meta",
+      "Terry Tao warns on AI in math",
+      "Claude diary reveals FBI link",
+      "Sphinx tool gains safety focus"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 7.7M downloads",
+      "LTX-2.5 video model trends fast",
+      "Qwen-Image-2.1 uncensored GGUF popular",
+      "ConwayResearch’s 2-bit LLM wins",
+      "Muse Spark Open gains attention",
+      "DeepSeek-V4.1-Flash-1017 trending"
+    ],
+    "ai-community": [
+      "Hacktoberfest AI challenge heats up",
+      "Fine-tune Qwen3-8B for $1.40",
+      "Client expectations derail AI project",
+      "Local business visibility via AI",
+      "Model drift detection concerns grow",
+      "GGUF models enable local inference"
+    ]
+  }
+}
