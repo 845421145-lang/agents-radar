@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.304 稳定性修复版发布",
+      "OpenAI Codex 推出3个测试版",
+      "Pi 与 OpenCode 在 CLI 领域崭露头角",
+      "Gemini CLI 发布夜间版 v0.66.0",
+      "GitHub Copilot CLI 升级至 v1.0.101-0",
+      "Qwen Code 成为本地优先新势力"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.2 修复工作区安全问题",
+      "OpenClaw 修复关键 I/O 损坏风险",
+      "数据库性能 PR 修复内存泄漏",
+      "Hermes Agent 自进化代理获 25.5 万星标",
+      "Agent-Reach 实现零成本上网浏览",
+      "Cherry Studio 提供 300+ AI 助手"
+    ],
+    "ai-infra": [
+      "SGLang v0.5.22 发布关键修复版",
+      "unsloth v0.1.909-beta 加速优化版上线",
+      "vLLM 贡献 50 个 PR 但无新版本",
+      "LiteLLM 近期 PR 导致兼容性中断",
+      "Ollama 遭遇高危问题",
+      "llama.cpp 增加实验性本地推理支持"
+    ],
+    "ai-trending": [
+      "MadsLorentzen/ai-job-search 增加 3.8K 星标",
+      "Career-ops 总星标达 7.5 万",
+      "Headroom 引领代理记忆趋势",
+      "Cognee 推动上下文压缩焦点",
+      "RAG 优化获得广泛关注",
+      "ComfyUI 开发者采纳率飙升"
+    ],
+    "ai-web": [
+      "Anthropic 发起 AI 期望差距研究",
+      "METR 获得 Claude 开发深度访问",
+      "白宫协议被引用为安全举措",
+      "OpenAI 低资源语言页面上线",
+      "新研究揭示 AI 诺贝尔级潜力",
+      "透明度推动 Anthropic 转型"
+    ],
+    "ai-hn": [
+      "Timestral：Mistral 时间序列模型发布",
+      "DeepSeek-v4.1-Flash-1017 登顶基准测试",
+      "AI 证实准黎曼猜想引发争议",
+      "混合推理代理使用潜在空间思维",
+      "Mistral 模型引爆 HN 物理圈",
+      "开源伦理争议持续升温"
+    ],
+    "ai-community": [
+      "代理中的重试错误源于分布式系统",
+      "AWS 代理评分 GitHub 项目可信度",
+      "资深开发者困于 AI 验证陷阱",
+      "虚假 AI 仓库激增，催生新工具",
+      "AI-as-a-service 工具推动流程自动化",
+      "MCP 服务器令牌膨胀导致不稳定"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.304 released with stability fixes",
+      "OpenAI Codex now has 3 alpha releases",
+      "Pi and OpenCode gain traction in CLI space",
+      "Gemini CLI hits nightly v0.66.0",
+      "GitHub Copilot CLI updates to v1.0.101-0",
+      "Qwen Code emerges as local-first contender"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.2 fixes workspace safety",
+      "Critical I/O corruption risk patched in OpenClaw",
+      "Memory leak fixes in database performance PR",
+      "Hermes Agent hits 255k stars for self-evolving agents",
+      "Agent-Reach enables zero-cost internet browsing",
+      "Cherry Studio offers 300+ AI assistants"
+    ],
+    "ai-infra": [
+      "SGLang v0.5.22 released with critical fixes",
+      "unsloth v0.1.909-beta out for speed gains",
+      "vLLM sees 50 PRs but no new release",
+      "LiteLLM breaks compatibility in recent PRs",
+      "Ollama faces high-critical issues",
+      "llama.cpp adds experimental local inference"
+    ],
+    "ai-trending": [
+      "MadsLorentzen/ai-job-search +3.8K stars",
+      "Career-ops hits 75k total stars",
+      "Headroom leads agent memory trend",
+      "Cognee drives context compression focus",
+      "RAG optimization gains major traction",
+      "ComfyUI surges in developer adoption"
+    ],
+    "ai-web": [
+      "Anthropic launches AI Expectations Gap study",
+      "METR gets deep access to Claude development",
+      "White House Accord cited in safety move",
+      "OpenAI's low-resource language page live",
+      "New research on AI's Nobel-level potential",
+      "Transparency push marks Anthropic shift"
+    ],
+    "ai-hn": [
+      "Timestral: Mistral's time-series model unveiled",
+      "DeepSeek-v4.1-Flash-1017 tops benchmarks",
+      "AI proves Quasi-Riemann Hypothesis claim sparks debate",
+      "Hybrid reasoning agents use latent space thinking",
+      "Mistral’s model excites HN physics community",
+      "Controversy grows over open-source ethics"
+    ],
+    "ai-community": [
+      "Retry bugs in agents stem from distributed systems",
+      "AWS agent scores GitHub repos for trustworthiness",
+      "Senior devs slowed by AI verification trap",
+      "Fake AI repos surge, prompting new tools",
+      "AI-as-a-service tools drive workflow automation",
+      "Token bloat in MCP servers causes instability"
+    ]
+  }
+}
