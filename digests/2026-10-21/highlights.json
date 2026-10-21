@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.305：沙箱化+重试容错",
+      "OpenAI Codex修复OAuth/企业认证漏洞",
+      "Gemini CLI支持实时代码分析",
+      "GitHub Copilot CLI新增多文件重构",
+      "Qwen Code支持RISC-V目标架构",
+      "Pi CLI上线本地模型执行模式"
+    ],
+    "ai-agents": [
+      "OpenClaw无新版本发布；测试版稳定性问题反馈",
+      "Hermes Agent新增内存持久化功能",
+      "IronClaw修复测试版10网关崩溃",
+      "QwenPaw支持自托管代理工作流",
+      "ZeroClaw引入零信任会话强制",
+      "OpenClaw24小时内提交500个PR，聚焦稳定性"
+    ],
+    "ai-infra": [
+      "vLLM：AMD ROCm优化及PD分离修复",
+      "SGLang：报告4个高严重性回归问题",
+      "llama.cpp b11768+：修复RDNA4的FlashAttention",
+      "Ollama：发现Go 1.24安全漏洞",
+      "LiteLLM新增企业级限流控制",
+      "Unsloth：新量化技术实现2倍训练加速"
+    ],
+    "ai-trending": [
+      "ComfyUI今日获1,206颗星：基于节点的AI工作流",
+      "Headroom将LLM输入压缩95%：节省大量令牌",
+      "ai-job-search：AI自主申请工作",
+      "Ruflo：代理实现自主任务自动化",
+      "Ponytail：AI驱动的内容流水线构建",
+      "Agentic-awesome-skills：模块化代理技能库"
+    ],
+    "ai-web": [
+      "Anthropic发布Claude Opus 5.5与Sonnet 5.5",
+      "Claude Frontier学院：投入1亿美元培训1万名工程师",
+      "网络安全验证计划扩大访问范围",
+      "Opus 5.5降低成本，提升智能编码性能",
+      "新研究：主动降低代码攻击面",
+      "Claude 5.5已应用于医疗与国家安全"
+    ],
+    "ai-hn": [
+      "DeepSeek因国家安全被美国禁用",
+      "Anthropic报告800亿美元净亏损：可持续性争议",
+      "SlopCodeBench：Astra胜出，xhigh受质疑",
+      "DeepInfer：开源DeepSeek推理框架",
+      "混合推理代理：先在潜在空间思考",
+      "Voxtral 3与Gemini 4 Argon引发模型关注"
+    ],
+    "ai-arxiv": [
+      "Halcyon：无需语言预训练的文本到图像",
+      "安全中训：在预训练中嵌入安全机制",
+      "LatComm：代理可复用的上下文压缩",
+      "ProteinGeoBench：结构生物学基准测试",
+      "LG-Bench：评估生命科学推理能力",
+      "HarnessPro：代理自我改进框架"
+    ],
+    "ai-community": [
+      "本地LLM兴起，保障编码隐私",
+      "Bloc_signals_genui 1.0：Dart中同步UI生成",
+      "辅助工具将答案转化为可复用知识",
+      "机器人AI：硬件校准是核心难点",
+      "编码倦怠：AI压力下失去乐趣",
+      "时间序列模型激发时序AI热情"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.305: sandboxing + retry resilience",
+      "OpenAI Codex fixes OAuth/enterprise auth bugs",
+      "Gemini CLI now supports real-time code analysis",
+      "GitHub Copilot CLI adds multi-file refactoring",
+      "Qwen Code gains support for RISC-V targets",
+      "Pi CLI launches local model execution mode"
+    ],
+    "ai-agents": [
+      "OpenClaw no new releases; beta instability reported",
+      "Hermes Agent adds memory persistence feature",
+      "IronClaw fixes gateway crashes in beta 10",
+      "QwenPaw enables self-hosted agent workflows",
+      "ZeroClaw introduces zero-trust session enforcement",
+      "OpenClaw sees 500 PRs in 24h, focus on stability"
+    ],
+    "ai-infra": [
+      "vLLM: AMD ROCm optimization & PD disaggregation fixes",
+      "SGLang: 4 high-severity regressions reported",
+      "llama.cpp b11768+: fixes FlashAttention on RDNA4",
+      "Ollama: Go 1.24 security vulnerabilities found",
+      "LiteLLM adds enterprise rate-limiting controls",
+      "Unsloth: 2x faster training with new quantization"
+    ],
+    "ai-trending": [
+      "ComfyUI hits 1,206 stars today: node-based AI workflow",
+      "Headroom compresses LLM input by 95%: token savings",
+      "ai-job-search: AI applies for jobs autonomously",
+      "Ruflo: autonomous task automation via agents",
+      "Ponytail: AI-driven content pipeline builder",
+      "Agentic-awesome-skills: modular agent skill library"
+    ],
+    "ai-web": [
+      "Anthropic launches Claude Opus 5.5, Sonnet 5.5",
+      "Claude Frontier Academy: $100M to train 10k engineers",
+      "Cyber Verification Program expands access",
+      "Opus 5.5 cuts cost, boosts agentic coding performance",
+      "New research: reduce code attack surface proactively",
+      "Claude 5.5 now used in healthcare & national security"
+    ],
+    "ai-hn": [
+      "DeepSeek banned in U.S. over national security",
+      "Anthropic reports $80B net loss: sustainability debate",
+      "SlopCodeBench: Astra wins, xhigh questioned",
+      "DeepInfer: open-source DeepSeek inference framework",
+      "Hybrid reasoning agents: think in latent space first",
+      "Voxtral 3 & Gemini 4 Argon spark model interest"
+    ],
+    "ai-arxiv": [
+      "Halcyon: T2I without language pretraining",
+      "Safety Mid-Training: embed safety in pre-training",
+      "LatComm: reusable context compression for agents",
+      "ProteinGeoBench: benchmark for structural biology",
+      "LG-Bench: evaluates life sciences reasoning",
+      "HarnessPro: agent self-improvement framework"
+    ],
+    "ai-community": [
+      "Local LLMs surge for privacy-preserving coding",
+      "Bloc_signals_genui 1.0: sync UI generation in Dart",
+      "Support tool turns answers into reusable knowledge",
+      "Robotics AI: hardware calibration is the hard part",
+      "Burnout in coding: joy lost under AI pressure",
+      "Timestral models spark time-series AI excitement"
+    ]
+  }
+}
