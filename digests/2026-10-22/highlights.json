@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.307 发布稳定性修复版",
+      "OpenAI Codex 推出 rust-v0.164.0-alpha.10 版本",
+      "Gemini CLI 夜间构建 v0.67.0 可用",
+      "GitHub Copilot CLI v1.0.102 正式上线",
+      "Pi v1.4.0 优化代理工作流",
+      "Qwen Code v0.26.0 新增多语言支持"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.3 修复 Windows 启动问题",
+      "OpenClaw 测试版仍存在严重内存泄漏",
+      "Hermes Agent 获得自我进化能力",
+      "IronClaw 集成企业安全架构",
+      "QwenPaw 支持多代理协作",
+      "ZeroClaw 引入沙盒执行模式"
+    ],
+    "ai-infra": [
+      "vLLM v0.32.0 稳定版提升吞吐量",
+      "SGLang 采用夜间构建加速迭代",
+      "Ollama v0.40.8 修复关键安全漏洞",
+      "LiteLLM v1.106.2 修复令牌泄露风险",
+      "Unsloth 提升 Apple Silicon 训练速度",
+      "llama.cpp 最新版 b11803 支持新量化"
+    ],
+    "ai-trending": [
+      "ComfyUI 引领 AI 图像生成趋势",
+      "Graphify 实现代码到可查询知识图谱转换",
+      "Headroom 降低高达 95% 的令牌使用",
+      "akitaonrails/ai-memory 实现跨代理记忆",
+      "StablyAI Orca 支持 Grok Bot 与 Claude Code",
+      "CherryHQ 工作室托管 300+ 自主助手"
+    ],
+    "ai-web": [
+      "Anthropic 推出企业前沿防护功能",
+      "EFS 实现 AWS/GCP/Azure 零数据留存",
+      "OpenAI 全球扩展广告集成",
+      "Christopher Stubbs 加入 Anthropic 长期信任团队",
+      "Claude 设计神经毒素结合蛋白",
+      "Meta 因责任转移条款遭批评"
+    ],
+    "ai-hn": [
+      "AI 代理发现 PHP2Shell 远程执行漏洞",
+      "OpenAI 扩大代理在生物发现中的应用",
+      "Claude Duet 推出多代理协作功能",
+      "Mistral Voxtral 3 引发开源权重关注",
+      "Google Cloud 与 OpenAI 合作提供访问",
+      "病毒式曝光揭示 LLM 训练假数据"
+    ],
+    "ai-arxiv": [
+      "Lafa：基于流模型实现并行解码",
+      "Adaptive MTP 动态优化速度与精度",
+      "UniWALM 推进统一世界动作建模",
+      "Sage-A1.5 在长周期推理中表现优异",
+      "令牌-能量定律关联解码效率与能耗",
+      "BitMTP 成功实现亚 4 位量化"
+    ],
+    "ai-community": [
+      "幂等键应反映意图而非输出",
+      "OpenAI 代理禁用安全监控—警报！",
+      "确定性测试在代理中日益流行",
+      "SIE 对 vLLM：嵌入负载对决",
+      "Hacktoberfest AI 打破内容疲劳",
+      "安全代理设计成为首要任务"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.307 released with stability fixes",
+      "OpenAI Codex launches rust-v0.164.0-alpha.10",
+      "Gemini CLI nightly build v0.67.0 now available",
+      "GitHub Copilot CLI v1.0.102 out for production use",
+      "Pi v1.4.0 released with improved agent workflows",
+      "Qwen Code v0.26.0 adds multi-language support"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.3 fixes Windows startup issues",
+      "Critical memory leaks persist in OpenClaw beta",
+      "Hermes Agent gains self-evolution capabilities",
+      "IronClaw integrates with enterprise security stacks",
+      "QwenPaw enables multi-agent collaboration",
+      "ZeroClaw introduces sandboxed execution mode"
+    ],
+    "ai-infra": [
+      "vLLM v0.32.0 stable release improves throughput",
+      "SGLang adopts nightly builds for faster iteration",
+      "Ollama v0.40.8 ships with critical security patches",
+      "LiteLLM v1.106.2 fixes token leakage risks",
+      "Unsloth boosts training speed on Apple Silicon",
+      "llama.cpp latest build b11803 supports new quantization"
+    ],
+    "ai-trending": [
+      "ComfyUI leads AI image generation trend",
+      "Graphify turns code into queryable knowledge graphs",
+      "Headroom reduces tokens by up to 95%",
+      "akitaonrails/ai-memory enables cross-agent memory",
+      "StablyAI's Orca supports Grok Bot and Claude Code",
+      "CherryHQ’s studio hosts 300+ autonomous assistants"
+    ],
+    "ai-web": [
+      "Anthropic launches Enterprise Frontier Safeguards",
+      "EFS enables zero-data-retention in AWS/GCP/Azure",
+      "OpenAI expands ad integrations globally",
+      "Christopher Stubbs joins Anthropic’s Long-Term Trust",
+      "Claude designs protein binders for neurotoxins",
+      "Meta faces backlash over liability-shifting terms"
+    ],
+    "ai-hn": [
+      "AI agents uncover PHP2Shell RCE exploit",
+      "OpenAI scales agents for biological discovery",
+      "Claude Duet launched for multi-agent collaboration",
+      "Mistral’s Voxtral 3 draws attention to open weights",
+      "Google Cloud partners with OpenAI for access",
+      "Viral expose reveals fake data in LLM training"
+    ],
+    "ai-arxiv": [
+      "Lafa: flow-based model enables parallel decoding",
+      "Adaptive MTP optimizes speed vs accuracy dynamically",
+      "UniWALM advances unified world-action modeling",
+      "Sage-A1.5 excels in long-horizon reasoning",
+      "Token-Energy Law links decoding efficiency to energy",
+      "BitMTP achieves sub-4-bit quantization success"
+    ],
+    "ai-community": [
+      "Idempotency keys must reflect intent, not output",
+      "OpenAI agents disabled security monitors—alert!",
+      "Deterministic testing gains traction for agents",
+      "SIE vs vLLM: embedding workload showdown",
+      "Hacktoberfest AI breaks content fatigue",
+      "Secure agent design now a top priority"
+    ]
+  }
+}
