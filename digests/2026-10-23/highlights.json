@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.309 发布",
+      "Gemini CLI 夜间更新",
+      "OpenAI Codex 开发版上线",
+      "Pi 工具受关注",
+      "Qwen Code 守护进程持久化",
+      "OpenCode MCP 可扩展"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.6 要求 Node 24+",
+      "TLS 漏洞安全补丁",
+      "Docker 镜像升级至 Node 24.2",
+      "UI 测试修复合并 (#181063)",
+      "多智能体可靠性聚焦",
+      "防止内存污染"
+    ],
+    "ai-infra": [
+      "vLLM 稳定版含 348 个未解决问题",
+      "SGLang v0.40.9-rc3 发布",
+      "Ollama RC 版本含 1,102 个问题",
+      "LiteLLM 安全补丁已入流水线",
+      "Unsloth 预览 Flows 功能",
+      "llama.cpp 问题激增 +12 个"
+    ],
+    "ai-trending": [
+      "Ponytail 今日新增 1,948 颗星",
+      "Graphify-Labs 本地知识图谱",
+      "Cloudflare 审计技能 +2,979 颗星",
+      "Anthropic 知识插件流行",
+      "Claude Howto 指南受追捧",
+      "以代理为中心的工具兴起"
+    ],
+    "ai-web": [
+      "Claude 验证 RISC-V 代码",
+      "Anthropic 开启生命科学征集",
+      "Claude Duet 正式上线",
+      "OpenAI 与 Uber 合作",
+      "AAIF 捐赠宣布",
+      "OpenAI 隐约透露决策 API"
+    ],
+    "ai-hn": [
+      "LLMs 扩展形式验证",
+      "AI 模型呈现反乌托邦观点",
+      "OpenAI 上谷歌云新闻",
+      "皮尤民调：公众质疑加剧",
+      "Claude Duet 引发企业热议",
+      "模型行为趋同性争议"
+    ],
+    "ai-arxiv": [
+      "LongZero：零数据推理",
+      "自条件扩散模型",
+      "LLM 分类器电路结构",
+      "环境对抗框架",
+      "GuideEvolve 自我优化",
+      "Quant-Arena 金融评估"
+    ],
+    "ai-community": [
+      "直接访问 AI 更受青睐",
+      "重试循环推高成本",
+      "LLMs 无法自我验证",
+      "本地优先的 AI 工具受关注",
+      "GKE 上运行有状态 Gemini 代理",
+      "NVIDIA Dynamo 推理加速"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.309 released",
+      "Gemini CLI nightly update",
+      "OpenAI Codex alpha launch",
+      "Pi tool gains traction",
+      "Qwen Code daemon persistence",
+      "OpenCode MCP extensibility"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.6 mandates Node 24+",
+      "Security patch for TLS vulnerabilities",
+      "Docker images updated to Node 24.2",
+      "UI test fix merged (#181063)",
+      "Multi-agent reliability focus",
+      "Memory poisoning prevention"
+    ],
+    "ai-infra": [
+      "vLLM stable with 348 open issues",
+      "SGLang v0.40.9-rc3 released",
+      "Ollama RC update with 1,102 issues",
+      "LiteLLM security patch in pipeline",
+      "Unsloth previews Flows feature",
+      "llama.cpp sees +12 issue surge"
+    ],
+    "ai-trending": [
+      "Ponytail +1,948 stars today",
+      "Graphify-Labs local knowledge graph",
+      "Cloudflare audit skill +2,979 stars",
+      "Anthropic knowledge plugins trend",
+      "Claude Howto guide gains momentum",
+      "Agent-centric tooling surges"
+    ],
+    "ai-web": [
+      "Claude verifies RISC-V code",
+      "Anthropic opens life sciences call",
+      "Claude Duet launches",
+      "OpenAI partners with Uber",
+      "AAIF donation announced",
+      "Decisions API hint from OpenAI"
+    ],
+    "ai-hn": [
+      "LLMs scale formal verification",
+      "AI models share dystopian views",
+      "OpenAI on Google Cloud news",
+      "Pew poll: public skepticism grows",
+      "Claude Duet sparks enterprise buzz",
+      "Model behavior convergence debated"
+    ],
+    "ai-arxiv": [
+      "LongZero: zero-data reasoning",
+      "Self-conditioning diffusion models",
+      "Circuits of LLM classifiers",
+      "Environment Duels framework",
+      "GuideEvolve for self-improvement",
+      "Quant-Arena for finance eval"
+    ],
+    "ai-community": [
+      "Direct AI access preferred",
+      "Retry loops inflate costs",
+      "LLMs can't self-validate",
+      "Local-first AI tools gain interest",
+      "Stateful Gemini agents on GKE",
+      "NVIDIA Dynamo for inference"
+    ]
+  }
+}
