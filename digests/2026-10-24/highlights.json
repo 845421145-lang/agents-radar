@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.310 修复重大问题",
+      "OpenAI Codex v0.164.0 alpha 已上线",
+      "Gemini CLI 新增代码生成功能",
+      "GitHub Copilot CLI 支持多项目工作流",
+      "Pi CLI 集成本地大模型",
+      "Qwen Code 实时协作新功能"
+    ],
+    "ai-agents": [
+      "OpenClaw 因 P0 稳定性问题暂无更新",
+      "OpenClaw 2026.10.2 启动延迟严重",
+      "修复合并：会话重置后防止旧回复",
+      "OpenClaw 团队优先修复漏洞",
+      "Hermes Agent 达 256K 星标，头部代理项目",
+      "Agent-Reach 实现代理实时联网"
+    ],
+    "ai-infra": [
+      "vLLM 实验功能不稳定",
+      "SGLang CI 分布式服务回归导致不稳",
+      "llama.cpp b11846 修复 CUDA 内核崩溃",
+      "Ollama v0.40.11 RC 存在模型退化问题",
+      "LiteLLM 1.107.0 被攻破—安全警报",
+      "Unsloth 新增 T-Head Zhenwu 芯片支持"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell 成安全 AI 运行时",
+      "Cloudflare 安全审计技能快速流行",
+      "VoxCPM2 引领语音生成趋势",
+      "PPT-Master 大规模自动化演示",
+      "RAGFlow 持久记忆采用激增",
+      "Mem0 与 Claude-Mem 主导上下文保留"
+    ],
+    "ai-web": [
+      "Claude Opus 4.6 发现零日漏洞",
+      "Project Glasswing 开源防御扩展",
+      "GLM-5.3 实现端到端漏洞生成",
+      "Anthropic 推出可选漏洞服务",
+      "OpenAI 暗示内部安全加固",
+      "AI 成网络战双重用途倍增器"
+    ],
+    "ai-hn": [
+      "Kimi K3.1 Pro 声称 GPT-4 速度飞跃",
+      "OpenShell 框架代理领域获关注",
+      "DeepInfer 推理引擎首发",
+      "AI 教育角色引发争议",
+      "关于 AI 人格化偏见热议",
+      "模型性能宣称遭在线质疑"
+    ],
+    "ai-arxiv": [
+      "Direct Pass@$k$ 优化提升推理",
+      "因果链思维减少虚假逻辑",
+      "频谱探针检测文生图隐私泄露",
+      "感知偏移得分传输改进审计",
+      "新对齐方法符合欧盟法案",
+      "测试时推理降低推理成本"
+    ],
+    "ai-community": [
+      "Gemma OS 离线发现隐藏危机",
+      "Pixel Hero 拖延代理本地运行",
+      "80岁数学书修复 AI 编码代理",
+      "设备端 AI 避免云端数据风险",
+      "代理不应存储 API 密钥",
+      "RAG 验证受社区关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.310 released with major fixes",
+      "OpenAI Codex v0.164.0 alpha now live",
+      "Gemini CLI gains new code generation features",
+      "GitHub Copilot CLI supports multi-project workflows",
+      "Pi CLI now integrates with local LLMs",
+      "Qwen Code adds real-time collaboration"
+    ],
+    "ai-agents": [
+      "OpenClaw no new releases amid P0 stability issues",
+      "Critical startup delay in OpenClaw 2026.10.2",
+      "Fix merged: prevent stale replies after session reset",
+      "OpenClaw team prioritizing bug fixes over new features",
+      "Hermes Agent hits 256K stars, top agent project",
+      "Agent-Reach enables real-time internet access for agents"
+    ],
+    "ai-infra": [
+      "vLLM experimental features unstable",
+      "SGLang CI flaky with distributed serving regressions",
+      "llama.cpp b11846 fixes CUDA kernel crashes",
+      "Ollama v0.40.11 RC has model degeneration issues",
+      "LiteLLM 1.107.0 compromised—security alert",
+      "Unsloth adds support for T-Head Zhenwu chips"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell emerges as secure AI runtime",
+      "Cloudflare security-audit-skill trends fast",
+      "VoxCPM2 leads voice generation trend",
+      "PPT-Master automates presentations at scale",
+      "RAGFlow adoption surges for persistent memory",
+      "Mem0 and Claude-Mem dominate context retention"
+    ],
+    "ai-web": [
+      "Claude Opus 4.6 discovers zero-day vulnerabilities",
+      "Project Glasswing scales to open-source defense",
+      "GLM-5.3 enables end-to-end exploit generation",
+      "Anthropic launches opt-in vulnerability service",
+      "OpenAI hints at internal security hardening",
+      "AI now a dual-use force multiplier in cyber warfare"
+    ],
+    "ai-hn": [
+      "Kimi K3.1 Pro claims GPT-4 speed leap",
+      "OpenShell framework gains traction for agents",
+      "DeepInfer inference engine debuts",
+      "AI's role in education sparks debate",
+      "Controversial thread on AI anthropomorphic bias",
+      "Model performance claims face skepticism online"
+    ],
+    "ai-arxiv": [
+      "Direct Pass@$k$ optimization boosts reasoning",
+      "Causal Chain of Thought reduces spurious logic",
+      "Spectral canaries detect T2I privacy leaks",
+      "Shift-aware score transport improves auditing",
+      "New alignment methods under EU AI Act",
+      "Test-time reasoning cuts inference costs"
+    ],
+    "ai-community": [
+      "Gemma OS detects hidden emergencies offline",
+      "Pixel Hero nagging agent runs 100% locally",
+      "80-year-old math book fixed AI coding agent",
+      "On-device AI avoids cloud data risks",
+      "Agents should never store API keys",
+      "RAG verification gains community attention"
+    ]
+  }
+}
