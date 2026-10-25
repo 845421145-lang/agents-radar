@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 问题激增无新版本",
+      "Gemini CLI 发布 v0.67.0-nightly",
+      "OpenAI Codex 今日新增10个问题",
+      "GitHub Copilot CLI 升级至 v1.0.104-3",
+      "Pi 工具因漏洞信任度下降",
+      "Qwen Code 在 CLI 领域崭露头角"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.10.7 支持重放安全恢复",
+      "v2026.9.34：长期稳定版发布",
+      "24小时500个问题与PR—活跃度高",
+      "会话状态问题持续存在",
+      "PR中优化SQLite读取复用",
+      "内存持久化修复开发中"
+    ],
+    "ai-infra": [
+      "Ollama 推出 macOS 速度优化版 v0.40.11",
+      "vLLM 稳定版聚焦强大 ROCm 支持",
+      "SGLang 出现严重稳定性问题",
+      "llama.cpp 警告GPU损坏风险",
+      "LiteLLM 遭遇供应链审查",
+      "Unsloth 提升本地代理部署"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell：安全AI运行时走红",
+      "Cloudflare 安全审计技能获+2.2K星标",
+      "OpenShell 因代理安全受关注",
+      "morluto/rea 重新定义代理性能",
+      "affaan-m/ECC 优化代理效率",
+      "RAG工具引领知识管理"
+    ],
+    "ai-hn": [
+      "神经芯片解码脑区交互",
+      "AI代理发现生物数据线索",
+      "大模型助力软件大规模验证",
+      "热帖追问AI对创意工作影响",
+      "Hacker News热议AI幻觉风险",
+      "形式化验证突破受赞誉"
+    ],
+    "ai-community": [
+      "AI将安全周期压缩至小时级",
+      "小团队难应对AI驱动安全",
+      "SlothOps与DownloadsSloth受Hacktoberfest关注",
+      "AI代理暴露.env文件泄露",
+      "PyTorch中出现图灵完备恶意代码引发警报",
+      "欧盟数字征用威胁引发争议"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code issues surge with no new release",
+      "Gemini CLI releases v0.67.0-nightly",
+      "OpenAI Codex hits 10 new issues today",
+      "GitHub Copilot CLI updates to v1.0.104-3",
+      "Pi tool faces trust erosion from bugs",
+      "Qwen Code gains traction in CLI space"
+    ],
+    "ai-agents": [
+      "OpenClaw releases v2026.10.7 with replay-safe recovery",
+      "v2026.9.34: Extended-stable LTS release launched",
+      "500 issues and PRs in 24 hours—high activity",
+      "Session state bugs persist despite progress",
+      "SQLite read reuse optimization in PRs",
+      "Memory persistence fixes under development"
+    ],
+    "ai-infra": [
+      "Ollama releases v0.40.11 for macOS speed",
+      "vLLM stable with strong ROCm focus",
+      "SGLang sees high-severity stability issues",
+      "llama.cpp warns of GPU corruption risks",
+      "LiteLLM faces supply chain scrutiny",
+      "Unsloth boosts local agent deployment"
+    ],
+    "ai-trending": [
+      "NVIDIA OpenShell: secure AI runtime goes viral",
+      "Cloudflare security-audit-skill hits +2.2K stars",
+      "OpenShell gains traction for agent safety",
+      "morluto/rea redefines agent performance",
+      "affaan-m/ECC optimizes agent efficiency",
+      "RAG tools lead in knowledge management"
+    ],
+    "ai-hn": [
+      "Neural chip decodes brain region interactions",
+      "AI agents uncover biological data leads",
+      "LLMs enable large-scale software verification",
+      "Top post questions AI’s impact on creative jobs",
+      "Hacker News debates AI hallucination risks",
+      "Formal verification breakthrough praised"
+    ],
+    "ai-community": [
+      "AI compresses security cycles from weeks to hours",
+      "Small teams struggle with AI-driven security",
+      "SlothOps and DownloadsSloth gain Hacktoberfest attention",
+      "AI agents exposed to .env file leaks",
+      "Turing-complete malware in PyTorch raises alarm",
+      "EU’s digital expropriation threat sparks debate"
+    ]
+  }
+}
