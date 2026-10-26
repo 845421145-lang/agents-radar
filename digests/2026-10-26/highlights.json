@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI 发布 v0.67.0-nightly.20261025",
+      "Qwen Code 推出每日构建版本",
+      "Claude Code Skills 正在积极开发",
+      "OpenAI Codex 今日新增10个问题",
+      "Pi 工具获10个PR关注",
+      "OpenCode 免费版不稳定"
+    ],
+    "ai-agents": [
+      "OpenClaw 有358个开放问题，活跃度高",
+      "无新发布；测试版仍不稳定",
+      "关键SQLite WAL错误正在审查",
+      "报告网关启动性能问题",
+      "macOS Talk 中继修复已合并",
+      "Windows 特定回归问题持续存在"
+    ],
+    "ai-infra": [
+      "vLLM：Blackwell/ROCm 支持进行中",
+      "SGLang 启动 Apple Silicon 路线图",
+      "llama.cpp：CUDA/Metal 稳定性问题",
+      "Ollama 达到145个开放问题",
+      "LiteLLM 新增安全防护机制",
+      "Unsloth 推出工作流引擎"
+    ],
+    "ai-trending": [
+      "cindy AI 代理飙升至675颗星",
+      "VoiceStudio 本地势头增强",
+      "Agent-Reach 推动自动化趋势",
+      "PPT-Master 实现AI内容创作",
+      "Firecrawl 驱动实时网络代理",
+      "Graphify-Labs 将代码转为知识图谱"
+    ],
+    "ai-hn": [
+      "10岁儿童CNN击败大模型诊断",
+      "OpenAI与Anthropic降价80%",
+      "Cerebras 部署万亿参数模型",
+      "加州大学伯克利分校质疑AI评分",
+      "Apollo 报告零财务回报",
+      "社区热议AI真实价值"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 获18K点赞",
+      "Lightricks/LTX-2.5 病毒式视频模型",
+      "GGUF 量化模型使用激增",
+      "ComfyOrg的MOSS-Image走红",
+      "Fibo-2.0扩散包获关注",
+      "Qwen3.8-27B 下载量达800万"
+    ],
+    "ai-community": [
+      "AI懒虫管理GitHub收件箱",
+      "Dev.to：LLM发现被遗忘承诺",
+      "Gemma 17秒离线审计代码",
+      "本地模型睡眠时规划发帖",
+      "Timestral 将Mistral引入时间序列",
+      "PyTorch反向传播恶意代码论文"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Gemini CLI ships v0.67.0-nightly.20261025",
+      "Qwen Code releases nightly builds",
+      "Claude Code Skills now in active development",
+      "OpenAI Codex sees 10 new issues today",
+      "Pi tool gains traction with 10 PRs",
+      "OpenCode faces free-tier instability"
+    ],
+    "ai-agents": [
+      "OpenClaw has 358 open issues, high activity",
+      "No new releases; beta versions unstable",
+      "Critical SQLite WAL bugs under review",
+      "Gateway startup performance issues reported",
+      "macOS Talk relay fix merged today",
+      "Windows-specific regressions persist"
+    ],
+    "ai-infra": [
+      "vLLM: Blackwell/ROCm support in progress",
+      "SGLang launches Apple Silicon roadmap",
+      "llama.cpp: CUDA/Metal stability issues",
+      "Ollama hits 145 open issues",
+      "LiteLLM adds guardrails for safety",
+      "Unsloth rolls out workflow engine"
+    ],
+    "ai-trending": [
+      "cindy AI agent surges to 675 stars",
+      "VoiceStudio gains momentum locally",
+      "Agent-Reach drives job automation trend",
+      "PPT-Master enables AI content creation",
+      "Firecrawl powers real-time web agents",
+      "Graphify-Labs turns code into knowledge graphs"
+    ],
+    "ai-hn": [
+      "10-year-old CNN beats LLMs in diagnosis",
+      "OpenAI & Anthropic cut prices by 80%",
+      "Cerebras deploys trillion-parameter models",
+      "AI grading questioned at UC Berkeley",
+      "Apollo reports zero financial ROI",
+      "Community debates AI's real-world value"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B hits 18K likes",
+      "Lightricks/LTX-2.5 viral video model",
+      "GGUF quantized models surge in use",
+      "ComfyOrg’s MOSS-Image goes viral",
+      "Fibo-2.0 diffusion pack gains traction",
+      "Qwen3.8-27B reaches 8M downloads"
+    ],
+    "ai-community": [
+      "AI sloths manage GitHub inboxes",
+      "Dev.to: LLM catches forgotten promises",
+      "Gemma audits code offline in 17 sec",
+      "Local models plan posts while you sleep",
+      "Timestral brings Mistral to time-series",
+      "PyTorch backward pass malware paper"
+    ]
+  }
+}
