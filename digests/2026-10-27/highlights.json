@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.311 发布稳定性修复版",
+      "OpenAI Codex 推出 v0.166.0-alpha.1 预览版",
+      "Gemini CLI 新增代理级推理支持",
+      "Qwen Code 增加本地执行模式",
+      "Pi CLI 引入系统级工作流控制",
+      "GitHub Copilot CLI 添加会话持久化"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时内报告500个问题",
+      "Windows可靠性缺陷主导OpenClaw问题",
+      "OpenClaw OAuth令牌过期核心修复",
+      "PR #185292 解决侧边聊天评论错误",
+      "OpenClaw内存泄漏问题持续存在",
+      "近期OpenClaw PR聚焦UI/UX优化"
+    ],
+    "ai-infra": [
+      "llama.cpp 发布 `b11913` 优化版本",
+      "Ollama 推出 `v0.40.12-rc0` 生产可用版",
+      "Unsloth 发布 `v0.1.911-beta` 支持NPU",
+      "vLLM 新增3个问题，稳定版持续进行",
+      "SGLang 优化性能修复6个问题",
+      "LiteLLM 无新版本更新，仍活跃"
+    ],
+    "ai-trending": [
+      "Agent-Reach 吸引2000+新星标",
+      "VoiceStudio 因多模态AI获2000+星标",
+      "NVIDIA SkillSpector 聚焦代理安全",
+      "affaan-m/ECC 优化代理性能",
+      "openbot 推动本地优先AI协作",
+      "Cindy 实现持久自托管AI工作区"
+    ],
+    "ai-web": [
+      "Anthropic 提交纳斯达克IPO申请代码'ANT'",
+      "OpenAI 宣布三项科学发现",
+      "GPT-6.1 Terra 暗示研究进展",
+      "学术合作计划在推进中",
+      "IPO文件确认上市准备就绪",
+      "SEC注册标志重大企业转型"
+    ],
+    "ai-hn": [
+      "指数时间假设被证伪",
+      "OpenAI宣称三项AI突破",
+      "社区热议研究可复现性",
+      "Init: Rust代理任务中重新编译",
+      "Hacker News上AI安全担忧飙升",
+      "争议围绕GPT-6.1 Terra透明度"
+    ],
+    "ai-arxiv": [
+      "BriLLM-MetaPred 将AGI建立在形式理论基础上",
+      "TCSP3.0 推进晶体结构预测",
+      "深度科学推理强化物理规律",
+      "Fed-Universe 提出S-G-T-H对齐模型",
+      "MetaPred 建议通用智能的机器学习原语",
+      "引导教师提升自我蒸馏效果"
+    ],
+    "ai-community": [
+      "AI代理可访问你的整个系统",
+      "开发者警告IDE自动补全致密钥泄露",
+      "本地LLM降低AI安全风险",
+      "上下文工程成为关键防御手段",
+      "欧盟政策引发数据提取担忧",
+      "专为AI代理设计的杀毒软件上线"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.311 released with stability fixes",
+      "OpenAI Codex enters alpha with v0.166.0-alpha.1",
+      "Gemini CLI now supports agent-level reasoning",
+      "Qwen Code gains local execution mode",
+      "Pi CLI introduces system-level workflow control",
+      "GitHub Copilot CLI adds session persistence"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues in 24 hours",
+      "Windows reliability bugs dominate OpenClaw issues",
+      "Core fix for OAuth token expiry in OpenClaw",
+      "Side chat comment bug resolved in PR #185292",
+      "Memory leak concerns persist in OpenClaw",
+      "UI/UX polish focus in recent OpenClaw PRs"
+    ],
+    "ai-infra": [
+      "llama.cpp releases `b11913` with optimizations",
+      "Ollama ships `v0.40.12-rc0` for production use",
+      "Unsloth launches `v0.1.911-beta` with NPU support",
+      "vLLM sees +3 new issues, stable release ongoing",
+      "SGLang addresses +6 issues in performance tuning",
+      "LiteLLM updates no new release, still active"
+    ],
+    "ai-trending": [
+      "Agent-Reach surges with 2,000+ new stars",
+      "VoiceStudio hits 2,000+ stars for multimodal AI",
+      "NVIDIA SkillSpector targets agent security",
+      "affaan-m/ECC optimizes agent performance",
+      "openbot promotes local-first AI collaboration",
+      "Cindy enables persistent self-hosted AI workspaces"
+    ],
+    "ai-web": [
+      "Anthropic files S-1 for Nasdaq IPO under 'ANT'",
+      "OpenAI announces 3 scientific discoveries",
+      "GPT-6.1 Terra hints at upcoming research",
+      "Academic collaboration initiatives in pipeline",
+      "IPO filing confirms public market readiness",
+      "SEC registration marks major corporate shift"
+    ],
+    "ai-hn": [
+      "Exponential Time Hypothesis claimed false",
+      "OpenAI claims 3 AI-driven breakthroughs",
+      "Community debates reproducibility of findings",
+      "Init: Rust agent recompiles mid-task",
+      "AI safety concerns spike on Hacker News",
+      "Debate over GPT-6.1 Terra’s transparency"
+    ],
+    "ai-arxiv": [
+      "BriLLM-MetaPred grounds AGI in formal theory",
+      "TCSP3.0 advances crystal structure prediction",
+      "Deep Scientific Reasoning enforces physical laws",
+      "Fed-Universe proposes S-G-T-H alignment model",
+      "MetaPred suggests ML primitive for general intelligence",
+      "Steering the Teacher improves self-distillation"
+    ],
+    "ai-community": [
+      "AI agents can access your entire system",
+      "Secrets leak via IDE autocomplete, warns dev",
+      "Local LLMs reduce AI security risks",
+      "Context engineering becomes key defense",
+      "EU policy raises data extraction concerns",
+      "Antivirus built for AI agents goes live"
+    ]
+  }
+}
