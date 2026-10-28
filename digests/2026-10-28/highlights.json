@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.312 修复会话持久化",
+      "OpenAI Codex 发布 rust-v0.165.0",
+      "Gemini CLI v0.67.0-nightly.20261028 发布",
+      "GitHub Copilot CLI v1.0.105 正式发布",
+      "OpenCode 今日新增 10 个 PR",
+      "Pi 工具聚焦模块化"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.4 修复自动化认证",
+      "OpenClaw 发现严重内存泄漏",
+      "Hermes Agent 支持角色工作流",
+      "IronClaw 增加跨代理协作",
+      "QwenPaw 获得多模态推理能力",
+      "ZeroClaw 引入自托管代理"
+    ],
+    "ai-infra": [
+      "vLLM 发布后面临稳定性压力",
+      "SGLang 推进 PD 解耦",
+      "llama.cpp 新增 CLI 标志",
+      "Ollama v0.40.12-rc1 测试中",
+      "LiteLLM 安全发布 4 个新版本",
+      "LiquidAI LFM3 系列上线"
+    ],
+    "ai-trending": [
+      "openbot 今日增长 777 颗星",
+      "superpowers 新增 617 颗星",
+      "ECC 日增 1,165 颗星",
+      "nanobot 在 Python AI 场景崛起",
+      "DeepTutor 重塑 AI 辅导",
+      "Vibe-Trading 构建金融代理"
+    ],
+    "ai-web": [
+      "Anthropic 提交 IPO S-1 文件",
+      "GSA 获得 40% Claude 折扣",
+      "Claude 用于药物发现",
+      "Claude 助力网络安全研究",
+      "OpenAI 暗示 ChatGPT 将接入 Oracle Apps",
+      "联邦机构广泛接入"
+    ],
+    "ai-hn": [
+      "指数时间假说受挑战",
+      "AI 报告突破性数学发现",
+      "有限单群在 Lean 中形式化",
+      "亚马逊裁员中缩减 AI 部门",
+      "预测性警务引发伦理警报",
+      "社区热议 AI 真实影响"
+    ],
+    "ai-arxiv": [
+      "DCKV 通过编码压缩 KV 缓存",
+      "自键记忆实现回忆能力",
+      "Select-TTT 实现快速权重更新",
+      "代理团队借助新框架扩展",
+      "多模态感知快速进步",
+      "符号推理提升基础性"
+    ],
+    "ai-community": [
+      "AI 称已修复但测试失败",
+      "插件阻塞 '完成' 无测试",
+      "应用最后 10% 耗时数周",
+      "为合规自托管 LLM",
+      "提示注入风险上升",
+      "检测到图灵完备恶意软件"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.312 fixes session persistence",
+      "OpenAI Codex releases rust-v0.165.0",
+      "Gemini CLI v0.67.0-nightly.20261028 out",
+      "GitHub Copilot CLI v1.0.105 released",
+      "OpenCode sees 10 new PRs today",
+      "Pi tool gains modularity focus"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.4 fixes auth in automations",
+      "Critical memory leaks found in OpenClaw",
+      "Hermes Agent now supports role-based workflows",
+      "IronClaw adds cross-agent collaboration",
+      "QwenPaw gains multimodal reasoning",
+      "ZeroClaw introduces self-hosted agents"
+    ],
+    "ai-infra": [
+      "vLLM faces stability pressure post-release",
+      "SGLang pushes PD disaggregation",
+      "llama.cpp adds new CLI flag",
+      "Ollama v0.40.12-rc1 in testing",
+      "LiteLLM secures 4 new releases",
+      "LiquidAI’s LFM3 series launches"
+    ],
+    "ai-trending": [
+      "openbot hits +777 stars today",
+      "superpowers gains 617 new stars",
+      "ECC surges with 1,165 daily stars",
+      "nanobot grows on Python AI scene",
+      "DeepTutor redefines AI tutoring",
+      "Vibe-Trading builds finance agents"
+    ],
+    "ai-web": [
+      "Anthropic files S-1 for IPO",
+      "GSA gets 40% Claude discount",
+      "Claude used in drug discovery",
+      "Claude aids cybersecurity research",
+      "OpenAI hints at Oracle Apps in ChatGPT",
+      "Federal agencies gain wide access"
+    ],
+    "ai-hn": [
+      "Exponential Time Hypothesis challenged",
+      "AI reports breakthrough math discoveries",
+      "Finite Simple Groups formalized in Lean",
+      "Amazon cuts AI division amid layoffs",
+      "Predictive policing raises ethics alarms",
+      "Community debates AI's real impact"
+    ],
+    "ai-arxiv": [
+      "DCKV compresses KV cache via coding",
+      "Self-keyed memorization enables recall",
+      "Select-TTT enables fast weight updates",
+      "Agent teams scale with new frameworks",
+      "Multimodal perception advances rapidly",
+      "Symbolic reasoning improves grounding"
+    ],
+    "ai-community": [
+      "AI said 'fixed' but tests failed",
+      "Plugin blocks 'done' without tests",
+      "Last 10% of app takes weeks to build",
+      "Self-hosting LLMs for compliance",
+      "Prompt injection risks rise",
+      "Turing-complete malware detected"
+    ]
+  }
+}
