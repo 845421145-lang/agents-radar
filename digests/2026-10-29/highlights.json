@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code今日引爆10个热门议题",
+      "OpenAI Codex发布3个测试版",
+      "Gemini CLI 24小时内迎来10项关键代码提交",
+      "GitHub Copilot CLI活跃于10个问题中",
+      "Pi工具在命令行领域崭露头角",
+      "Qwen Code上线新GitHub集成"
+    ],
+    "ai-agents": [
+      "OpenClaw修复PR #186446中的卡顿回复",
+      "Hermes Agent在智能体工作流中加速推进",
+      "IronClaw开发者参与度显著提升",
+      "QwenPaw扩展多智能体支持",
+      "ZeroClaw增强会话持久性",
+      "OpenClaw v2026.10.10-beta.4正式发布"
+    ],
+    "ai-infra": [
+      "llama.cpp发布优化版v0.8.0",
+      "Ollama推出稳定版v0.40.13-rc1",
+      "LiteLLM更新至v1.109.0-dev.1",
+      "vLLM今日合并18个代码提交",
+      "SGLang解决74个开放问题",
+      "Unsloth提升模型量化性能"
+    ],
+    "ai-trending": [
+      "DeepTutor星数激增+2,371",
+      "NanoBot GitHub星数达49.6K",
+      "ECC在JS生态中增长超1K星",
+      "Rea TypeScript项目星数破402K",
+      "Graphify引领RAG知识图谱",
+      "JetBrains/thinkrail激发AI开发体验关注"
+    ],
+    "ai-web": [
+      "Anthropic携手20所全球科研机构",
+      "Claude发现新型类CRISPR酶系统",
+      "Anthropic发布3篇科学论文",
+      "OpenAI拓展ServiceNow合作",
+      "Anthropic内部红队模型部署",
+      "AI加速药物研发研究"
+    ],
+    "ai-hn": [
+      "Gemini 4 Carbon引发绿色洗白争议",
+      "GPT-6.1 Terra加剧AI环保担忧",
+      "NYT AI烹饪应用遭抵制",
+      "ChatGPT建议危险用药续服",
+      "Anthropic被指训练数据盗用",
+      "AI高管遭批脱离用户实际"
+    ],
+    "ai-arxiv": [
+      "安全头部防御提示注入攻击",
+      "正交引导实现可解释的LLM控制",
+      "多状态线性注意力提升效率",
+      "睡眠框架支持持续学习",
+      "大模型能否发现隐藏物理定律？",
+      "ThinkWorld探索世界模型推理"
+    ],
+    "ai-community": [
+      "AI开发80%是系统，非提示",
+      "令牌优化关乎成本节约",
+      "Mercury 3实现实时人机协作",
+      "本地与API LLM之争升温",
+      "提示已非核心挑战",
+      "基准测试可靠性受质疑"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code hits 10 hot issues today",
+      "OpenAI Codex releases 3 alpha versions",
+      "Gemini CLI sees 10 key PRs in 24h",
+      "GitHub Copilot CLI active with 10 issues",
+      "Pi tool gains traction in CLI space",
+      "Qwen Code launches new GitHub integration"
+    ],
+    "ai-agents": [
+      "OpenClaw fixes stalled replies in PR #186446",
+      "Hermes Agent gains momentum in agent workflows",
+      "IronClaw sees spike in developer engagement",
+      "QwenPaw expands multi-agent support",
+      "ZeroClaw enhances session persistence",
+      "OpenClaw's v2026.10.10-beta.4 now available"
+    ],
+    "ai-infra": [
+      "llama.cpp releases v0.8.0 with optimizations",
+      "Ollama rolls out v0.40.13-rc1 for stability",
+      "LiteLLM updates to v1.109.0-dev.1",
+      "vLLM sees 18 PRs merged today",
+      "SGLang addresses 74 open issues",
+      "Unsloth improves model quantization performance"
+    ],
+    "ai-trending": [
+      "DeepTutor surges with +2,371 stars",
+      "NanoBot hits 49.6K stars on GitHub",
+      "ECC gains 1K+ stars in JS ecosystem",
+      "Rea reaches 402K stars in TypeScript",
+      "Graphify leads RAG knowledge graphing",
+      "JetBrains/thinkrail boosts AI DX interest"
+    ],
+    "ai-web": [
+      "Anthropic partners with 20 global research institutions",
+      "Claude discovers novel CRISPR-like enzyme system",
+      "Anthropic releases 3 AI for Science papers",
+      "OpenAI expands ServiceNow partnership",
+      "Internal red teaming models deployed at Anthropic",
+      "AI accelerates drug discovery research"
+    ],
+    "ai-hn": [
+      "Gemini 4 Carbon sparks greenwashing debate",
+      "GPT-6.1 Terra fuels AI environmental concerns",
+      "NYT AI cooking app draws backlash",
+      "ChatGPT advises dangerous medication continuation",
+      "Anthropic faces piracy allegations over training data",
+      "AI execs criticized as out of touch with users"
+    ],
+    "ai-arxiv": [
+      "Heads of Security blocks prompt injection attacks",
+      "Orthogonal steering enables interpretable LLM control",
+      "Multi-State Linear Attention boosts efficiency",
+      "Sleep Framework enables continual learning",
+      "Can LLMs discover hidden physical laws?",
+      "ThinkWorld explores world model reasoning"
+    ],
+    "ai-community": [
+      "AI dev is 80% systems, not prompting",
+      "Token optimization critical for cost savings",
+      "Mercury 3 enables real-time human-AI collaboration",
+      "Local vs API LLMs debate heats up",
+      "Prompting no longer the main AI challenge",
+      "Benchmarks face scrutiny over reliability"
+    ]
+  }
+}
