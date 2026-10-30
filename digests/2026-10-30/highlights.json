@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.314 发布安全修复版",
+      "OpenAI Codex rust-v0.166.0 提升稳定性",
+      "Gemini CLI 夜间版 v0.67.0 修复关键漏洞",
+      "GitHub Copilot CLI 无新版本发布",
+      "Pi 工具在智能体工作流中崭露头角",
+      "Qwen Code 现支持多文件生成"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.9 修复 fast-uri、Zod、nodemailer 问题",
+      "v2026.9.36 适用于生产环境的长期支持版",
+      "智能体状态生命周期问题仍存在",
+      "最新 OpenClaw 版本强化安全",
+      "Hermes Agent 在研究领域应用增多",
+      "IronClaw 扩展实时智能体模型支持"
+    ],
+    "ai-infra": [
+      "vLLM v0.33.0 待发布且无破坏性变更",
+      "SGLang 尽管提交了补丁仍存在 CI 不稳",
+      "llama.cpp b11998 最新版稳定",
+      "Ollama 存在音频路径不稳定问题",
+      "LiteLLM v1.108.0-rc.1 支持签名镜像",
+      "Unsloth 合并配置破坏性补丁"
+    ],
+    "ai-trending": [
+      "rea 反向工程获 40.8 万星标",
+      "ECC 成为智能体集成标准",
+      "DeepTutor 今日新增 1,930 星标",
+      "CopilotKit/OpenBot 推动智能体部署",
+      "RAGflow 与 langgraph 在企业中增长",
+      "Claude-mem 引领持久记忆趋势"
+    ],
+    "ai-web": [
+      "Anthropic 推出管理型智能体及稳定接口",
+      "GSA 合作伙伴享 Claude 工具 40% 折扣",
+      "AI for Science 扩展至 20 个全球机构",
+      "OpenAI 更新模型规格—即将变化？",
+      "两个相同网址暗示对齐披露",
+      "企业智能体部署优先级提升"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 开源权重发布受赞",
+      "Gemini 4 Carbon 登顶 AI 指数榜首",
+      "Sleep Framework 实现持续 LLM 学习",
+      "Claude Duet 激发智能体群组热潮",
+      "五角大楼事件引发 AI 安全讨论",
+      "社区关注 GPU 调度审查"
+    ],
+    "ai-arxiv": [
+      "Keepace.ai：基于 Qwen3.5 的健康指导大模型",
+      "Rubricon 无标签自动生成评分标准",
+      "IFAAB 论文探讨南半球 AI 偏见",
+      "差异清洗揭示临床偏见风险",
+      "GAAC 提升高效大模型推理性能",
+      "FACTS-MAS 有效扩展智能体架构"
+    ],
+    "ai-community": [
+      "日志文件可借提示注入劫持 AI",
+      "AI 摘要无法替代人工安全审查",
+      "Qwenputer：Qwen3.5 内嵌 RISC-V CPU",
+      "欧盟政策引发数据征用担忧",
+      "人类创造力仍远超大模型",
+      "过度依赖 AI 导致自动化疲劳"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.314 released with security fixes",
+      "OpenAI Codex rust-v0.166.0 out for stability",
+      "Gemini CLI nightly v0.67.0 addresses critical bugs",
+      "GitHub Copilot CLI has no new release",
+      "Pi tool gains traction in agent workflows",
+      "Qwen Code now supports multi-file generation"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.9 patches fast-uri, Zod, nodemailer",
+      "v2026.9.36 is LTS-equivalent for production use",
+      "Agent state lifecycle bugs still persist",
+      "Security hardening in latest OpenClaw releases",
+      "Hermes Agent sees rising adoption in research",
+      "IronClaw expands model support in real-time agents"
+    ],
+    "ai-infra": [
+      "vLLM v0.33.0 pending with no breaking changes",
+      "SGLang faces CI instability despite PRs",
+      "llama.cpp b11998 latest build stable",
+      "Ollama has audio path stability issues",
+      "LiteLLM v1.108.0-rc.1 with signed images",
+      "Unsloth config-breaking PRs merged"
+    ],
+    "ai-trending": [
+      "rea hits 408K stars for AI reverse engineering",
+      "ECC becomes agent harness standard",
+      "DeepTutor trends with 1,930 new stars today",
+      "CopilotKit/OpenBot drives agent deployment",
+      "RAGflow and langgraph grow in enterprise use",
+      "Claude-mem leads persistent memory trend"
+    ],
+    "ai-web": [
+      "Anthropic launches managed agents with stable interfaces",
+      "GSA partners get 40% discount on Claude tools",
+      "AI for Science expands to 20 global institutions",
+      "OpenAI updates model spec—upcoming changes?",
+      "Two identical URLs hint at misalignment disclosure",
+      "Enterprise agent deployment now prioritized"
+    ],
+    "ai-hn": [
+      "Mistral Large 4 open-weight release celebrated",
+      "Gemini 4 Carbon ranks #1 on AI Index",
+      "Sleep Framework enables continual LLM learning",
+      "Claude Duet sparks agent swarm excitement",
+      "Pentagon breach fuels AI safety debate",
+      "GPU scheduling scrutiny grows in community"
+    ],
+    "ai-arxiv": [
+      "Keepace.ai: Qwen3.5-based health guidance LLM",
+      "Rubricon automates rubric generation without labels",
+      "IFAAB paper tackles bias in Global South AI",
+      "Disparity Laundering exposes clinical bias risks",
+      "GAAC boosts efficient LLM inference performance",
+      "FACTS-MAS scales agent architectures effectively"
+    ],
+    "ai-community": [
+      "Log files can hijack AI via prompt injection",
+      "AI summaries can't replace human security review",
+      "Qwenputer: RISC-V CPU inside Qwen3.5",
+      "EU policy raises data expropriation concerns",
+      "Human creativity still unmatched by LLMs",
+      "Over-reliance on AI causes automation fatigue"
+    ]
+  }
+}
