@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.316 版本发布",
+      "OpenAI Codex PR 24小时内激增10个",
+      "Gemini CLI 夜间更新上线",
+      "GitHub Copilot CLI 无新版本",
+      "Pi 工具在开发社区受关注",
+      "Qwen Code 现支持代理工作流"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.5 发布",
+      "Node.js 修复 OpenClaw 用户问题",
+      "Windows 稳定性在测试版提升",
+      "Copilot 数据恢复已修复",
+      "CI 运行器加速优化",
+      "新增欧洲葡萄牙语支持"
+    ],
+    "ai-infra": [
+      "vLLM RC 存在18个关键问题待处理",
+      "SGLang 7天内合并9个PR",
+      "llama.cpp 引入破坏性变更",
+      "Ollama 仍无新版本发布",
+      "LiteLLM 存在10个高优先级问题",
+      "Unsloth 新增 CPU 微调支持"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem 星标突破2000",
+      "HKUDS/DeepTutor 星标增长超2000",
+      "morluto/rea 人气飙升",
+      "affaan-m/ECC 增长强劲",
+      "infiniflow/ragflow 提升RAG工具",
+      "Graphify-Labs 推出 graphify"
+    ],
+    "ai-web": [
+      "Anthropic 推出托管代理",
+      "Claude 发现零点击漏洞",
+      "OpenAI 发布三个索引页",
+      "托管代理使用稳定接口",
+      "安全研究凸显AI风险",
+      "公平使用政策即将出台"
+    ],
+    "ai-hn": [
+      "Claude Code 扩展泄露事件曝光",
+      "华尔街警告AI泡沫风险",
+      "Mistral Large 4 开源",
+      "Google Sleep 框架发布",
+      "Gemini 4 Carbon 宣布",
+      "Zombie Stats 揭露虚假宣称"
+    ],
+    "ai-arxiv": [
+      "解析大模型数据归属论文",
+      "ShallowDefend 揭露安全缺陷",
+      "多语言安全训练扩展",
+      "持续去学习技术进展",
+      "隐私保护推理突破",
+      "可验证AI代理用于科学"
+    ],
+    "ai-community": [
+      "Hacktoberfest AI挑战启动",
+      "Ofrenda：AI纪念祭坛上线",
+      "MoE卸载并非总是更快",
+      "早期贡献者参与有效",
+      "成本敏感型AI设计受关注",
+      "AI工具供应链风险被强调"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.316 released",
+      "OpenAI Codex PRs surged 10 in 24h",
+      "Gemini CLI nightly update live",
+      "GitHub Copilot CLI no release",
+      "Pi tool gains traction in dev community",
+      "Qwen Code now supports agent workflows"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.10.10-beta.5 out",
+      "Node.js fix for OpenClaw users",
+      "Windows stability improved in beta",
+      "Copilot data recovery fixed",
+      "CI runners optimized for speed",
+      "New European Portuguese support added"
+    ],
+    "ai-infra": [
+      "vLLM RC pending with 18 critical issues",
+      "SGLang sees 9 PRs merged in 7 days",
+      "llama.cpp prepends breaking changes",
+      "Ollama still no new release",
+      "LiteLLM has 10 high-priority issues",
+      "Unsloth adds CPU fine-tuning support"
+    ],
+    "ai-trending": [
+      "thedotmack/claude-mem hits 2k+ stars",
+      "HKUDS/DeepTutor gains 2k+ stars",
+      "morluto/rea surges in popularity",
+      "affaan-m/ECC shows strong growth",
+      "infiniflow/ragflow boosts RAG tools",
+      "Graphify-Labs launches graphify"
+    ],
+    "ai-web": [
+      "Anthropic unveils Managed Agents",
+      "Claude finds zero-click exploits",
+      "OpenAI posts three index pages",
+      "Managed Agents use stable interfaces",
+      "Security research highlights AI risks",
+      "Fair use policy likely imminent"
+    ],
+    "ai-hn": [
+      "Claude Code extension breach exposed",
+      "Wall Street warns of AI bubble",
+      "Mistral Large 4 open-sourced",
+      "Google's Sleep Framework launched",
+      "Gemini 4 Carbon announced",
+      "Zombie Stats exposes dubious claims"
+    ],
+    "ai-arxiv": [
+      "Elucidating LM Data Attribution paper",
+      "ShallowDefend exposes safety flaws",
+      "Multilingual safety training scaled",
+      "Continual unlearning advances",
+      "Privacy-preserving inference breakthrough",
+      "Verifiable AI agents for science"
+    ],
+    "ai-community": [
+      "Hacktoberfest AI challenge kicks off",
+      "Ofrenda: AI memorial altar launched",
+      "MoE offloading not always faster",
+      "Early contributor engagement works",
+      "Cost-aware AI design gaining traction",
+      "Supply chain risks in AI tools highlighted"
+    ]
+  }
+}
